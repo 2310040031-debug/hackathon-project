@@ -1,0 +1,1921 @@
+facility,category,temperature,gas_ppm,noise_db,radiation,heart_rate,fatigue,hour
+Distillation Column,Petrochemical,92.0,198.6,71.5,0.1139,95.7,12.5,0.0
+Distillation Column,Petrochemical,92.0,203.2,73.4,0.099,95.7,12.6,0.08
+Distillation Column,Petrochemical,92.0,203.5,72.4,0.099,97.6,5.0,0.15
+Distillation Column,Petrochemical,92.0,209.8,70.8,0.1067,99.4,10.6,0.22
+Distillation Column,Petrochemical,92.0,209.3,74.6,0.1072,97.8,12.1,0.3
+Distillation Column,Petrochemical,92.0,202.7,72.4,0.1089,99.4,13.7,0.38
+Distillation Column,Petrochemical,92.0,207.9,74.4,0.1037,100.3,12.2,0.45
+Distillation Column,Petrochemical,92.0,205.4,74.6,0.1031,102.4,11.0,0.52
+Distillation Column,Petrochemical,92.0,203.0,75.3,0.1016,99.8,18.5,0.6
+Distillation Column,Petrochemical,92.0,200.5,71.4,0.1079,100.3,13.6,0.68
+Distillation Column,Petrochemical,92.0,200.4,76.1,0.1078,100.7,14.9,0.75
+Distillation Column,Petrochemical,92.0,188.8,75.2,0.1156,102.4,14.4,0.83
+Distillation Column,Petrochemical,92.0,185.1,74.4,0.1041,102.5,14.0,0.9
+Distillation Column,Petrochemical,92.0,181.7,74.8,0.115,94.5,14.3,0.98
+Distillation Column,Petrochemical,92.0,173.0,74.9,0.1118,98.7,10.9,1.05
+Distillation Column,Petrochemical,92.0,165.7,75.8,0.1143,98.1,12.0,1.12
+Distillation Column,Petrochemical,92.0,159.7,76.1,0.1037,101.9,11.1,1.2
+Distillation Column,Petrochemical,92.0,146.4,75.1,0.1084,100.6,12.5,1.27
+Distillation Column,Petrochemical,92.0,134.2,75.3,0.1091,98.2,12.0,1.35
+Distillation Column,Petrochemical,92.0,127.5,76.3,0.113,103.6,14.9,1.42
+Distillation Column,Petrochemical,92.0,116.6,74.7,0.1062,97.5,11.0,1.5
+Distillation Column,Petrochemical,92.0,110.7,76.7,0.1117,98.0,9.7,1.58
+Distillation Column,Petrochemical,92.0,98.0,76.6,0.1148,100.6,13.3,1.65
+Distillation Column,Petrochemical,92.0,85.1,77.8,0.1041,100.5,14.2,1.72
+Distillation Column,Petrochemical,92.0,78.9,75.7,0.1022,101.1,13.2,1.8
+Distillation Column,Petrochemical,92.0,65.0,76.4,0.11,98.5,8.4,1.88
+Distillation Column,Petrochemical,92.0,54.1,77.8,0.112,97.8,11.9,1.95
+Distillation Column,Petrochemical,92.0,43.7,78.2,0.1131,104.8,10.5,2.03
+Distillation Column,Petrochemical,92.0,39.9,77.6,0.126,102.0,7.7,2.1
+Distillation Column,Petrochemical,92.0,27.8,78.4,0.122,98.6,15.2,2.17
+Distillation Column,Petrochemical,92.0,15.9,75.6,0.1144,98.5,11.1,2.25
+Distillation Column,Petrochemical,92.0,6.6,75.8,0.1188,101.6,13.8,2.33
+Distillation Column,Petrochemical,92.0,0.0,80.5,0.1153,101.7,10.3,2.4
+Distillation Column,Petrochemical,92.0,0.0,78.6,0.1186,101.1,11.4,2.47
+Distillation Column,Petrochemical,92.0,0.0,76.6,0.1149,100.4,10.8,2.55
+Distillation Column,Petrochemical,92.0,0.0,76.0,0.1114,101.3,7.1,2.62
+Distillation Column,Petrochemical,92.0,0.0,77.8,0.1032,100.1,12.6,2.7
+Distillation Column,Petrochemical,92.0,0.0,77.6,0.1096,98.9,10.5,2.78
+Distillation Column,Petrochemical,92.0,0.0,76.0,0.1166,98.6,15.5,2.85
+Distillation Column,Petrochemical,92.0,0.0,77.2,0.1127,98.3,12.8,2.92
+Distillation Column,Petrochemical,92.0,0.0,76.8,0.1107,95.8,9.7,3.0
+Distillation Column,Petrochemical,92.0,0.0,76.3,0.1149,100.4,13.3,3.07
+Distillation Column,Petrochemical,92.0,0.0,80.7,0.1114,98.5,11.2,3.15
+Distillation Column,Petrochemical,92.0,0.0,76.6,0.106,101.1,10.6,3.22
+Distillation Column,Petrochemical,92.0,0.0,77.8,0.1014,100.5,9.7,3.3
+Distillation Column,Petrochemical,92.0,0.0,76.5,0.1085,103.7,10.1,3.38
+Distillation Column,Petrochemical,92.0,0.0,77.6,0.112,102.2,13.4,3.45
+Distillation Column,Petrochemical,92.0,0.0,80.1,0.1124,103.1,13.6,3.53
+Distillation Column,Petrochemical,92.0,0.0,79.4,0.1079,102.1,11.1,3.6
+Distillation Column,Petrochemical,92.0,0.0,75.4,0.117,98.4,15.3,3.68
+Distillation Column,Petrochemical,92.0,0.0,75.7,0.1176,101.9,15.5,3.75
+Distillation Column,Petrochemical,92.0,0.0,74.8,0.1107,100.1,11.3,3.82
+Distillation Column,Petrochemical,92.0,0.0,77.0,0.114,99.5,12.2,3.9
+Distillation Column,Petrochemical,92.0,0.0,75.6,0.1133,99.0,14.6,3.97
+Distillation Column,Petrochemical,92.0,0.0,74.9,0.1145,104.4,14.3,4.05
+Distillation Column,Petrochemical,92.0,0.0,75.2,0.1124,95.3,14.2,4.12
+Distillation Column,Petrochemical,92.0,0.0,77.7,0.1114,100.9,16.1,4.2
+Distillation Column,Petrochemical,92.0,0.0,76.7,0.1128,100.1,11.1,4.28
+Distillation Column,Petrochemical,92.0,6.4,72.7,0.113,96.9,14.3,4.35
+Distillation Column,Petrochemical,92.0,13.9,75.0,0.105,98.3,13.4,4.43
+Distillation Column,Petrochemical,92.0,25.0,75.1,0.1055,99.4,13.8,4.5
+Distillation Column,Petrochemical,92.0,37.0,77.9,0.1124,100.1,14.4,4.57
+Distillation Column,Petrochemical,92.0,48.1,77.0,0.1108,99.2,17.4,4.65
+Distillation Column,Petrochemical,92.0,60.7,76.4,0.111,100.3,13.8,4.72
+Distillation Column,Petrochemical,92.0,70.2,75.0,0.1073,101.4,17.1,4.8
+Distillation Column,Petrochemical,92.0,80.2,74.1,0.1152,98.0,20.2,4.88
+Distillation Column,Petrochemical,92.0,87.3,73.2,0.1127,98.4,18.1,4.95
+Distillation Column,Petrochemical,92.0,105.9,76.3,0.1067,101.7,18.1,5.03
+Distillation Column,Petrochemical,92.0,105.1,77.0,0.0976,100.8,16.1,5.1
+Distillation Column,Petrochemical,92.0,115.1,76.6,0.103,96.5,21.8,5.18
+Distillation Column,Petrochemical,92.0,129.8,75.7,0.104,95.8,17.0,5.25
+Distillation Column,Petrochemical,92.0,134.1,76.0,0.1037,98.7,17.6,5.32
+Distillation Column,Petrochemical,92.0,144.9,76.9,0.1081,101.6,18.0,5.4
+Distillation Column,Petrochemical,92.0,156.6,73.9,0.1072,99.6,20.3,5.47
+Distillation Column,Petrochemical,92.0,171.4,73.7,0.1122,99.0,19.4,5.55
+Distillation Column,Petrochemical,92.0,172.3,75.8,0.1012,97.2,22.7,5.62
+Distillation Column,Petrochemical,92.0,179.3,73.2,0.1062,99.6,18.9,5.7
+Distillation Column,Petrochemical,92.0,185.1,73.0,0.0963,98.1,20.4,5.78
+Distillation Column,Petrochemical,92.0,189.7,76.1,0.1048,98.6,23.8,5.85
+Distillation Column,Petrochemical,92.0,197.6,72.0,0.1028,101.2,23.5,5.93
+Distillation Column,Petrochemical,92.0,203.8,73.1,0.102,94.3,23.0,6.0
+Distillation Column,Petrochemical,92.0,205.4,70.4,0.1072,100.8,23.7,6.07
+Distillation Column,Petrochemical,92.0,200.8,69.2,0.1017,100.4,20.7,6.15
+Distillation Column,Petrochemical,92.0,204.6,71.8,0.0997,103.2,23.4,6.23
+Distillation Column,Petrochemical,88.4,205.0,70.4,0.0937,97.2,21.0,6.3
+Distillation Column,Petrochemical,83.5,204.5,69.6,0.1041,99.1,24.1,6.38
+Distillation Column,Petrochemical,79.4,207.0,72.9,0.1065,99.9,24.3,6.45
+Distillation Column,Petrochemical,74.5,203.1,72.1,0.1054,96.2,22.0,6.52
+Distillation Column,Petrochemical,70.4,197.8,69.5,0.1036,99.2,22.3,6.6
+Distillation Column,Petrochemical,64.2,195.2,67.8,0.0989,100.4,23.0,6.68
+Distillation Column,Petrochemical,63.2,192.3,68.0,0.0995,96.5,24.7,6.75
+Distillation Column,Petrochemical,59.7,187.5,71.3,0.0972,98.1,26.3,6.82
+Distillation Column,Petrochemical,51.1,179.3,72.6,0.0962,95.0,27.1,6.9
+Distillation Column,Petrochemical,51.2,177.5,71.0,0.0958,100.1,23.7,6.98
+Distillation Column,Petrochemical,45.7,162.1,68.8,0.0944,96.5,23.4,7.05
+Distillation Column,Petrochemical,40.4,161.0,69.1,0.1039,96.8,24.1,7.12
+Distillation Column,Petrochemical,38.8,155.2,69.2,0.097,96.0,20.6,7.2
+Distillation Column,Petrochemical,35.6,140.6,69.6,0.0994,93.6,25.9,7.27
+Distillation Column,Petrochemical,31.1,132.1,69.6,0.0894,96.1,21.7,7.35
+Distillation Column,Petrochemical,29.0,124.1,69.2,0.0916,93.7,22.9,7.43
+Distillation Column,Petrochemical,25.4,115.1,67.7,0.0879,97.4,22.3,7.5
+Distillation Column,Petrochemical,21.9,105.7,71.0,0.1008,97.5,22.3,7.57
+Distillation Column,Petrochemical,18.9,94.1,69.7,0.0962,98.2,20.6,7.65
+Distillation Column,Petrochemical,18.0,83.2,68.9,0.1001,98.2,21.6,7.73
+Distillation Column,Petrochemical,18.0,70.7,70.8,0.1,93.7,22.4,7.8
+Distillation Column,Petrochemical,18.0,62.8,69.2,0.0946,95.9,22.9,7.88
+Distillation Column,Petrochemical,18.0,47.8,69.6,0.0897,97.6,19.9,7.95
+Distillation Column,Petrochemical,18.0,39.6,68.1,0.0982,95.8,23.6,8.02
+Distillation Column,Petrochemical,18.0,33.3,69.1,0.1037,102.2,23.3,8.1
+Distillation Column,Petrochemical,18.0,17.1,67.9,0.0994,94.5,18.5,8.18
+Distillation Column,Petrochemical,18.0,12.1,67.5,0.1029,93.2,23.4,8.25
+Distillation Column,Petrochemical,18.0,6.3,67.2,0.0936,96.6,23.7,8.32
+Distillation Column,Petrochemical,18.0,0.0,68.5,0.0998,99.8,23.3,8.4
+Distillation Column,Petrochemical,18.0,0.0,67.2,0.095,98.1,25.2,8.48
+Distillation Column,Petrochemical,18.0,0.0,68.0,0.0787,97.9,19.0,8.55
+Distillation Column,Petrochemical,18.0,0.0,70.3,0.0883,95.0,22.0,8.62
+Distillation Column,Petrochemical,18.0,0.0,67.0,0.096,95.5,22.8,8.7
+Distillation Column,Petrochemical,18.0,0.0,65.3,0.1029,97.2,21.9,8.77
+Distillation Column,Petrochemical,18.0,0.0,67.4,0.0913,96.0,19.8,8.85
+Distillation Column,Petrochemical,18.0,0.0,68.7,0.0953,90.9,22.4,8.93
+Distillation Column,Petrochemical,18.0,0.0,65.4,0.0932,95.1,22.1,9.0
+Distillation Column,Petrochemical,18.0,0.0,67.5,0.0921,98.7,22.6,9.07
+Distillation Column,Petrochemical,18.0,0.0,67.1,0.0979,94.4,24.2,9.15
+Distillation Column,Petrochemical,18.0,0.0,69.4,0.0939,96.5,25.7,9.23
+Distillation Column,Petrochemical,18.0,0.0,67.2,0.0959,97.9,22.9,9.3
+Distillation Column,Petrochemical,18.0,0.0,68.3,0.0881,95.1,20.8,9.38
+Distillation Column,Petrochemical,18.0,0.0,65.4,0.0885,98.2,21.4,9.45
+Distillation Column,Petrochemical,18.0,0.0,66.8,0.0941,94.8,24.7,9.52
+Distillation Column,Petrochemical,18.0,0.0,68.1,0.0979,95.2,27.6,9.6
+Distillation Column,Petrochemical,18.0,0.0,65.6,0.0975,98.7,21.9,9.68
+Distillation Column,Petrochemical,18.0,0.0,71.5,0.0947,97.9,22.6,9.75
+Distillation Column,Petrochemical,18.0,0.0,69.3,0.0959,101.6,22.9,9.82
+Distillation Column,Petrochemical,18.0,0.0,69.6,0.0929,97.6,23.2,9.9
+Distillation Column,Petrochemical,18.0,0.0,68.6,0.0935,96.1,24.1,9.98
+Distillation Column,Petrochemical,18.0,0.0,68.4,0.0995,93.9,22.8,10.05
+Distillation Column,Petrochemical,18.0,0.0,64.8,0.0998,94.6,23.6,10.12
+Distillation Column,Petrochemical,18.0,0.0,66.9,0.0961,97.7,20.3,10.2
+Distillation Column,Petrochemical,21.7,0.0,68.2,0.0976,99.4,25.4,10.27
+Distillation Column,Petrochemical,25.1,11.3,68.1,0.1052,100.1,25.8,10.35
+Distillation Column,Petrochemical,28.4,18.6,68.3,0.1021,98.8,26.3,10.43
+Distillation Column,Petrochemical,28.9,32.4,69.3,0.0916,96.3,27.4,10.5
+Distillation Column,Petrochemical,34.8,41.6,67.4,0.1037,97.9,27.3,10.57
+Distillation Column,Petrochemical,38.2,53.5,68.6,0.094,98.2,25.0,10.65
+Distillation Column,Petrochemical,41.8,66.1,71.7,0.0942,98.7,29.2,10.73
+Distillation Column,Petrochemical,43.1,73.2,69.2,0.1081,99.4,28.6,10.8
+Distillation Column,Petrochemical,48.1,83.9,71.0,0.0951,95.9,32.0,10.88
+Distillation Column,Petrochemical,51.9,100.4,69.8,0.097,99.8,30.7,10.95
+Distillation Column,Petrochemical,55.2,105.8,71.2,0.0999,95.2,26.1,11.02
+Distillation Column,Petrochemical,60.2,116.7,73.5,0.1025,99.3,29.0,11.1
+Distillation Column,Petrochemical,64.5,124.8,70.6,0.0952,96.4,32.0,11.18
+Distillation Column,Petrochemical,67.9,136.6,69.4,0.0947,99.8,33.5,11.25
+Distillation Column,Petrochemical,72.5,143.4,74.4,0.094,90.7,30.2,11.32
+Distillation Column,Petrochemical,75.4,154.3,72.9,0.0978,96.6,28.2,11.4
+Distillation Column,Petrochemical,81.7,165.3,72.6,0.104,102.3,29.6,11.48
+Distillation Column,Petrochemical,85.9,169.9,73.0,0.0999,100.0,32.5,11.55
+Distillation Column,Petrochemical,91.7,174.9,72.5,0.1017,97.8,33.1,11.62
+Distillation Column,Petrochemical,92.0,183.0,71.6,0.0965,97.8,30.8,11.7
+Distillation Column,Petrochemical,92.0,189.0,70.3,0.1104,100.1,32.1,11.77
+Distillation Column,Petrochemical,92.0,194.7,72.9,0.1022,98.3,31.7,11.85
+Distillation Column,Petrochemical,92.0,193.0,71.2,0.1099,99.4,31.7,11.93
+Catalytic Cracker,Petrochemical,92.0,280.0,74.7,0.2212,121.9,9.4,0.0
+Catalytic Cracker,Petrochemical,92.0,280.0,73.8,0.2112,125.2,11.0,0.08
+Catalytic Cracker,Petrochemical,92.0,280.0,76.1,0.2186,125.6,10.7,0.15
+Catalytic Cracker,Petrochemical,92.0,280.0,75.6,0.2018,125.5,11.8,0.22
+Catalytic Cracker,Petrochemical,92.0,280.0,73.5,0.2249,124.7,11.2,0.3
+Catalytic Cracker,Petrochemical,92.0,280.0,74.2,0.2107,125.0,14.0,0.38
+Catalytic Cracker,Petrochemical,92.0,280.0,74.7,0.2184,122.8,13.7,0.45
+Catalytic Cracker,Petrochemical,92.0,280.0,76.4,0.2236,127.0,16.6,0.52
+Catalytic Cracker,Petrochemical,92.0,280.0,73.5,0.2208,126.8,14.1,0.6
+Catalytic Cracker,Petrochemical,92.0,280.0,75.2,0.2186,123.8,12.1,0.68
+Catalytic Cracker,Petrochemical,92.0,280.0,74.0,0.2256,122.9,17.0,0.75
+Catalytic Cracker,Petrochemical,92.0,280.0,76.3,0.23,123.3,10.3,0.83
+Catalytic Cracker,Petrochemical,92.0,280.0,75.9,0.2218,126.9,15.2,0.9
+Catalytic Cracker,Petrochemical,92.0,280.0,78.1,0.2259,122.4,13.7,0.98
+Catalytic Cracker,Petrochemical,92.0,280.0,76.7,0.2273,126.4,14.1,1.05
+Catalytic Cracker,Petrochemical,92.0,280.0,76.8,0.2181,124.3,13.0,1.12
+Catalytic Cracker,Petrochemical,92.0,280.0,77.1,0.2274,124.5,15.8,1.2
+Catalytic Cracker,Petrochemical,92.0,280.0,77.1,0.2171,122.7,9.0,1.27
+Catalytic Cracker,Petrochemical,92.0,280.0,75.9,0.2299,125.1,15.6,1.35
+Catalytic Cracker,Petrochemical,92.0,280.0,75.6,0.2297,129.3,14.5,1.42
+Catalytic Cracker,Petrochemical,92.0,280.0,77.6,0.2264,126.5,11.3,1.5
+Catalytic Cracker,Petrochemical,92.0,279.2,78.8,0.2316,123.0,13.8,1.58
+Catalytic Cracker,Petrochemical,92.0,253.5,80.1,0.2351,126.2,12.3,1.65
+Catalytic Cracker,Petrochemical,92.0,226.3,76.7,0.2309,122.3,16.2,1.72
+Catalytic Cracker,Petrochemical,92.0,193.3,76.1,0.2343,124.5,15.4,1.8
+Catalytic Cracker,Petrochemical,92.0,161.0,78.4,0.2208,127.1,16.8,1.88
+Catalytic Cracker,Petrochemical,92.0,130.3,78.6,0.2271,127.1,14.4,1.95
+Catalytic Cracker,Petrochemical,92.0,99.6,79.0,0.2345,125.4,11.9,2.03
+Catalytic Cracker,Petrochemical,92.0,71.3,79.7,0.2322,127.7,11.9,2.1
+Catalytic Cracker,Petrochemical,92.0,45.0,76.7,0.23,124.1,15.7,2.17
+Catalytic Cracker,Petrochemical,92.0,12.8,80.4,0.2338,124.7,11.9,2.25
+Catalytic Cracker,Petrochemical,92.0,0.0,76.4,0.2281,127.0,14.1,2.33
+Catalytic Cracker,Petrochemical,92.0,0.0,79.4,0.2329,122.1,16.1,2.4
+Catalytic Cracker,Petrochemical,92.0,0.0,79.7,0.2281,128.3,18.7,2.47
+Catalytic Cracker,Petrochemical,92.0,0.0,81.0,0.2298,127.7,13.4,2.55
+Catalytic Cracker,Petrochemical,92.0,0.0,79.3,0.228,126.1,14.3,2.62
+Catalytic Cracker,Petrochemical,92.0,0.0,79.8,0.2327,126.5,14.1,2.7
+Catalytic Cracker,Petrochemical,92.0,0.0,80.1,0.2262,126.2,11.2,2.78
+Catalytic Cracker,Petrochemical,92.0,0.0,80.0,0.2298,125.2,15.5,2.85
+Catalytic Cracker,Petrochemical,92.0,0.0,75.4,0.229,125.4,12.2,2.92
+Catalytic Cracker,Petrochemical,92.0,0.0,77.6,0.2279,128.7,11.5,3.0
+Catalytic Cracker,Petrochemical,92.0,0.0,77.8,0.227,130.2,13.7,3.07
+Catalytic Cracker,Petrochemical,92.0,0.0,78.0,0.2175,127.3,15.2,3.15
+Catalytic Cracker,Petrochemical,92.0,0.0,78.9,0.226,130.6,11.7,3.22
+Catalytic Cracker,Petrochemical,92.0,0.0,79.7,0.2305,126.2,15.1,3.3
+Catalytic Cracker,Petrochemical,92.0,0.0,79.4,0.2341,127.7,14.8,3.38
+Catalytic Cracker,Petrochemical,92.0,0.0,82.2,0.2323,124.7,15.7,3.45
+Catalytic Cracker,Petrochemical,92.0,0.0,78.4,0.2267,127.3,13.4,3.53
+Catalytic Cracker,Petrochemical,92.0,0.0,80.2,0.2345,125.6,16.9,3.6
+Catalytic Cracker,Petrochemical,92.0,0.0,76.8,0.2292,125.3,15.3,3.68
+Catalytic Cracker,Petrochemical,92.0,0.0,80.9,0.2371,130.5,16.3,3.75
+Catalytic Cracker,Petrochemical,92.0,0.0,79.6,0.2257,126.9,18.3,3.82
+Catalytic Cracker,Petrochemical,92.0,0.0,76.8,0.2371,126.8,17.3,3.9
+Catalytic Cracker,Petrochemical,92.0,0.0,79.1,0.2358,125.6,14.3,3.97
+Catalytic Cracker,Petrochemical,92.0,0.0,79.8,0.2293,125.3,17.2,4.05
+Catalytic Cracker,Petrochemical,92.0,0.0,81.7,0.2266,127.1,21.8,4.12
+Catalytic Cracker,Petrochemical,92.0,0.0,77.0,0.2148,125.6,17.0,4.2
+Catalytic Cracker,Petrochemical,92.0,0.0,75.4,0.2296,128.3,21.6,4.28
+Catalytic Cracker,Petrochemical,92.0,0.0,77.5,0.2213,125.0,17.5,4.35
+Catalytic Cracker,Petrochemical,92.0,15.5,77.5,0.232,124.7,18.1,4.43
+Catalytic Cracker,Petrochemical,92.0,48.3,76.7,0.2209,122.5,22.0,4.5
+Catalytic Cracker,Petrochemical,92.0,76.0,77.6,0.2237,124.0,22.3,4.57
+Catalytic Cracker,Petrochemical,92.0,109.7,79.1,0.2273,125.4,23.0,4.65
+Catalytic Cracker,Petrochemical,92.0,136.4,78.6,0.2254,127.3,22.5,4.72
+Catalytic Cracker,Petrochemical,92.0,165.7,76.9,0.222,127.4,20.9,4.8
+Catalytic Cracker,Petrochemical,92.0,198.2,74.6,0.2263,125.8,24.2,4.88
+Catalytic Cracker,Petrochemical,92.0,223.3,76.0,0.2249,123.2,24.1,4.95
+Catalytic Cracker,Petrochemical,92.0,258.2,76.0,0.2298,123.3,24.8,5.03
+Catalytic Cracker,Petrochemical,92.0,280.0,76.8,0.222,126.1,22.5,5.1
+Catalytic Cracker,Petrochemical,92.0,280.0,77.8,0.2169,124.3,25.6,5.18
+Catalytic Cracker,Petrochemical,92.0,280.0,75.2,0.2202,125.4,22.9,5.25
+Catalytic Cracker,Petrochemical,92.0,280.0,76.1,0.2132,124.9,23.3,5.32
+Catalytic Cracker,Petrochemical,92.0,280.0,78.7,0.2122,124.5,22.0,5.4
+Catalytic Cracker,Petrochemical,92.0,280.0,73.1,0.219,124.6,23.5,5.47
+Catalytic Cracker,Petrochemical,92.0,280.0,75.2,0.2207,123.8,26.8,5.55
+Catalytic Cracker,Petrochemical,92.0,280.0,75.0,0.2248,122.3,29.7,5.62
+Catalytic Cracker,Petrochemical,92.0,280.0,73.1,0.2105,128.0,23.8,5.7
+Catalytic Cracker,Petrochemical,92.0,280.0,72.7,0.2158,121.1,25.8,5.78
+Catalytic Cracker,Petrochemical,92.0,280.0,75.4,0.2135,122.2,28.4,5.85
+Catalytic Cracker,Petrochemical,92.0,280.0,75.5,0.2226,122.6,30.0,5.93
+Catalytic Cracker,Petrochemical,92.0,280.0,75.1,0.2134,124.9,26.3,6.0
+Catalytic Cracker,Petrochemical,92.0,280.0,69.3,0.2161,122.4,27.1,6.07
+Catalytic Cracker,Petrochemical,92.0,280.0,72.3,0.2133,120.6,27.2,6.15
+Catalytic Cracker,Petrochemical,92.0,280.0,74.0,0.2217,123.5,29.8,6.23
+Catalytic Cracker,Petrochemical,92.0,280.0,74.2,0.2028,121.8,30.6,6.3
+Catalytic Cracker,Petrochemical,92.0,280.0,73.0,0.2062,121.3,28.8,6.38
+Catalytic Cracker,Petrochemical,92.0,280.0,73.2,0.2126,120.9,29.4,6.45
+Catalytic Cracker,Petrochemical,92.0,280.0,74.3,0.2138,120.0,32.5,6.52
+Catalytic Cracker,Petrochemical,85.7,280.0,72.4,0.2194,120.4,30.4,6.6
+Catalytic Cracker,Petrochemical,79.3,280.0,70.1,0.2132,122.2,30.1,6.68
+Catalytic Cracker,Petrochemical,70.7,280.0,73.2,0.2059,122.3,32.0,6.75
+Catalytic Cracker,Petrochemical,63.1,280.0,70.1,0.2055,121.6,32.4,6.82
+Catalytic Cracker,Petrochemical,56.6,280.0,73.2,0.2098,125.0,33.6,6.9
+Catalytic Cracker,Petrochemical,48.6,280.0,69.5,0.2119,124.4,30.1,6.98
+Catalytic Cracker,Petrochemical,42.2,280.0,70.5,0.1954,119.6,30.9,7.05
+Catalytic Cracker,Petrochemical,35.6,280.0,72.0,0.1982,121.9,29.3,7.12
+Catalytic Cracker,Petrochemical,28.3,280.0,74.6,0.2059,122.4,33.2,7.2
+Catalytic Cracker,Petrochemical,22.2,280.0,72.6,0.2021,119.9,30.8,7.27
+Catalytic Cracker,Petrochemical,18.0,280.0,72.8,0.2093,120.9,29.5,7.35
+Catalytic Cracker,Petrochemical,18.0,280.0,72.8,0.2003,123.0,31.0,7.43
+Catalytic Cracker,Petrochemical,18.0,280.0,71.0,0.2169,117.4,33.0,7.5
+Catalytic Cracker,Petrochemical,18.0,265.4,68.3,0.217,122.4,29.7,7.57
+Catalytic Cracker,Petrochemical,18.0,240.4,71.9,0.1972,120.4,32.3,7.65
+Catalytic Cracker,Petrochemical,18.0,208.5,69.1,0.2072,117.1,35.0,7.73
+Catalytic Cracker,Petrochemical,18.0,178.9,69.5,0.2049,121.7,31.5,7.8
+Catalytic Cracker,Petrochemical,18.0,146.6,68.7,0.2056,122.1,30.5,7.88
+Catalytic Cracker,Petrochemical,18.0,114.5,68.0,0.2042,121.4,33.2,7.95
+Catalytic Cracker,Petrochemical,18.0,85.6,70.1,0.2019,117.1,39.1,8.02
+Catalytic Cracker,Petrochemical,18.0,51.9,67.5,0.2021,118.3,33.5,8.1
+Catalytic Cracker,Petrochemical,18.0,29.1,68.4,0.1961,119.8,27.0,8.18
+Catalytic Cracker,Petrochemical,18.0,0.3,71.0,0.2095,121.7,32.2,8.25
+Catalytic Cracker,Petrochemical,18.0,0.0,68.4,0.1953,119.9,30.5,8.32
+Catalytic Cracker,Petrochemical,18.0,0.0,71.4,0.2035,120.8,27.9,8.4
+Catalytic Cracker,Petrochemical,18.0,0.0,69.1,0.2045,120.6,28.7,8.48
+Catalytic Cracker,Petrochemical,18.0,0.0,70.7,0.2043,120.1,34.5,8.55
+Catalytic Cracker,Petrochemical,18.0,0.0,70.3,0.1962,119.8,29.5,8.62
+Catalytic Cracker,Petrochemical,18.0,0.0,70.0,0.1972,122.8,32.6,8.7
+Catalytic Cracker,Petrochemical,18.0,0.0,71.9,0.1939,116.3,31.2,8.77
+Catalytic Cracker,Petrochemical,18.0,0.0,70.3,0.2139,118.0,29.6,8.85
+Catalytic Cracker,Petrochemical,18.0,0.0,65.8,0.2024,119.0,31.5,8.93
+Catalytic Cracker,Petrochemical,18.0,0.0,67.7,0.1966,122.8,33.0,9.0
+Catalytic Cracker,Petrochemical,18.0,0.0,69.2,0.2064,121.7,29.9,9.07
+Catalytic Cracker,Petrochemical,18.0,0.0,72.4,0.2057,118.4,30.4,9.15
+Catalytic Cracker,Petrochemical,18.0,0.0,70.8,0.2075,119.3,36.2,9.23
+Catalytic Cracker,Petrochemical,18.0,0.0,69.2,0.1959,121.9,33.6,9.3
+Catalytic Cracker,Petrochemical,18.0,0.0,67.2,0.2104,116.8,34.0,9.38
+Catalytic Cracker,Petrochemical,18.0,0.0,69.3,0.1985,121.1,32.6,9.45
+Catalytic Cracker,Petrochemical,18.0,0.0,68.6,0.1906,120.5,35.2,9.52
+Catalytic Cracker,Petrochemical,18.0,0.0,70.2,0.1963,120.1,33.3,9.6
+Catalytic Cracker,Petrochemical,18.0,0.0,67.4,0.1975,119.1,32.8,9.68
+Catalytic Cracker,Petrochemical,18.0,0.0,67.1,0.2074,121.1,36.7,9.75
+Catalytic Cracker,Petrochemical,18.0,0.0,70.9,0.1994,120.1,33.2,9.82
+Catalytic Cracker,Petrochemical,18.0,0.0,68.8,0.1965,121.0,34.3,9.9
+Catalytic Cracker,Petrochemical,18.0,0.0,69.8,0.2029,122.3,36.1,9.98
+Catalytic Cracker,Petrochemical,18.0,0.0,69.8,0.2003,118.2,34.4,10.05
+Catalytic Cracker,Petrochemical,18.0,0.0,70.1,0.2065,124.2,39.4,10.12
+Catalytic Cracker,Petrochemical,18.0,0.0,69.8,0.1948,121.3,38.4,10.2
+Catalytic Cracker,Petrochemical,18.0,0.0,70.6,0.2066,118.4,35.3,10.27
+Catalytic Cracker,Petrochemical,18.0,6.8,71.7,0.2077,121.0,38.2,10.35
+Catalytic Cracker,Petrochemical,18.0,33.6,70.6,0.2061,121.1,39.6,10.43
+Catalytic Cracker,Petrochemical,18.0,64.2,70.0,0.2007,122.0,34.9,10.5
+Catalytic Cracker,Petrochemical,19.1,90.5,69.5,0.2046,120.1,37.6,10.57
+Catalytic Cracker,Petrochemical,25.4,124.0,71.5,0.2011,120.5,40.2,10.65
+Catalytic Cracker,Petrochemical,30.0,144.2,72.8,0.2077,123.1,38.0,10.73
+Catalytic Cracker,Petrochemical,41.7,174.7,68.4,0.2067,124.7,40.1,10.8
+Catalytic Cracker,Petrochemical,46.6,211.6,73.2,0.2057,123.3,41.6,10.88
+Catalytic Cracker,Petrochemical,53.2,243.8,70.2,0.2092,120.8,40.5,10.95
+Catalytic Cracker,Petrochemical,57.6,270.4,71.4,0.21,117.3,46.6,11.02
+Catalytic Cracker,Petrochemical,66.0,280.0,70.7,0.199,123.6,39.3,11.1
+Catalytic Cracker,Petrochemical,74.3,280.0,71.0,0.218,123.4,43.6,11.18
+Catalytic Cracker,Petrochemical,81.0,280.0,72.5,0.2006,123.9,43.0,11.25
+Catalytic Cracker,Petrochemical,90.0,280.0,73.8,0.2165,120.1,43.2,11.32
+Catalytic Cracker,Petrochemical,92.0,280.0,74.3,0.2168,120.9,43.9,11.4
+Catalytic Cracker,Petrochemical,92.0,280.0,72.8,0.206,122.0,44.2,11.48
+Catalytic Cracker,Petrochemical,92.0,280.0,75.3,0.2022,121.9,44.5,11.55
+Catalytic Cracker,Petrochemical,92.0,280.0,74.3,0.212,125.8,42.2,11.62
+Catalytic Cracker,Petrochemical,92.0,280.0,72.9,0.2166,122.6,45.3,11.7
+Catalytic Cracker,Petrochemical,92.0,280.0,75.0,0.2137,121.6,46.8,11.77
+Catalytic Cracker,Petrochemical,92.0,280.0,73.6,0.2152,123.3,47.9,11.85
+Catalytic Cracker,Petrochemical,92.0,280.0,71.4,0.2164,122.7,46.5,11.93
+Hydrodesulfurization,Petrochemical,92.0,280.0,76.3,0.1678,117.0,7.6,0.0
+Hydrodesulfurization,Petrochemical,92.0,280.0,75.7,0.1613,122.3,10.9,0.08
+Hydrodesulfurization,Petrochemical,92.0,280.0,73.2,0.1691,119.6,10.7,0.15
+Hydrodesulfurization,Petrochemical,92.0,280.0,72.9,0.154,117.9,12.4,0.22
+Hydrodesulfurization,Petrochemical,92.0,280.0,72.7,0.1634,119.0,16.5,0.3
+Hydrodesulfurization,Petrochemical,92.0,280.0,74.7,0.1668,120.2,14.4,0.38
+Hydrodesulfurization,Petrochemical,92.0,280.0,71.8,0.1651,118.2,16.2,0.45
+Hydrodesulfurization,Petrochemical,92.0,280.0,75.6,0.1593,120.1,17.3,0.52
+Hydrodesulfurization,Petrochemical,92.0,280.0,76.3,0.166,121.2,14.2,0.6
+Hydrodesulfurization,Petrochemical,92.0,280.0,75.5,0.1623,118.2,14.1,0.68
+Hydrodesulfurization,Petrochemical,92.0,280.0,75.9,0.1692,119.0,16.1,0.75
+Hydrodesulfurization,Petrochemical,92.0,280.0,75.6,0.1618,118.5,13.1,0.83
+Hydrodesulfurization,Petrochemical,92.0,280.0,74.0,0.1689,118.5,17.1,0.9
+Hydrodesulfurization,Petrochemical,92.0,280.0,77.5,0.1747,121.2,14.2,0.98
+Hydrodesulfurization,Petrochemical,92.0,280.0,77.5,0.1681,120.3,15.2,1.05
+Hydrodesulfurization,Petrochemical,92.0,280.0,75.3,0.1669,120.2,13.5,1.12
+Hydrodesulfurization,Petrochemical,92.0,280.0,74.6,0.1862,119.5,13.2,1.2
+Hydrodesulfurization,Petrochemical,92.0,280.0,77.6,0.1664,119.6,9.3,1.27
+Hydrodesulfurization,Petrochemical,92.0,280.0,76.6,0.181,125.5,15.9,1.35
+Hydrodesulfurization,Petrochemical,92.0,280.0,76.9,0.1673,121.7,14.6,1.42
+Hydrodesulfurization,Petrochemical,92.0,280.0,80.7,0.1691,124.7,16.2,1.5
+Hydrodesulfurization,Petrochemical,92.0,280.0,76.1,0.1677,121.2,13.0,1.58
+Hydrodesulfurization,Petrochemical,92.0,280.0,76.4,0.1687,124.7,14.1,1.65
+Hydrodesulfurization,Petrochemical,92.0,280.0,77.8,0.1746,118.9,12.2,1.72
+Hydrodesulfurization,Petrochemical,92.0,280.0,76.5,0.1724,121.2,13.4,1.8
+Hydrodesulfurization,Petrochemical,92.0,244.5,76.2,0.1729,124.5,11.9,1.88
+Hydrodesulfurization,Petrochemical,92.0,197.7,76.5,0.1639,121.1,13.1,1.95
+Hydrodesulfurization,Petrochemical,92.0,150.8,77.5,0.1782,119.7,12.3,2.03
+Hydrodesulfurization,Petrochemical,92.0,110.0,78.7,0.1712,122.8,12.8,2.1
+Hydrodesulfurization,Petrochemical,92.0,67.4,78.6,0.1763,123.2,15.7,2.17
+Hydrodesulfurization,Petrochemical,92.0,25.9,79.3,0.1781,119.2,15.4,2.25
+Hydrodesulfurization,Petrochemical,92.0,0.0,78.1,0.1808,124.8,11.0,2.33
+Hydrodesulfurization,Petrochemical,92.0,0.0,76.8,0.169,123.0,13.2,2.4
+Hydrodesulfurization,Petrochemical,92.0,0.0,79.6,0.1726,123.5,14.7,2.47
+Hydrodesulfurization,Petrochemical,92.0,0.0,76.7,0.1824,123.3,14.8,2.55
+Hydrodesulfurization,Petrochemical,92.0,0.0,78.3,0.1695,122.8,15.6,2.62
+Hydrodesulfurization,Petrochemical,92.0,0.0,78.8,0.176,124.5,10.9,2.7
+Hydrodesulfurization,Petrochemical,92.0,0.0,78.5,0.1781,121.7,14.7,2.78
+Hydrodesulfurization,Petrochemical,92.0,0.0,78.9,0.1779,124.6,16.9,2.85
+Hydrodesulfurization,Petrochemical,92.0,0.0,79.4,0.1768,122.7,14.4,2.92
+Hydrodesulfurization,Petrochemical,92.0,0.0,80.0,0.1763,127.5,15.1,3.0
+Hydrodesulfurization,Petrochemical,92.0,0.0,79.3,0.1765,124.3,18.3,3.07
+Hydrodesulfurization,Petrochemical,92.0,0.0,80.3,0.1751,120.3,16.0,3.15
+Hydrodesulfurization,Petrochemical,92.0,0.0,80.0,0.1763,123.6,17.0,3.22
+Hydrodesulfurization,Petrochemical,92.0,0.0,78.2,0.177,120.6,17.4,3.3
+Hydrodesulfurization,Petrochemical,92.0,0.0,79.7,0.1689,117.1,13.4,3.38
+Hydrodesulfurization,Petrochemical,92.0,0.0,74.8,0.18,121.9,19.6,3.45
+Hydrodesulfurization,Petrochemical,92.0,0.0,79.0,0.1825,121.9,12.7,3.53
+Hydrodesulfurization,Petrochemical,92.0,0.0,80.8,0.1779,122.4,15.5,3.6
+Hydrodesulfurization,Petrochemical,92.0,0.0,81.4,0.1754,123.0,18.5,3.68
+Hydrodesulfurization,Petrochemical,92.0,0.0,77.3,0.1838,123.5,21.8,3.75
+Hydrodesulfurization,Petrochemical,92.0,0.0,79.5,0.1682,123.9,16.5,3.82
+Hydrodesulfurization,Petrochemical,92.0,0.0,78.2,0.1781,121.7,16.4,3.9
+Hydrodesulfurization,Petrochemical,92.0,0.0,77.9,0.1776,127.4,16.4,3.97
+Hydrodesulfurization,Petrochemical,92.0,0.0,76.8,0.1803,126.6,17.2,4.05
+Hydrodesulfurization,Petrochemical,92.0,0.0,77.8,0.1739,122.3,21.5,4.12
+Hydrodesulfurization,Petrochemical,92.0,0.0,77.8,0.1712,118.6,14.0,4.2
+Hydrodesulfurization,Petrochemical,92.0,0.0,77.8,0.1719,116.9,17.7,4.28
+Hydrodesulfurization,Petrochemical,92.0,0.0,79.8,0.1699,123.1,20.5,4.35
+Hydrodesulfurization,Petrochemical,92.0,28.9,77.7,0.1762,121.2,20.5,4.43
+Hydrodesulfurization,Petrochemical,92.0,67.5,77.0,0.182,118.2,19.1,4.5
+Hydrodesulfurization,Petrochemical,92.0,112.5,76.2,0.1753,118.3,18.5,4.57
+Hydrodesulfurization,Petrochemical,92.0,156.0,76.8,0.1652,122.9,19.3,4.65
+Hydrodesulfurization,Petrochemical,92.0,203.7,77.8,0.1696,122.3,18.5,4.72
+Hydrodesulfurization,Petrochemical,92.0,251.3,78.9,0.1741,122.0,22.2,4.8
+Hydrodesulfurization,Petrochemical,92.0,280.0,78.0,0.1678,122.6,23.8,4.88
+Hydrodesulfurization,Petrochemical,92.0,280.0,75.4,0.1776,120.2,21.5,4.95
+Hydrodesulfurization,Petrochemical,92.0,280.0,76.4,0.1703,122.1,19.0,5.03
+Hydrodesulfurization,Petrochemical,92.0,280.0,74.5,0.1673,121.3,26.7,5.1
+Hydrodesulfurization,Petrochemical,92.0,280.0,77.1,0.1712,123.6,26.2,5.18
+Hydrodesulfurization,Petrochemical,92.0,280.0,73.0,0.1677,123.5,25.1,5.25
+Hydrodesulfurization,Petrochemical,92.0,280.0,77.4,0.1785,118.9,27.6,5.32
+Hydrodesulfurization,Petrochemical,92.0,280.0,76.8,0.1607,122.6,25.1,5.4
+Hydrodesulfurization,Petrochemical,92.0,280.0,74.8,0.1711,120.7,27.3,5.47
+Hydrodesulfurization,Petrochemical,92.0,280.0,75.2,0.1629,116.7,26.1,5.55
+Hydrodesulfurization,Petrochemical,92.0,280.0,74.3,0.1693,120.4,23.1,5.62
+Hydrodesulfurization,Petrochemical,92.0,280.0,75.8,0.158,119.7,29.6,5.7
+Hydrodesulfurization,Petrochemical,92.0,280.0,72.6,0.1607,117.9,29.0,5.78
+Hydrodesulfurization,Petrochemical,92.0,280.0,74.8,0.1776,119.6,27.5,5.85
+Hydrodesulfurization,Petrochemical,92.0,280.0,75.7,0.1613,112.6,30.7,5.93
+Hydrodesulfurization,Petrochemical,92.0,280.0,75.7,0.1652,120.8,27.1,6.0
+Hydrodesulfurization,Petrochemical,92.0,280.0,72.8,0.1701,118.2,31.5,6.07
+Hydrodesulfurization,Petrochemical,92.0,280.0,75.2,0.1655,116.1,29.7,6.15
+Hydrodesulfurization,Petrochemical,92.0,280.0,72.1,0.1647,114.3,27.1,6.23
+Hydrodesulfurization,Petrochemical,92.0,280.0,73.2,0.1622,118.3,37.0,6.3
+Hydrodesulfurization,Petrochemical,92.0,280.0,74.1,0.1651,114.9,32.3,6.38
+Hydrodesulfurization,Petrochemical,86.2,280.0,72.3,0.1646,122.7,31.0,6.45
+Hydrodesulfurization,Petrochemical,79.9,280.0,71.3,0.1487,118.8,30.1,6.52
+Hydrodesulfurization,Petrochemical,72.1,280.0,69.4,0.1471,116.8,31.5,6.6
+Hydrodesulfurization,Petrochemical,66.8,280.0,73.8,0.1548,115.6,28.0,6.68
+Hydrodesulfurization,Petrochemical,58.5,280.0,68.7,0.1522,119.6,28.8,6.75
+Hydrodesulfurization,Petrochemical,53.5,280.0,71.2,0.1546,120.7,32.6,6.82
+Hydrodesulfurization,Petrochemical,47.9,280.0,72.3,0.1613,117.5,29.9,6.9
+Hydrodesulfurization,Petrochemical,43.0,280.0,71.3,0.1532,117.5,32.3,6.98
+Hydrodesulfurization,Petrochemical,34.3,280.0,68.6,0.1539,119.9,29.4,7.05
+Hydrodesulfurization,Petrochemical,28.9,280.0,71.9,0.1459,117.4,32.4,7.12
+Hydrodesulfurization,Petrochemical,24.1,280.0,70.4,0.1464,118.0,31.8,7.2
+Hydrodesulfurization,Petrochemical,20.5,280.0,71.9,0.1458,116.2,31.7,7.27
+Hydrodesulfurization,Petrochemical,18.0,280.0,69.7,0.1523,114.9,31.0,7.35
+Hydrodesulfurization,Petrochemical,18.0,280.0,71.6,0.1465,116.3,32.6,7.43
+Hydrodesulfurization,Petrochemical,18.0,280.0,69.9,0.1463,118.5,30.0,7.5
+Hydrodesulfurization,Petrochemical,18.0,280.0,70.1,0.1441,115.0,33.0,7.57
+Hydrodesulfurization,Petrochemical,18.0,280.0,69.7,0.1486,117.4,29.2,7.65
+Hydrodesulfurization,Petrochemical,18.0,280.0,67.1,0.152,118.7,32.3,7.73
+Hydrodesulfurization,Petrochemical,18.0,265.3,69.0,0.1488,116.7,30.7,7.8
+Hydrodesulfurization,Petrochemical,18.0,219.9,69.9,0.1563,119.5,30.6,7.88
+Hydrodesulfurization,Petrochemical,18.0,181.2,66.7,0.1485,113.5,31.6,7.95
+Hydrodesulfurization,Petrochemical,18.0,129.5,70.0,0.152,115.9,31.1,8.02
+Hydrodesulfurization,Petrochemical,18.0,87.6,69.8,0.1501,115.2,29.8,8.1
+Hydrodesulfurization,Petrochemical,18.0,43.2,71.7,0.1461,114.0,33.1,8.18
+Hydrodesulfurization,Petrochemical,18.0,2.7,67.9,0.1405,115.2,30.2,8.25
+Hydrodesulfurization,Petrochemical,18.0,0.0,69.8,0.1505,113.0,33.6,8.32
+Hydrodesulfurization,Petrochemical,18.0,0.0,65.5,0.1411,119.2,32.9,8.4
+Hydrodesulfurization,Petrochemical,18.0,0.0,68.8,0.1406,113.5,31.4,8.48
+Hydrodesulfurization,Petrochemical,18.0,0.0,67.3,0.1452,116.9,28.9,8.55
+Hydrodesulfurization,Petrochemical,18.0,0.0,71.8,0.1418,113.9,31.0,8.62
+Hydrodesulfurization,Petrochemical,18.0,0.0,69.4,0.1453,112.4,31.4,8.7
+Hydrodesulfurization,Petrochemical,18.0,0.0,69.5,0.1478,112.2,33.9,8.77
+Hydrodesulfurization,Petrochemical,18.0,0.0,68.2,0.1422,115.7,29.8,8.85
+Hydrodesulfurization,Petrochemical,18.0,0.0,68.6,0.1434,114.1,32.8,8.93
+Hydrodesulfurization,Petrochemical,18.0,0.0,70.1,0.1567,113.1,29.4,9.0
+Hydrodesulfurization,Petrochemical,18.0,0.0,67.7,0.1419,115.6,34.7,9.07
+Hydrodesulfurization,Petrochemical,18.0,0.0,69.6,0.1488,113.5,29.0,9.15
+Hydrodesulfurization,Petrochemical,18.0,0.0,67.9,0.1497,115.1,30.8,9.23
+Hydrodesulfurization,Petrochemical,18.0,0.0,68.2,0.146,114.5,33.3,9.3
+Hydrodesulfurization,Petrochemical,18.0,0.0,68.3,0.1417,114.6,36.4,9.38
+Hydrodesulfurization,Petrochemical,18.0,0.0,69.3,0.1407,117.2,33.9,9.45
+Hydrodesulfurization,Petrochemical,18.0,0.0,69.3,0.1454,114.9,31.8,9.52
+Hydrodesulfurization,Petrochemical,18.0,0.0,70.7,0.15,115.2,35.8,9.6
+Hydrodesulfurization,Petrochemical,18.0,0.0,71.4,0.1538,118.9,34.0,9.68
+Hydrodesulfurization,Petrochemical,18.0,0.0,69.2,0.1495,116.7,34.4,9.75
+Hydrodesulfurization,Petrochemical,18.0,0.0,71.0,0.1348,115.9,35.8,9.82
+Hydrodesulfurization,Petrochemical,18.0,0.0,67.5,0.1488,118.2,33.0,9.9
+Hydrodesulfurization,Petrochemical,18.0,0.0,64.9,0.1429,114.1,31.3,9.98
+Hydrodesulfurization,Petrochemical,18.0,0.0,69.8,0.1479,116.1,34.4,10.05
+Hydrodesulfurization,Petrochemical,18.0,0.0,69.3,0.1443,111.5,35.2,10.12
+Hydrodesulfurization,Petrochemical,18.0,0.0,69.8,0.1557,113.3,34.5,10.2
+Hydrodesulfurization,Petrochemical,18.0,0.0,69.0,0.1517,116.3,38.9,10.27
+Hydrodesulfurization,Petrochemical,18.0,10.0,67.7,0.1531,116.0,37.4,10.35
+Hydrodesulfurization,Petrochemical,18.0,50.0,72.7,0.1514,112.8,35.4,10.43
+Hydrodesulfurization,Petrochemical,18.0,95.0,70.5,0.1507,119.5,37.3,10.5
+Hydrodesulfurization,Petrochemical,18.0,138.5,70.8,0.1565,118.3,39.1,10.57
+Hydrodesulfurization,Petrochemical,20.2,179.6,70.2,0.1527,115.5,39.3,10.65
+Hydrodesulfurization,Petrochemical,26.3,226.0,71.9,0.1453,119.7,40.1,10.73
+Hydrodesulfurization,Petrochemical,34.5,270.8,69.7,0.1566,115.2,41.7,10.8
+Hydrodesulfurization,Petrochemical,38.8,280.0,72.1,0.1569,118.5,40.4,10.88
+Hydrodesulfurization,Petrochemical,44.2,280.0,71.0,0.1526,119.4,38.5,10.95
+Hydrodesulfurization,Petrochemical,51.1,280.0,70.9,0.1616,117.0,43.7,11.02
+Hydrodesulfurization,Petrochemical,58.2,280.0,73.6,0.1542,117.4,43.4,11.1
+Hydrodesulfurization,Petrochemical,64.3,280.0,71.1,0.1582,116.5,45.5,11.18
+Hydrodesulfurization,Petrochemical,68.1,280.0,68.1,0.1615,116.7,44.2,11.25
+Hydrodesulfurization,Petrochemical,74.2,280.0,71.5,0.1476,115.9,45.2,11.32
+Hydrodesulfurization,Petrochemical,82.1,280.0,75.4,0.153,119.4,42.4,11.4
+Hydrodesulfurization,Petrochemical,89.8,280.0,71.6,0.1452,116.7,45.4,11.48
+Hydrodesulfurization,Petrochemical,92.0,280.0,71.5,0.1607,113.9,47.1,11.55
+Hydrodesulfurization,Petrochemical,92.0,280.0,72.2,0.1627,117.3,45.2,11.62
+Hydrodesulfurization,Petrochemical,92.0,280.0,71.7,0.1598,120.4,48.1,11.7
+Hydrodesulfurization,Petrochemical,92.0,280.0,76.8,0.167,118.7,47.1,11.77
+Hydrodesulfurization,Petrochemical,92.0,280.0,74.1,0.159,119.1,47.6,11.85
+Hydrodesulfurization,Petrochemical,92.0,280.0,73.3,0.165,119.1,48.4,11.93
+LPG Storage Unit,Petrochemical,51.3,75.4,70.9,0.0575,84.5,11.7,0.0
+LPG Storage Unit,Petrochemical,52.4,77.4,70.3,0.0586,79.0,8.0,0.08
+LPG Storage Unit,Petrochemical,53.7,73.3,69.6,0.067,84.1,13.7,0.15
+LPG Storage Unit,Petrochemical,55.4,76.8,73.7,0.0564,85.6,12.6,0.22
+LPG Storage Unit,Petrochemical,58.4,75.9,71.2,0.0656,82.8,11.2,0.3
+LPG Storage Unit,Petrochemical,58.4,74.0,73.9,0.0699,86.4,9.2,0.38
+LPG Storage Unit,Petrochemical,59.4,79.7,70.5,0.0666,84.6,11.1,0.45
+LPG Storage Unit,Petrochemical,59.0,75.8,71.6,0.0655,86.8,9.9,0.52
+LPG Storage Unit,Petrochemical,63.6,70.4,73.1,0.0599,86.3,11.3,0.6
+LPG Storage Unit,Petrochemical,64.6,76.4,74.8,0.0524,83.5,11.1,0.68
+LPG Storage Unit,Petrochemical,66.2,78.2,72.0,0.0544,81.3,9.6,0.75
+LPG Storage Unit,Petrochemical,65.5,68.5,72.9,0.0676,81.5,12.0,0.83
+LPG Storage Unit,Petrochemical,67.9,69.0,73.9,0.0598,83.8,13.7,0.9
+LPG Storage Unit,Petrochemical,69.8,71.7,74.2,0.0656,80.9,9.7,0.98
+LPG Storage Unit,Petrochemical,69.1,64.2,71.4,0.0634,84.3,12.2,1.05
+LPG Storage Unit,Petrochemical,71.6,64.6,73.5,0.0621,83.5,12.7,1.12
+LPG Storage Unit,Petrochemical,73.4,60.3,74.4,0.0557,81.3,11.4,1.2
+LPG Storage Unit,Petrochemical,75.7,57.6,75.0,0.0686,83.4,9.8,1.27
+LPG Storage Unit,Petrochemical,76.3,57.8,71.3,0.0626,82.2,9.7,1.35
+LPG Storage Unit,Petrochemical,75.9,50.6,75.4,0.0633,83.9,12.3,1.42
+LPG Storage Unit,Petrochemical,76.6,52.0,75.7,0.0623,84.3,9.6,1.5
+LPG Storage Unit,Petrochemical,79.1,43.1,76.4,0.0693,85.9,12.3,1.58
+LPG Storage Unit,Petrochemical,78.3,36.2,75.3,0.0662,85.7,9.9,1.65
+LPG Storage Unit,Petrochemical,78.9,35.5,74.1,0.0601,82.3,11.4,1.72
+LPG Storage Unit,Petrochemical,81.6,31.1,76.7,0.0716,84.3,10.3,1.8
+LPG Storage Unit,Petrochemical,81.3,29.3,75.5,0.0708,83.4,13.1,1.88
+LPG Storage Unit,Petrochemical,81.6,26.8,76.5,0.0783,84.6,11.6,1.95
+LPG Storage Unit,Petrochemical,84.4,21.4,74.8,0.0714,81.1,8.2,2.03
+LPG Storage Unit,Petrochemical,83.8,19.6,77.3,0.0674,80.2,11.4,2.1
+LPG Storage Unit,Petrochemical,84.5,16.9,78.0,0.0673,86.2,12.5,2.17
+LPG Storage Unit,Petrochemical,87.2,11.9,77.3,0.0754,81.0,11.1,2.25
+LPG Storage Unit,Petrochemical,84.6,10.9,77.3,0.0594,86.5,10.2,2.33
+LPG Storage Unit,Petrochemical,85.1,10.3,74.8,0.0663,87.8,5.0,2.4
+LPG Storage Unit,Petrochemical,85.4,0.4,78.1,0.0699,85.0,10.5,2.47
+LPG Storage Unit,Petrochemical,86.8,3.7,78.0,0.0647,80.9,7.1,2.55
+LPG Storage Unit,Petrochemical,86.8,1.5,76.6,0.0628,83.2,7.1,2.62
+LPG Storage Unit,Petrochemical,87.5,0.0,76.6,0.0587,86.8,6.5,2.7
+LPG Storage Unit,Petrochemical,88.7,0.0,79.5,0.0612,81.5,7.3,2.78
+LPG Storage Unit,Petrochemical,89.4,0.0,76.1,0.0658,84.9,9.0,2.85
+LPG Storage Unit,Petrochemical,88.5,0.0,75.0,0.0647,87.0,10.5,2.92
+LPG Storage Unit,Petrochemical,86.9,0.0,77.9,0.0748,82.2,9.2,3.0
+LPG Storage Unit,Petrochemical,88.6,0.0,75.1,0.0707,84.2,6.6,3.07
+LPG Storage Unit,Petrochemical,86.7,0.0,73.4,0.0705,83.8,8.0,3.15
+LPG Storage Unit,Petrochemical,89.4,0.0,76.0,0.0647,83.2,9.7,3.22
+LPG Storage Unit,Petrochemical,88.3,0.0,74.5,0.074,86.9,8.1,3.3
+LPG Storage Unit,Petrochemical,88.5,0.0,76.6,0.0631,86.4,8.5,3.38
+LPG Storage Unit,Petrochemical,84.2,0.0,76.9,0.0642,85.6,7.3,3.45
+LPG Storage Unit,Petrochemical,88.0,0.0,77.3,0.0595,86.3,11.3,3.53
+LPG Storage Unit,Petrochemical,84.7,0.0,76.2,0.0736,83.2,7.9,3.6
+LPG Storage Unit,Petrochemical,85.4,0.0,74.3,0.0611,85.6,8.0,3.68
+LPG Storage Unit,Petrochemical,83.8,0.0,77.7,0.0611,83.7,8.5,3.75
+LPG Storage Unit,Petrochemical,83.5,0.0,77.8,0.0663,81.3,6.7,3.82
+LPG Storage Unit,Petrochemical,83.5,0.0,79.5,0.0552,84.0,8.2,3.9
+LPG Storage Unit,Petrochemical,83.7,0.0,75.4,0.0615,84.3,9.6,3.97
+LPG Storage Unit,Petrochemical,81.1,2.0,75.4,0.0542,84.8,9.4,4.05
+LPG Storage Unit,Petrochemical,82.3,0.6,76.0,0.0693,84.2,11.5,4.12
+LPG Storage Unit,Petrochemical,79.6,3.6,75.4,0.0653,81.1,11.7,4.2
+LPG Storage Unit,Petrochemical,79.5,7.2,74.6,0.0617,85.0,11.8,4.28
+LPG Storage Unit,Petrochemical,79.4,16.2,73.8,0.0664,82.7,13.6,4.35
+LPG Storage Unit,Petrochemical,77.9,9.6,77.0,0.0679,83.9,12.5,4.43
+LPG Storage Unit,Petrochemical,77.4,18.1,74.5,0.0647,83.5,12.1,4.5
+LPG Storage Unit,Petrochemical,76.0,21.1,73.9,0.0516,80.3,8.4,4.57
+LPG Storage Unit,Petrochemical,73.0,23.8,75.0,0.0726,84.5,12.7,4.65
+LPG Storage Unit,Petrochemical,72.8,29.9,73.7,0.0779,85.1,11.1,4.72
+LPG Storage Unit,Petrochemical,69.2,30.5,75.2,0.0663,86.2,13.6,4.8
+LPG Storage Unit,Petrochemical,69.5,36.7,73.6,0.0636,83.2,11.4,4.88
+LPG Storage Unit,Petrochemical,69.5,37.6,73.5,0.0513,87.6,15.2,4.95
+LPG Storage Unit,Petrochemical,66.3,39.8,72.7,0.0654,81.8,12.8,5.03
+LPG Storage Unit,Petrochemical,66.3,48.1,71.1,0.0666,84.7,15.0,5.1
+LPG Storage Unit,Petrochemical,63.8,49.1,72.7,0.0602,84.3,12.4,5.18
+LPG Storage Unit,Petrochemical,66.3,53.3,73.1,0.0572,84.4,16.0,5.25
+LPG Storage Unit,Petrochemical,63.5,55.7,72.8,0.0627,85.2,15.6,5.32
+LPG Storage Unit,Petrochemical,63.0,57.4,73.8,0.0651,82.0,12.3,5.4
+LPG Storage Unit,Petrochemical,61.0,60.7,74.4,0.0567,88.9,17.5,5.47
+LPG Storage Unit,Petrochemical,59.3,61.5,72.3,0.0568,84.9,17.2,5.55
+LPG Storage Unit,Petrochemical,57.6,65.1,71.9,0.0596,84.1,15.1,5.62
+LPG Storage Unit,Petrochemical,56.6,69.4,74.7,0.0629,82.2,13.0,5.7
+LPG Storage Unit,Petrochemical,55.9,67.3,74.1,0.0503,86.2,19.5,5.78
+LPG Storage Unit,Petrochemical,55.0,78.1,70.3,0.0551,83.4,14.8,5.85
+LPG Storage Unit,Petrochemical,49.9,77.3,73.0,0.0677,82.1,17.0,5.93
+LPG Storage Unit,Petrochemical,50.2,75.0,71.8,0.0635,86.8,20.4,6.0
+LPG Storage Unit,Petrochemical,48.5,76.4,73.1,0.0581,84.7,16.9,6.07
+LPG Storage Unit,Petrochemical,47.4,77.9,72.7,0.0587,83.4,17.8,6.15
+LPG Storage Unit,Petrochemical,46.8,78.8,71.7,0.0619,87.3,18.0,6.23
+LPG Storage Unit,Petrochemical,44.1,78.1,69.9,0.0495,82.8,19.6,6.3
+LPG Storage Unit,Petrochemical,43.0,84.2,68.1,0.0626,81.7,19.0,6.38
+LPG Storage Unit,Petrochemical,40.9,74.1,68.1,0.0472,81.8,16.3,6.45
+LPG Storage Unit,Petrochemical,38.9,71.9,68.5,0.0582,82.7,22.8,6.52
+LPG Storage Unit,Petrochemical,37.9,76.7,69.4,0.0628,83.2,19.2,6.6
+LPG Storage Unit,Petrochemical,37.2,70.7,65.6,0.0509,82.2,16.1,6.68
+LPG Storage Unit,Petrochemical,33.7,74.9,70.1,0.0568,84.0,18.3,6.75
+LPG Storage Unit,Petrochemical,34.2,69.4,68.7,0.0545,80.5,18.8,6.82
+LPG Storage Unit,Petrochemical,31.4,68.3,68.7,0.0566,84.6,18.8,6.9
+LPG Storage Unit,Petrochemical,30.8,72.3,66.1,0.0657,82.8,21.3,6.98
+LPG Storage Unit,Petrochemical,30.7,66.2,68.8,0.0584,85.8,16.5,7.05
+LPG Storage Unit,Petrochemical,31.0,60.5,68.3,0.0523,83.6,16.1,7.12
+LPG Storage Unit,Petrochemical,25.2,57.3,68.2,0.0564,80.7,19.7,7.2
+LPG Storage Unit,Petrochemical,24.9,57.0,70.1,0.0623,83.8,18.0,7.27
+LPG Storage Unit,Petrochemical,27.2,47.2,69.4,0.0628,81.2,16.4,7.35
+LPG Storage Unit,Petrochemical,22.7,51.0,69.5,0.0571,82.4,20.5,7.43
+LPG Storage Unit,Petrochemical,24.0,48.3,68.6,0.0558,81.9,19.4,7.5
+LPG Storage Unit,Petrochemical,21.3,42.8,66.9,0.0616,85.3,16.0,7.57
+LPG Storage Unit,Petrochemical,19.4,37.2,69.0,0.0562,83.2,15.1,7.65
+LPG Storage Unit,Petrochemical,19.5,41.0,66.8,0.0563,82.5,19.9,7.73
+LPG Storage Unit,Petrochemical,18.9,37.6,66.7,0.0594,84.5,14.0,7.8
+LPG Storage Unit,Petrochemical,18.0,30.6,66.4,0.0555,79.9,19.5,7.88
+LPG Storage Unit,Petrochemical,19.0,24.5,68.4,0.048,86.4,18.8,7.95
+LPG Storage Unit,Petrochemical,18.0,20.7,66.5,0.0558,83.9,15.1,8.02
+LPG Storage Unit,Petrochemical,18.0,20.3,66.0,0.0503,81.3,14.8,8.1
+LPG Storage Unit,Petrochemical,18.0,17.7,67.7,0.0567,84.2,14.7,8.18
+LPG Storage Unit,Petrochemical,18.0,13.5,65.4,0.0514,83.1,17.3,8.25
+LPG Storage Unit,Petrochemical,18.0,7.0,69.8,0.0508,83.4,12.8,8.32
+LPG Storage Unit,Petrochemical,18.0,2.6,65.6,0.0552,82.5,14.3,8.4
+LPG Storage Unit,Petrochemical,18.0,5.8,64.3,0.047,82.2,17.3,8.48
+LPG Storage Unit,Petrochemical,18.0,1.3,65.3,0.056,83.4,16.4,8.55
+LPG Storage Unit,Petrochemical,18.0,0.0,65.2,0.059,80.6,18.7,8.62
+LPG Storage Unit,Petrochemical,18.0,0.0,65.3,0.0549,82.7,12.2,8.7
+LPG Storage Unit,Petrochemical,18.0,0.0,64.9,0.0622,81.2,14.7,8.77
+LPG Storage Unit,Petrochemical,18.0,0.0,64.2,0.0466,80.4,11.9,8.85
+LPG Storage Unit,Petrochemical,18.0,0.0,62.7,0.0583,81.7,16.6,8.93
+LPG Storage Unit,Petrochemical,18.0,0.0,66.7,0.0605,85.6,16.0,9.0
+LPG Storage Unit,Petrochemical,18.0,0.0,65.8,0.0523,81.4,16.6,9.07
+LPG Storage Unit,Petrochemical,18.0,0.0,67.8,0.0561,83.1,16.0,9.15
+LPG Storage Unit,Petrochemical,18.0,0.0,66.7,0.0532,80.8,14.9,9.23
+LPG Storage Unit,Petrochemical,18.0,0.0,65.5,0.0513,80.0,17.8,9.3
+LPG Storage Unit,Petrochemical,18.0,0.0,66.3,0.0507,81.9,13.7,9.38
+LPG Storage Unit,Petrochemical,18.0,0.0,66.1,0.0477,82.0,17.5,9.45
+LPG Storage Unit,Petrochemical,18.0,0.0,67.7,0.0473,84.8,17.1,9.52
+LPG Storage Unit,Petrochemical,18.0,0.0,64.3,0.0501,84.9,14.8,9.6
+LPG Storage Unit,Petrochemical,18.0,0.0,70.1,0.0545,84.7,13.2,9.68
+LPG Storage Unit,Petrochemical,18.0,0.0,67.0,0.0562,82.9,14.6,9.75
+LPG Storage Unit,Petrochemical,18.0,0.0,66.5,0.0462,83.9,16.5,9.82
+LPG Storage Unit,Petrochemical,18.0,0.0,68.9,0.0539,84.6,14.5,9.9
+LPG Storage Unit,Petrochemical,18.0,3.0,67.9,0.0496,80.7,18.6,9.98
+LPG Storage Unit,Petrochemical,18.0,0.0,67.8,0.0532,86.1,16.0,10.05
+LPG Storage Unit,Petrochemical,20.4,0.0,66.3,0.0554,83.3,20.3,10.12
+LPG Storage Unit,Petrochemical,20.6,5.4,68.6,0.0509,84.3,17.0,10.2
+LPG Storage Unit,Petrochemical,21.9,11.1,68.4,0.0622,80.1,18.0,10.27
+LPG Storage Unit,Petrochemical,23.9,9.5,65.0,0.0518,80.9,15.5,10.35
+LPG Storage Unit,Petrochemical,24.7,11.7,68.8,0.0585,82.7,19.1,10.43
+LPG Storage Unit,Petrochemical,24.6,16.9,70.9,0.0571,81.5,22.6,10.5
+LPG Storage Unit,Petrochemical,26.8,22.1,69.2,0.0591,82.9,20.3,10.57
+LPG Storage Unit,Petrochemical,25.3,25.0,66.7,0.0573,83.0,18.3,10.65
+LPG Storage Unit,Petrochemical,30.0,31.8,68.1,0.0557,82.1,20.9,10.73
+LPG Storage Unit,Petrochemical,28.4,32.7,67.7,0.0513,84.8,19.9,10.8
+LPG Storage Unit,Petrochemical,29.9,36.8,65.8,0.0569,83.7,21.4,10.88
+LPG Storage Unit,Petrochemical,31.6,39.8,67.1,0.0591,82.5,22.5,10.95
+LPG Storage Unit,Petrochemical,31.2,46.3,70.1,0.0511,81.2,21.1,11.02
+LPG Storage Unit,Petrochemical,32.5,46.8,70.2,0.0629,84.6,22.5,11.1
+LPG Storage Unit,Petrochemical,35.5,49.9,73.2,0.0592,83.0,26.7,11.18
+LPG Storage Unit,Petrochemical,37.7,54.2,67.0,0.0665,80.5,24.6,11.25
+LPG Storage Unit,Petrochemical,38.7,57.6,69.7,0.0534,85.8,21.3,11.32
+LPG Storage Unit,Petrochemical,41.1,61.0,69.4,0.0564,83.0,20.5,11.4
+LPG Storage Unit,Petrochemical,42.1,66.2,68.5,0.0661,83.4,25.3,11.48
+LPG Storage Unit,Petrochemical,42.9,64.0,69.3,0.0581,85.7,27.3,11.55
+LPG Storage Unit,Petrochemical,46.6,65.0,69.7,0.0623,81.3,18.7,11.62
+LPG Storage Unit,Petrochemical,46.6,66.1,72.7,0.0547,81.5,25.4,11.7
+LPG Storage Unit,Petrochemical,48.0,70.7,73.5,0.0532,80.4,26.2,11.77
+LPG Storage Unit,Petrochemical,47.8,71.9,71.4,0.0548,85.0,27.2,11.85
+LPG Storage Unit,Petrochemical,50.6,75.5,72.2,0.054,79.4,23.3,11.93
+Crude Distillation,Petrochemical,92.0,263.6,72.7,0.1249,95.2,5.8,0.0
+Crude Distillation,Petrochemical,92.0,268.9,71.7,0.1247,96.5,10.5,0.08
+Crude Distillation,Petrochemical,92.0,276.7,73.0,0.1315,93.1,12.8,0.15
+Crude Distillation,Petrochemical,92.0,278.5,71.3,0.1263,97.6,11.1,0.22
+Crude Distillation,Petrochemical,92.0,273.8,73.4,0.1415,95.0,12.2,0.3
+Crude Distillation,Petrochemical,92.0,277.6,73.3,0.1374,95.8,12.7,0.38
+Crude Distillation,Petrochemical,92.0,277.0,73.4,0.1293,94.7,11.9,0.45
+Crude Distillation,Petrochemical,92.0,275.0,75.0,0.126,97.7,12.9,0.52
+Crude Distillation,Petrochemical,92.0,271.6,76.0,0.1378,92.5,11.6,0.6
+Crude Distillation,Petrochemical,92.0,266.6,74.9,0.1391,95.4,11.6,0.68
+Crude Distillation,Petrochemical,92.0,261.3,75.2,0.1341,99.0,10.9,0.75
+Crude Distillation,Petrochemical,92.0,255.4,73.4,0.1399,99.2,12.5,0.83
+Crude Distillation,Petrochemical,92.0,246.9,76.2,0.1332,95.6,9.4,0.9
+Crude Distillation,Petrochemical,92.0,239.4,74.2,0.1366,95.2,14.0,0.98
+Crude Distillation,Petrochemical,92.0,230.0,74.7,0.1359,98.4,8.5,1.05
+Crude Distillation,Petrochemical,92.0,219.5,75.8,0.1237,94.9,10.0,1.12
+Crude Distillation,Petrochemical,92.0,208.9,77.1,0.1396,95.3,15.1,1.2
+Crude Distillation,Petrochemical,92.0,197.0,77.4,0.1302,101.3,12.7,1.27
+Crude Distillation,Petrochemical,92.0,185.1,73.9,0.1314,96.8,12.0,1.35
+Crude Distillation,Petrochemical,92.0,170.8,76.0,0.1405,95.2,9.7,1.42
+Crude Distillation,Petrochemical,92.0,160.2,77.0,0.1352,101.5,9.8,1.5
+Crude Distillation,Petrochemical,92.0,149.2,75.2,0.1425,96.2,10.6,1.58
+Crude Distillation,Petrochemical,92.0,132.0,76.2,0.1379,98.7,12.3,1.65
+Crude Distillation,Petrochemical,92.0,115.5,76.9,0.139,92.9,11.4,1.72
+Crude Distillation,Petrochemical,92.0,102.6,76.5,0.1357,97.9,11.1,1.8
+Crude Distillation,Petrochemical,92.0,91.6,74.3,0.1481,95.8,13.6,1.88
+Crude Distillation,Petrochemical,92.0,75.9,77.3,0.1341,97.7,10.3,1.95
+Crude Distillation,Petrochemical,92.0,61.6,77.3,0.1382,98.3,9.8,2.03
+Crude Distillation,Petrochemical,92.0,47.3,75.7,0.1318,99.2,8.6,2.1
+Crude Distillation,Petrochemical,92.0,32.6,76.7,0.1453,100.7,9.9,2.17
+Crude Distillation,Petrochemical,92.0,19.4,73.9,0.1378,93.9,12.0,2.25
+Crude Distillation,Petrochemical,92.0,12.7,77.2,0.145,96.9,11.9,2.33
+Crude Distillation,Petrochemical,92.0,0.0,77.8,0.1327,98.1,10.9,2.4
+Crude Distillation,Petrochemical,92.0,0.0,78.4,0.1485,98.3,11.0,2.47
+Crude Distillation,Petrochemical,92.0,0.0,76.5,0.1444,101.3,12.5,2.55
+Crude Distillation,Petrochemical,92.0,0.0,77.5,0.1328,99.7,9.4,2.62
+Crude Distillation,Petrochemical,92.0,0.0,77.8,0.1445,96.3,8.1,2.7
+Crude Distillation,Petrochemical,92.0,0.0,75.9,0.1425,98.0,10.3,2.78
+Crude Distillation,Petrochemical,92.0,0.0,77.0,0.1347,97.7,8.6,2.85
+Crude Distillation,Petrochemical,92.0,0.0,78.4,0.1514,100.7,9.0,2.92
+Crude Distillation,Petrochemical,92.0,0.0,77.3,0.1431,95.3,9.6,3.0
+Crude Distillation,Petrochemical,92.0,0.0,76.9,0.1333,98.4,10.8,3.07
+Crude Distillation,Petrochemical,92.0,0.0,77.7,0.1402,97.3,8.5,3.15
+Crude Distillation,Petrochemical,92.0,0.0,77.0,0.1347,100.8,13.7,3.22
+Crude Distillation,Petrochemical,92.0,0.0,75.9,0.1428,98.6,12.2,3.3
+Crude Distillation,Petrochemical,92.0,0.0,77.1,0.135,98.2,13.7,3.38
+Crude Distillation,Petrochemical,92.0,0.0,78.0,0.1392,97.7,9.7,3.45
+Crude Distillation,Petrochemical,92.0,0.0,74.7,0.1434,96.7,11.6,3.53
+Crude Distillation,Petrochemical,92.0,0.0,78.3,0.1459,98.3,12.8,3.6
+Crude Distillation,Petrochemical,92.0,0.0,76.1,0.1463,99.7,11.9,3.68
+Crude Distillation,Petrochemical,92.0,0.0,76.7,0.143,97.8,11.0,3.75
+Crude Distillation,Petrochemical,92.0,0.0,76.9,0.1394,98.4,12.2,3.82
+Crude Distillation,Petrochemical,92.0,0.0,77.5,0.1411,101.5,13.0,3.9
+Crude Distillation,Petrochemical,92.0,0.0,75.2,0.1392,98.4,15.3,3.97
+Crude Distillation,Petrochemical,92.0,0.0,77.4,0.1349,100.0,11.4,4.05
+Crude Distillation,Petrochemical,92.0,0.0,75.4,0.1431,99.0,14.4,4.12
+Crude Distillation,Petrochemical,92.0,0.0,75.1,0.1374,97.8,11.9,4.2
+Crude Distillation,Petrochemical,92.0,0.0,75.8,0.1406,97.7,12.5,4.28
+Crude Distillation,Petrochemical,92.0,11.3,75.0,0.1384,96.8,18.9,4.35
+Crude Distillation,Petrochemical,92.0,26.4,76.4,0.135,96.9,14.3,4.43
+Crude Distillation,Petrochemical,92.0,35.4,75.9,0.1443,99.7,17.1,4.5
+Crude Distillation,Petrochemical,92.0,49.7,76.1,0.1296,97.4,13.3,4.57
+Crude Distillation,Petrochemical,92.0,65.7,77.2,0.1392,97.8,18.6,4.65
+Crude Distillation,Petrochemical,92.0,75.2,75.0,0.1387,98.6,17.7,4.72
+Crude Distillation,Petrochemical,92.0,89.6,76.2,0.1271,98.1,16.1,4.8
+Crude Distillation,Petrochemical,92.0,107.9,75.6,0.1254,98.9,17.8,4.88
+Crude Distillation,Petrochemical,92.0,119.0,74.0,0.1341,97.6,17.7,4.95
+Crude Distillation,Petrochemical,92.0,137.6,75.4,0.1312,98.9,15.3,5.03
+Crude Distillation,Petrochemical,92.0,153.8,74.6,0.1348,94.6,17.3,5.1
+Crude Distillation,Petrochemical,92.0,165.0,74.3,0.1418,93.4,18.7,5.18
+Crude Distillation,Petrochemical,92.0,170.1,72.3,0.1297,97.5,19.5,5.25
+Crude Distillation,Petrochemical,92.0,186.3,72.8,0.144,95.2,16.7,5.32
+Crude Distillation,Petrochemical,92.0,198.9,73.6,0.1326,97.2,19.6,5.4
+Crude Distillation,Petrochemical,92.0,207.7,74.0,0.1334,97.6,20.1,5.47
+Crude Distillation,Petrochemical,92.0,218.6,75.5,0.1304,96.1,23.4,5.55
+Crude Distillation,Petrochemical,92.0,228.9,71.4,0.1441,96.9,18.9,5.62
+Crude Distillation,Petrochemical,92.0,240.3,74.4,0.1386,95.2,22.4,5.7
+Crude Distillation,Petrochemical,92.0,242.9,72.9,0.1284,95.0,26.1,5.78
+Crude Distillation,Petrochemical,92.0,256.9,71.4,0.1275,95.0,19.0,5.85
+Crude Distillation,Petrochemical,92.0,263.2,72.5,0.1333,96.3,18.9,5.93
+Crude Distillation,Petrochemical,91.1,266.4,74.4,0.1371,96.7,19.2,6.0
+Crude Distillation,Petrochemical,90.6,265.4,71.8,0.1179,98.0,23.2,6.07
+Crude Distillation,Petrochemical,83.3,271.0,73.1,0.1346,96.1,23.0,6.15
+Crude Distillation,Petrochemical,80.7,280.0,71.0,0.1333,97.2,24.3,6.23
+Crude Distillation,Petrochemical,77.9,274.4,71.2,0.1321,96.7,25.5,6.3
+Crude Distillation,Petrochemical,71.1,278.8,73.5,0.1338,94.1,23.0,6.38
+Crude Distillation,Petrochemical,69.8,277.1,72.5,0.1391,93.8,21.1,6.45
+Crude Distillation,Petrochemical,66.2,270.5,68.2,0.1289,95.3,20.9,6.52
+Crude Distillation,Petrochemical,60.7,269.3,69.1,0.1143,96.4,19.7,6.6
+Crude Distillation,Petrochemical,56.7,259.3,70.1,0.1198,94.8,23.3,6.68
+Crude Distillation,Petrochemical,55.2,253.4,70.4,0.1285,94.0,21.7,6.75
+Crude Distillation,Petrochemical,50.6,247.3,71.2,0.1199,92.2,19.6,6.82
+Crude Distillation,Petrochemical,46.1,244.1,67.6,0.1296,96.0,23.5,6.9
+Crude Distillation,Petrochemical,45.1,232.4,69.5,0.1251,96.4,24.9,6.98
+Crude Distillation,Petrochemical,39.9,224.2,73.7,0.1258,94.6,19.3,7.05
+Crude Distillation,Petrochemical,33.1,214.9,68.8,0.1294,93.5,27.7,7.12
+Crude Distillation,Petrochemical,32.5,204.0,67.9,0.1213,95.0,25.2,7.2
+Crude Distillation,Petrochemical,31.2,194.7,71.8,0.1334,98.6,21.6,7.27
+Crude Distillation,Petrochemical,27.3,181.9,69.0,0.1292,93.8,23.6,7.35
+Crude Distillation,Petrochemical,24.4,166.4,71.1,0.1148,95.1,23.4,7.43
+Crude Distillation,Petrochemical,21.5,155.9,69.7,0.1293,95.0,26.1,7.5
+Crude Distillation,Petrochemical,20.9,139.3,69.5,0.134,96.9,24.7,7.57
+Crude Distillation,Petrochemical,18.0,124.5,68.3,0.1189,98.4,23.6,7.65
+Crude Distillation,Petrochemical,18.0,112.9,66.7,0.1214,97.2,22.8,7.73
+Crude Distillation,Petrochemical,18.0,95.6,68.0,0.1157,93.5,22.7,7.8
+Crude Distillation,Petrochemical,18.0,80.6,68.3,0.1356,91.7,26.5,7.88
+Crude Distillation,Petrochemical,18.0,72.4,69.2,0.1246,96.3,23.1,7.95
+Crude Distillation,Petrochemical,18.0,57.1,69.3,0.1172,93.2,21.1,8.02
+Crude Distillation,Petrochemical,18.0,43.8,68.2,0.1307,95.7,25.1,8.1
+Crude Distillation,Petrochemical,18.0,27.0,66.8,0.1192,97.4,24.7,8.18
+Crude Distillation,Petrochemical,18.0,12.9,68.5,0.1189,95.0,24.9,8.25
+Crude Distillation,Petrochemical,18.0,2.4,67.4,0.1251,91.5,23.5,8.32
+Crude Distillation,Petrochemical,18.0,0.0,68.5,0.1212,95.8,21.4,8.4
+Crude Distillation,Petrochemical,18.0,0.0,69.4,0.1256,97.1,20.5,8.48
+Crude Distillation,Petrochemical,18.0,0.0,67.6,0.1275,94.6,23.3,8.55
+Crude Distillation,Petrochemical,18.0,0.0,68.0,0.1209,94.9,22.6,8.62
+Crude Distillation,Petrochemical,18.0,0.0,67.7,0.119,91.9,16.7,8.7
+Crude Distillation,Petrochemical,18.0,0.0,67.1,0.1164,94.0,22.6,8.77
+Crude Distillation,Petrochemical,18.0,0.0,66.3,0.1048,93.9,22.1,8.85
+Crude Distillation,Petrochemical,18.0,0.0,69.0,0.1235,92.6,20.2,8.93
+Crude Distillation,Petrochemical,18.0,0.0,68.3,0.1197,96.3,21.7,9.0
+Crude Distillation,Petrochemical,18.0,0.0,66.5,0.1226,91.2,16.6,9.07
+Crude Distillation,Petrochemical,18.0,0.0,68.3,0.1166,92.0,22.4,9.15
+Crude Distillation,Petrochemical,18.0,0.0,66.3,0.125,95.6,22.4,9.23
+Crude Distillation,Petrochemical,18.0,0.0,69.7,0.1275,93.2,23.8,9.3
+Crude Distillation,Petrochemical,18.0,0.0,69.1,0.124,93.9,21.1,9.38
+Crude Distillation,Petrochemical,18.0,0.0,66.9,0.1208,93.6,22.9,9.45
+Crude Distillation,Petrochemical,18.0,0.0,69.0,0.1215,94.0,21.7,9.52
+Crude Distillation,Petrochemical,18.0,0.0,71.2,0.1183,94.7,24.2,9.6
+Crude Distillation,Petrochemical,18.0,0.0,70.4,0.1175,94.9,23.1,9.68
+Crude Distillation,Petrochemical,18.0,0.0,68.0,0.1253,94.3,22.2,9.75
+Crude Distillation,Petrochemical,18.0,0.0,69.8,0.1172,94.3,23.5,9.82
+Crude Distillation,Petrochemical,18.0,0.0,69.7,0.1213,98.1,24.3,9.9
+Crude Distillation,Petrochemical,18.0,0.0,70.2,0.1218,94.1,22.6,9.98
+Crude Distillation,Petrochemical,18.0,0.0,69.6,0.1147,92.4,24.0,10.05
+Crude Distillation,Petrochemical,18.0,0.0,69.6,0.1222,94.7,26.5,10.12
+Crude Distillation,Petrochemical,18.0,0.0,67.9,0.1244,95.9,25.1,10.2
+Crude Distillation,Petrochemical,20.8,0.9,69.8,0.1212,93.3,24.6,10.27
+Crude Distillation,Petrochemical,20.4,17.1,68.2,0.12,94.7,22.9,10.35
+Crude Distillation,Petrochemical,20.8,25.1,69.0,0.1265,93.1,30.1,10.43
+Crude Distillation,Petrochemical,27.7,36.9,69.0,0.1203,92.8,27.6,10.5
+Crude Distillation,Petrochemical,28.9,57.1,70.9,0.1232,93.7,25.5,10.57
+Crude Distillation,Petrochemical,31.9,68.4,69.1,0.1268,95.2,29.7,10.65
+Crude Distillation,Petrochemical,35.0,86.0,69.0,0.1228,96.6,26.9,10.73
+Crude Distillation,Petrochemical,40.0,98.0,70.3,0.1204,93.9,27.9,10.8
+Crude Distillation,Petrochemical,41.9,113.9,70.4,0.1211,92.8,27.4,10.88
+Crude Distillation,Petrochemical,46.2,126.4,71.2,0.1245,93.9,28.3,10.95
+Crude Distillation,Petrochemical,48.6,136.8,72.3,0.1365,94.8,30.9,11.02
+Crude Distillation,Petrochemical,51.0,158.3,69.1,0.1303,94.4,28.7,11.1
+Crude Distillation,Petrochemical,56.6,167.8,71.7,0.1212,91.4,28.7,11.18
+Crude Distillation,Petrochemical,61.2,178.6,72.4,0.1295,93.9,31.4,11.25
+Crude Distillation,Petrochemical,65.0,199.6,73.4,0.1289,97.1,30.8,11.32
+Crude Distillation,Petrochemical,68.3,201.8,71.7,0.1336,96.4,31.5,11.4
+Crude Distillation,Petrochemical,70.9,218.8,73.1,0.1312,97.6,31.8,11.48
+Crude Distillation,Petrochemical,75.0,230.0,76.9,0.1343,94.9,32.1,11.55
+Crude Distillation,Petrochemical,78.9,235.0,70.0,0.1268,94.9,32.8,11.62
+Crude Distillation,Petrochemical,84.7,239.3,72.9,0.1235,97.6,29.2,11.7
+Crude Distillation,Petrochemical,86.2,251.7,68.9,0.1272,94.7,35.7,11.77
+Crude Distillation,Petrochemical,91.1,256.5,72.3,0.1337,93.9,32.9,11.85
+Crude Distillation,Petrochemical,92.0,257.7,73.2,0.1362,95.2,31.7,11.93
+API Synthesis Reactor,Pharmaceutical,65.5,103.7,71.7,0.0698,87.0,11.3,0.0
+API Synthesis Reactor,Pharmaceutical,69.3,106.7,71.7,0.0709,82.4,12.0,0.08
+API Synthesis Reactor,Pharmaceutical,68.3,107.3,73.6,0.0667,87.2,11.7,0.15
+API Synthesis Reactor,Pharmaceutical,73.2,107.0,73.3,0.0714,82.8,10.2,0.22
+API Synthesis Reactor,Pharmaceutical,74.9,108.3,73.6,0.0684,84.1,9.5,0.3
+API Synthesis Reactor,Pharmaceutical,75.2,104.4,72.9,0.0738,84.3,11.8,0.38
+API Synthesis Reactor,Pharmaceutical,77.2,109.1,72.7,0.0827,88.0,11.2,0.45
+API Synthesis Reactor,Pharmaceutical,78.2,110.8,72.9,0.0693,82.5,13.7,0.52
+API Synthesis Reactor,Pharmaceutical,83.0,107.4,71.7,0.0721,84.1,11.0,0.6
+API Synthesis Reactor,Pharmaceutical,85.2,103.7,71.0,0.0741,87.0,12.1,0.68
+API Synthesis Reactor,Pharmaceutical,87.3,101.6,73.9,0.0689,88.9,12.9,0.75
+API Synthesis Reactor,Pharmaceutical,86.7,97.4,72.4,0.0837,84.5,11.9,0.83
+API Synthesis Reactor,Pharmaceutical,88.3,100.8,74.1,0.073,88.2,14.5,0.9
+API Synthesis Reactor,Pharmaceutical,92.0,91.7,72.3,0.0724,84.1,10.5,0.98
+API Synthesis Reactor,Pharmaceutical,90.2,95.6,76.3,0.077,83.5,10.1,1.05
+API Synthesis Reactor,Pharmaceutical,92.0,92.6,72.7,0.0724,86.0,14.0,1.12
+API Synthesis Reactor,Pharmaceutical,92.0,83.9,74.6,0.0745,85.2,13.0,1.2
+API Synthesis Reactor,Pharmaceutical,92.0,83.0,75.4,0.0623,85.1,9.4,1.27
+API Synthesis Reactor,Pharmaceutical,92.0,80.1,76.9,0.0758,87.3,12.3,1.35
+API Synthesis Reactor,Pharmaceutical,92.0,76.4,74.4,0.0756,90.0,10.4,1.42
+API Synthesis Reactor,Pharmaceutical,92.0,65.4,74.8,0.0782,85.7,11.2,1.5
+API Synthesis Reactor,Pharmaceutical,92.0,62.6,75.6,0.0792,87.0,9.2,1.58
+API Synthesis Reactor,Pharmaceutical,92.0,54.5,76.2,0.068,85.3,9.1,1.65
+API Synthesis Reactor,Pharmaceutical,92.0,49.8,75.0,0.085,87.7,12.2,1.72
+API Synthesis Reactor,Pharmaceutical,92.0,49.7,74.7,0.0776,84.0,8.9,1.8
+API Synthesis Reactor,Pharmaceutical,92.0,46.6,75.6,0.0762,86.7,7.5,1.88
+API Synthesis Reactor,Pharmaceutical,92.0,38.8,75.2,0.076,85.4,15.3,1.95
+API Synthesis Reactor,Pharmaceutical,92.0,32.1,77.9,0.0701,87.5,7.2,2.03
+API Synthesis Reactor,Pharmaceutical,92.0,29.5,76.2,0.0694,89.5,12.2,2.1
+API Synthesis Reactor,Pharmaceutical,92.0,23.0,75.8,0.0823,85.3,10.6,2.17
+API Synthesis Reactor,Pharmaceutical,92.0,21.8,73.9,0.0728,88.3,5.0,2.25
+API Synthesis Reactor,Pharmaceutical,92.0,11.9,76.0,0.0812,91.3,11.0,2.33
+API Synthesis Reactor,Pharmaceutical,92.0,10.0,75.7,0.0812,85.9,8.3,2.4
+API Synthesis Reactor,Pharmaceutical,92.0,2.7,78.5,0.071,84.8,6.6,2.47
+API Synthesis Reactor,Pharmaceutical,92.0,2.5,75.8,0.0815,85.9,11.8,2.55
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,76.5,0.0792,87.4,9.0,2.62
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,78.7,0.0788,87.2,9.1,2.7
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,77.2,0.0775,85.1,7.1,2.78
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,78.2,0.0803,90.3,6.9,2.85
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,78.6,0.0782,87.8,7.4,2.92
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,74.6,0.0834,87.0,13.1,3.0
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,75.2,0.073,86.6,8.6,3.07
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,78.5,0.0785,88.6,7.7,3.15
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,75.7,0.0833,89.7,7.5,3.22
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,76.7,0.0765,86.7,8.2,3.3
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,77.1,0.0725,87.2,8.7,3.38
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,75.2,0.0836,88.3,9.0,3.45
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,77.2,0.0786,87.4,6.9,3.53
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,74.9,0.0762,88.0,11.0,3.6
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,76.3,0.0712,87.1,8.7,3.68
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,75.8,0.0795,87.9,11.2,3.75
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,75.5,0.089,86.5,11.6,3.82
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,77.3,0.0763,85.3,8.4,3.9
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,74.0,0.0867,86.0,13.3,3.97
+API Synthesis Reactor,Pharmaceutical,92.0,0.0,74.9,0.0733,86.4,15.8,4.05
+API Synthesis Reactor,Pharmaceutical,92.0,2.9,78.6,0.0757,85.8,8.9,4.12
+API Synthesis Reactor,Pharmaceutical,92.0,6.5,77.6,0.0774,88.6,11.8,4.2
+API Synthesis Reactor,Pharmaceutical,92.0,9.5,74.1,0.084,86.9,10.6,4.28
+API Synthesis Reactor,Pharmaceutical,92.0,17.7,73.9,0.0758,86.6,10.8,4.35
+API Synthesis Reactor,Pharmaceutical,92.0,18.5,73.0,0.0741,84.0,10.8,4.43
+API Synthesis Reactor,Pharmaceutical,92.0,25.1,76.1,0.0822,86.2,11.3,4.5
+API Synthesis Reactor,Pharmaceutical,92.0,29.4,74.6,0.0676,83.5,12.9,4.57
+API Synthesis Reactor,Pharmaceutical,92.0,32.2,72.0,0.0736,84.6,10.7,4.65
+API Synthesis Reactor,Pharmaceutical,92.0,39.9,75.7,0.0634,89.1,10.6,4.72
+API Synthesis Reactor,Pharmaceutical,91.0,47.2,74.8,0.0848,87.0,13.3,4.8
+API Synthesis Reactor,Pharmaceutical,92.0,50.9,72.3,0.0724,85.7,16.0,4.88
+API Synthesis Reactor,Pharmaceutical,92.0,52.1,73.8,0.0645,90.0,11.8,4.95
+API Synthesis Reactor,Pharmaceutical,89.8,58.7,72.9,0.0665,90.1,16.1,5.03
+API Synthesis Reactor,Pharmaceutical,90.1,65.6,76.9,0.0677,85.0,15.3,5.1
+API Synthesis Reactor,Pharmaceutical,86.7,69.3,74.4,0.0725,83.9,15.8,5.18
+API Synthesis Reactor,Pharmaceutical,81.4,71.8,74.3,0.0686,87.5,9.9,5.25
+API Synthesis Reactor,Pharmaceutical,81.4,76.9,72.3,0.0791,82.1,16.8,5.32
+API Synthesis Reactor,Pharmaceutical,81.6,80.4,73.0,0.0732,89.8,17.5,5.4
+API Synthesis Reactor,Pharmaceutical,76.9,80.5,68.9,0.0673,87.9,17.4,5.47
+API Synthesis Reactor,Pharmaceutical,78.0,87.9,71.2,0.0775,87.6,14.6,5.55
+API Synthesis Reactor,Pharmaceutical,74.9,93.6,73.0,0.0714,84.9,20.3,5.62
+API Synthesis Reactor,Pharmaceutical,71.1,93.9,70.8,0.0753,84.6,16.3,5.7
+API Synthesis Reactor,Pharmaceutical,73.1,100.8,74.1,0.0763,80.9,18.5,5.78
+API Synthesis Reactor,Pharmaceutical,69.0,98.6,74.5,0.0782,88.1,17.0,5.85
+API Synthesis Reactor,Pharmaceutical,66.2,102.5,73.0,0.0825,88.6,15.1,5.93
+API Synthesis Reactor,Pharmaceutical,67.6,107.8,72.2,0.0686,84.1,19.2,6.0
+API Synthesis Reactor,Pharmaceutical,60.9,112.1,69.1,0.0736,87.8,17.5,6.07
+API Synthesis Reactor,Pharmaceutical,58.5,106.9,70.5,0.0713,86.3,19.1,6.15
+API Synthesis Reactor,Pharmaceutical,57.6,108.5,69.1,0.0696,84.1,19.6,6.23
+API Synthesis Reactor,Pharmaceutical,56.8,106.8,70.5,0.0629,86.2,17.7,6.3
+API Synthesis Reactor,Pharmaceutical,55.4,110.3,72.5,0.0712,83.4,15.6,6.38
+API Synthesis Reactor,Pharmaceutical,54.6,107.3,70.1,0.0731,86.4,15.7,6.45
+API Synthesis Reactor,Pharmaceutical,52.0,109.7,67.8,0.0743,83.5,17.3,6.52
+API Synthesis Reactor,Pharmaceutical,50.2,107.3,68.2,0.073,88.1,17.9,6.6
+API Synthesis Reactor,Pharmaceutical,46.9,104.2,70.4,0.0727,86.7,17.3,6.68
+API Synthesis Reactor,Pharmaceutical,44.9,103.1,69.0,0.0738,85.5,19.9,6.75
+API Synthesis Reactor,Pharmaceutical,45.5,96.1,69.8,0.068,86.2,17.9,6.82
+API Synthesis Reactor,Pharmaceutical,42.5,99.2,72.0,0.0596,85.5,17.9,6.9
+API Synthesis Reactor,Pharmaceutical,38.9,92.5,68.6,0.07,84.3,16.4,6.98
+API Synthesis Reactor,Pharmaceutical,41.2,91.4,67.2,0.0692,84.3,22.8,7.05
+API Synthesis Reactor,Pharmaceutical,37.0,89.3,67.9,0.0715,83.9,15.7,7.12
+API Synthesis Reactor,Pharmaceutical,35.8,88.7,70.1,0.0661,88.3,15.1,7.2
+API Synthesis Reactor,Pharmaceutical,33.6,78.4,67.0,0.0557,86.7,18.7,7.27
+API Synthesis Reactor,Pharmaceutical,32.4,73.0,70.1,0.0691,87.8,15.8,7.35
+API Synthesis Reactor,Pharmaceutical,32.2,69.5,69.2,0.0601,86.4,16.4,7.43
+API Synthesis Reactor,Pharmaceutical,30.0,58.6,65.6,0.0704,81.3,19.9,7.5
+API Synthesis Reactor,Pharmaceutical,27.8,62.6,68.2,0.0704,81.3,17.5,7.57
+API Synthesis Reactor,Pharmaceutical,27.6,58.0,66.2,0.0674,86.0,15.3,7.65
+API Synthesis Reactor,Pharmaceutical,27.7,50.8,67.1,0.0744,88.8,15.6,7.73
+API Synthesis Reactor,Pharmaceutical,23.3,46.0,66.1,0.0671,87.1,16.4,7.8
+API Synthesis Reactor,Pharmaceutical,23.8,46.1,67.3,0.0769,85.2,15.4,7.88
+API Synthesis Reactor,Pharmaceutical,24.1,36.8,70.6,0.071,85.4,16.8,7.95
+API Synthesis Reactor,Pharmaceutical,22.5,27.9,68.8,0.0673,85.7,17.3,8.02
+API Synthesis Reactor,Pharmaceutical,22.3,24.0,64.6,0.0736,81.0,13.3,8.1
+API Synthesis Reactor,Pharmaceutical,18.3,20.1,67.1,0.0676,85.5,15.8,8.18
+API Synthesis Reactor,Pharmaceutical,19.3,18.4,65.8,0.0626,82.6,15.2,8.25
+API Synthesis Reactor,Pharmaceutical,19.5,12.0,65.9,0.0627,86.2,13.6,8.32
+API Synthesis Reactor,Pharmaceutical,18.0,2.8,67.3,0.0687,83.7,15.0,8.4
+API Synthesis Reactor,Pharmaceutical,18.9,8.1,69.7,0.066,85.6,16.4,8.48
+API Synthesis Reactor,Pharmaceutical,18.0,0.0,65.8,0.0574,88.0,15.9,8.55
+API Synthesis Reactor,Pharmaceutical,18.0,0.0,65.9,0.0657,84.9,15.8,8.62
+API Synthesis Reactor,Pharmaceutical,18.2,0.0,64.1,0.0783,81.3,13.9,8.7
+API Synthesis Reactor,Pharmaceutical,18.0,0.0,66.7,0.0674,89.5,14.3,8.77
+API Synthesis Reactor,Pharmaceutical,18.0,0.0,69.8,0.064,80.2,17.7,8.85
+API Synthesis Reactor,Pharmaceutical,18.0,0.0,67.2,0.0599,83.9,15.3,8.93
+API Synthesis Reactor,Pharmaceutical,18.0,0.0,67.9,0.0619,84.5,18.9,9.0
+API Synthesis Reactor,Pharmaceutical,18.0,0.0,64.0,0.0646,85.9,14.7,9.07
+API Synthesis Reactor,Pharmaceutical,18.0,0.0,69.9,0.0736,86.9,14.3,9.15
+API Synthesis Reactor,Pharmaceutical,18.0,0.0,69.1,0.0606,82.2,11.3,9.23
+API Synthesis Reactor,Pharmaceutical,18.0,0.0,68.2,0.0654,85.6,14.8,9.3
+API Synthesis Reactor,Pharmaceutical,18.0,0.0,67.0,0.0517,84.4,14.6,9.38
+API Synthesis Reactor,Pharmaceutical,19.0,0.0,68.4,0.0672,83.6,14.9,9.45
+API Synthesis Reactor,Pharmaceutical,20.6,0.0,65.4,0.0684,84.8,18.5,9.52
+API Synthesis Reactor,Pharmaceutical,18.3,0.0,67.4,0.066,85.3,18.4,9.6
+API Synthesis Reactor,Pharmaceutical,18.8,0.0,68.5,0.0685,82.6,16.9,9.68
+API Synthesis Reactor,Pharmaceutical,21.8,0.0,69.1,0.0599,84.7,15.2,9.75
+API Synthesis Reactor,Pharmaceutical,21.9,0.0,68.9,0.0683,85.8,19.6,9.82
+API Synthesis Reactor,Pharmaceutical,24.8,0.0,67.1,0.0733,85.7,17.8,9.9
+API Synthesis Reactor,Pharmaceutical,25.2,0.0,67.8,0.0736,82.4,20.3,9.98
+API Synthesis Reactor,Pharmaceutical,25.6,0.0,68.4,0.0643,82.5,17.0,10.05
+API Synthesis Reactor,Pharmaceutical,25.5,7.4,66.5,0.0695,83.7,19.5,10.12
+API Synthesis Reactor,Pharmaceutical,27.5,12.0,67.1,0.0695,82.1,16.5,10.2
+API Synthesis Reactor,Pharmaceutical,28.1,13.0,65.2,0.0686,85.4,19.7,10.27
+API Synthesis Reactor,Pharmaceutical,28.7,19.2,69.1,0.0641,83.0,22.0,10.35
+API Synthesis Reactor,Pharmaceutical,30.5,27.0,68.5,0.0632,85.6,16.3,10.43
+API Synthesis Reactor,Pharmaceutical,31.0,22.8,69.5,0.0716,83.2,16.9,10.5
+API Synthesis Reactor,Pharmaceutical,33.4,36.9,68.2,0.075,85.4,15.8,10.57
+API Synthesis Reactor,Pharmaceutical,35.1,36.0,70.1,0.0676,85.3,21.1,10.65
+API Synthesis Reactor,Pharmaceutical,35.8,38.2,67.6,0.0673,88.5,20.5,10.73
+API Synthesis Reactor,Pharmaceutical,37.9,46.8,71.1,0.0782,86.3,21.4,10.8
+API Synthesis Reactor,Pharmaceutical,39.6,50.6,69.1,0.0684,89.2,20.3,10.88
+API Synthesis Reactor,Pharmaceutical,42.5,52.3,69.4,0.0734,85.9,22.2,10.95
+API Synthesis Reactor,Pharmaceutical,41.7,60.1,65.7,0.0698,83.6,23.7,11.02
+API Synthesis Reactor,Pharmaceutical,45.0,63.0,69.7,0.072,83.0,22.2,11.1
+API Synthesis Reactor,Pharmaceutical,47.2,74.6,68.9,0.0754,85.6,22.1,11.18
+API Synthesis Reactor,Pharmaceutical,49.0,70.3,69.8,0.0677,85.2,20.9,11.25
+API Synthesis Reactor,Pharmaceutical,49.7,82.1,68.3,0.0642,86.0,21.9,11.32
+API Synthesis Reactor,Pharmaceutical,52.1,80.7,70.0,0.0679,85.8,24.3,11.4
+API Synthesis Reactor,Pharmaceutical,53.0,88.1,70.6,0.0717,85.5,18.5,11.48
+API Synthesis Reactor,Pharmaceutical,55.0,90.9,70.8,0.0745,87.8,27.4,11.55
+API Synthesis Reactor,Pharmaceutical,58.5,98.1,70.5,0.0783,88.4,23.9,11.62
+API Synthesis Reactor,Pharmaceutical,61.8,96.9,70.1,0.0673,89.4,24.0,11.7
+API Synthesis Reactor,Pharmaceutical,61.8,97.7,72.0,0.0695,85.2,26.0,11.77
+API Synthesis Reactor,Pharmaceutical,63.3,99.8,70.6,0.0671,80.2,23.3,11.85
+API Synthesis Reactor,Pharmaceutical,66.8,104.0,70.3,0.0721,87.5,22.3,11.93
+Solvent Recovery Unit,Pharmaceutical,68.9,280.0,72.8,0.0514,96.6,10.4,0.0
+Solvent Recovery Unit,Pharmaceutical,72.1,280.0,69.9,0.0465,100.0,12.2,0.08
+Solvent Recovery Unit,Pharmaceutical,73.8,280.0,71.7,0.0458,98.3,11.8,0.15
+Solvent Recovery Unit,Pharmaceutical,75.1,280.0,75.3,0.0563,96.3,12.6,0.22
+Solvent Recovery Unit,Pharmaceutical,78.1,280.0,71.7,0.045,98.3,9.6,0.3
+Solvent Recovery Unit,Pharmaceutical,83.9,280.0,77.2,0.0505,98.1,12.2,0.38
+Solvent Recovery Unit,Pharmaceutical,86.0,280.0,72.4,0.0537,94.1,16.2,0.45
+Solvent Recovery Unit,Pharmaceutical,87.1,280.0,73.8,0.056,98.2,10.6,0.52
+Solvent Recovery Unit,Pharmaceutical,89.8,280.0,74.5,0.0487,93.7,13.3,0.6
+Solvent Recovery Unit,Pharmaceutical,92.0,280.0,76.0,0.0618,99.1,13.6,0.68
+Solvent Recovery Unit,Pharmaceutical,92.0,280.0,77.1,0.0505,96.6,12.9,0.75
+Solvent Recovery Unit,Pharmaceutical,92.0,280.0,72.8,0.0644,93.4,9.6,0.83
+Solvent Recovery Unit,Pharmaceutical,92.0,280.0,76.6,0.0543,97.0,8.0,0.9
+Solvent Recovery Unit,Pharmaceutical,92.0,280.0,73.2,0.0579,94.7,11.8,0.98
+Solvent Recovery Unit,Pharmaceutical,92.0,280.0,75.1,0.0563,94.3,15.4,1.05
+Solvent Recovery Unit,Pharmaceutical,92.0,280.0,76.5,0.0512,94.7,10.5,1.12
+Solvent Recovery Unit,Pharmaceutical,92.0,280.0,74.6,0.0579,98.7,17.0,1.2
+Solvent Recovery Unit,Pharmaceutical,92.0,280.0,75.6,0.0579,97.6,10.0,1.27
+Solvent Recovery Unit,Pharmaceutical,92.0,276.7,73.5,0.0549,97.5,8.7,1.35
+Solvent Recovery Unit,Pharmaceutical,92.0,255.3,75.0,0.0548,97.5,13.4,1.42
+Solvent Recovery Unit,Pharmaceutical,92.0,243.2,78.2,0.0581,96.9,11.3,1.5
+Solvent Recovery Unit,Pharmaceutical,92.0,221.2,76.0,0.0579,98.5,12.6,1.58
+Solvent Recovery Unit,Pharmaceutical,92.0,197.3,76.9,0.0508,97.1,11.2,1.65
+Solvent Recovery Unit,Pharmaceutical,92.0,176.6,76.1,0.0541,95.7,8.7,1.72
+Solvent Recovery Unit,Pharmaceutical,92.0,157.8,76.3,0.0657,97.0,14.4,1.8
+Solvent Recovery Unit,Pharmaceutical,92.0,130.2,79.3,0.0628,97.9,10.7,1.88
+Solvent Recovery Unit,Pharmaceutical,92.0,119.6,72.0,0.065,95.0,7.3,1.95
+Solvent Recovery Unit,Pharmaceutical,92.0,91.8,78.9,0.0588,96.5,7.9,2.03
+Solvent Recovery Unit,Pharmaceutical,92.0,74.6,77.7,0.0578,99.4,12.0,2.1
+Solvent Recovery Unit,Pharmaceutical,92.0,53.7,78.5,0.0699,98.2,11.8,2.17
+Solvent Recovery Unit,Pharmaceutical,92.0,34.5,80.7,0.0506,98.2,10.5,2.25
+Solvent Recovery Unit,Pharmaceutical,92.0,14.9,78.2,0.0667,97.2,11.6,2.33
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,76.7,0.0573,96.2,8.1,2.4
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,79.7,0.0598,97.9,10.9,2.47
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,78.6,0.0572,101.6,13.0,2.55
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,77.3,0.0561,100.7,10.9,2.62
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,75.7,0.0667,98.1,12.2,2.7
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,76.1,0.0709,99.2,9.9,2.78
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,79.1,0.0598,96.0,10.8,2.85
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,75.1,0.072,96.8,13.5,2.92
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,77.7,0.0684,96.4,9.8,3.0
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,78.6,0.0631,97.7,13.0,3.07
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,74.8,0.062,100.8,12.8,3.15
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,77.2,0.0613,97.0,7.1,3.22
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,74.4,0.0586,98.9,8.5,3.3
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,75.0,0.0659,96.0,11.3,3.38
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,77.6,0.0663,97.0,13.0,3.45
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,76.5,0.055,96.6,11.4,3.53
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,77.4,0.07,95.4,10.9,3.6
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,77.8,0.0582,97.9,10.5,3.68
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,76.6,0.0606,97.4,12.2,3.75
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,78.8,0.0579,97.0,12.8,3.82
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,77.0,0.0585,96.6,12.0,3.9
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,76.7,0.0519,98.1,15.2,3.97
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,77.3,0.0559,95.3,16.7,4.05
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,79.5,0.0743,93.6,13.0,4.12
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,75.7,0.0568,95.8,15.2,4.2
+Solvent Recovery Unit,Pharmaceutical,92.0,0.0,78.3,0.0577,99.2,16.2,4.28
+Solvent Recovery Unit,Pharmaceutical,92.0,18.8,75.6,0.0523,96.9,16.4,4.35
+Solvent Recovery Unit,Pharmaceutical,92.0,36.6,78.2,0.0567,96.6,18.7,4.43
+Solvent Recovery Unit,Pharmaceutical,92.0,54.3,73.3,0.0563,93.5,19.8,4.5
+Solvent Recovery Unit,Pharmaceutical,92.0,73.0,75.3,0.0567,98.0,15.4,4.57
+Solvent Recovery Unit,Pharmaceutical,92.0,94.1,77.5,0.0563,94.8,15.9,4.65
+Solvent Recovery Unit,Pharmaceutical,92.0,120.7,77.6,0.056,96.8,17.3,4.72
+Solvent Recovery Unit,Pharmaceutical,92.0,138.7,73.7,0.0692,97.8,18.1,4.8
+Solvent Recovery Unit,Pharmaceutical,92.0,158.1,76.7,0.0549,92.7,17.8,4.88
+Solvent Recovery Unit,Pharmaceutical,92.0,181.6,75.6,0.0548,95.4,16.6,4.95
+Solvent Recovery Unit,Pharmaceutical,92.0,203.8,75.8,0.0529,98.8,18.5,5.03
+Solvent Recovery Unit,Pharmaceutical,92.0,220.4,74.5,0.0619,96.8,16.6,5.1
+Solvent Recovery Unit,Pharmaceutical,92.0,239.5,74.3,0.0563,97.8,17.2,5.18
+Solvent Recovery Unit,Pharmaceutical,90.9,262.9,73.4,0.0512,95.2,19.1,5.25
+Solvent Recovery Unit,Pharmaceutical,92.0,280.0,73.5,0.0501,98.7,19.9,5.32
+Solvent Recovery Unit,Pharmaceutical,86.5,280.0,73.8,0.0651,95.6,19.3,5.4
+Solvent Recovery Unit,Pharmaceutical,85.1,280.0,73.8,0.0491,97.7,17.8,5.47
+Solvent Recovery Unit,Pharmaceutical,84.0,280.0,71.0,0.0513,97.2,21.5,5.55
+Solvent Recovery Unit,Pharmaceutical,80.9,280.0,75.8,0.0507,94.3,20.9,5.62
+Solvent Recovery Unit,Pharmaceutical,75.1,280.0,73.0,0.0523,93.8,22.3,5.7
+Solvent Recovery Unit,Pharmaceutical,73.0,280.0,74.4,0.0541,97.8,21.1,5.78
+Solvent Recovery Unit,Pharmaceutical,71.6,280.0,73.5,0.0505,97.2,22.4,5.85
+Solvent Recovery Unit,Pharmaceutical,67.8,280.0,74.6,0.0468,97.5,19.9,5.93
+Solvent Recovery Unit,Pharmaceutical,67.3,280.0,73.5,0.0408,95.6,19.2,6.0
+Solvent Recovery Unit,Pharmaceutical,62.6,280.0,73.1,0.0411,98.6,19.7,6.07
+Solvent Recovery Unit,Pharmaceutical,59.2,280.0,72.2,0.0534,95.5,21.0,6.15
+Solvent Recovery Unit,Pharmaceutical,55.6,280.0,73.0,0.0542,93.8,20.5,6.23
+Solvent Recovery Unit,Pharmaceutical,54.5,280.0,73.9,0.0489,99.4,22.3,6.3
+Solvent Recovery Unit,Pharmaceutical,53.8,280.0,72.4,0.0523,95.5,25.8,6.38
+Solvent Recovery Unit,Pharmaceutical,49.4,280.0,72.1,0.048,96.9,24.6,6.45
+Solvent Recovery Unit,Pharmaceutical,48.1,280.0,70.5,0.0497,94.7,24.7,6.52
+Solvent Recovery Unit,Pharmaceutical,43.1,280.0,71.1,0.0527,93.6,21.0,6.6
+Solvent Recovery Unit,Pharmaceutical,38.4,280.0,72.4,0.0478,95.4,20.5,6.68
+Solvent Recovery Unit,Pharmaceutical,37.3,280.0,74.4,0.0418,96.4,21.5,6.75
+Solvent Recovery Unit,Pharmaceutical,36.2,280.0,70.3,0.0484,95.8,27.9,6.82
+Solvent Recovery Unit,Pharmaceutical,33.2,280.0,70.4,0.0482,94.2,20.5,6.9
+Solvent Recovery Unit,Pharmaceutical,32.0,280.0,70.4,0.0501,93.7,25.4,6.98
+Solvent Recovery Unit,Pharmaceutical,28.7,280.0,68.6,0.043,93.8,23.9,7.05
+Solvent Recovery Unit,Pharmaceutical,23.2,280.0,68.8,0.0399,97.0,26.0,7.12
+Solvent Recovery Unit,Pharmaceutical,24.7,280.0,67.0,0.0549,88.5,21.1,7.2
+Solvent Recovery Unit,Pharmaceutical,19.8,280.0,70.9,0.0409,91.3,26.6,7.27
+Solvent Recovery Unit,Pharmaceutical,21.9,266.4,69.0,0.0482,93.8,22.5,7.35
+Solvent Recovery Unit,Pharmaceutical,18.0,251.1,68.2,0.0535,94.0,24.0,7.43
+Solvent Recovery Unit,Pharmaceutical,18.0,225.1,69.8,0.0349,94.5,23.3,7.5
+Solvent Recovery Unit,Pharmaceutical,18.0,213.2,68.5,0.0424,94.9,23.6,7.57
+Solvent Recovery Unit,Pharmaceutical,18.0,188.3,67.7,0.0417,95.6,23.3,7.65
+Solvent Recovery Unit,Pharmaceutical,18.0,169.7,70.5,0.0364,91.9,24.3,7.73
+Solvent Recovery Unit,Pharmaceutical,18.0,143.0,65.1,0.0488,94.5,24.0,7.8
+Solvent Recovery Unit,Pharmaceutical,18.0,123.9,71.3,0.0511,94.9,22.8,7.88
+Solvent Recovery Unit,Pharmaceutical,18.0,104.7,69.1,0.0449,91.0,22.7,7.95
+Solvent Recovery Unit,Pharmaceutical,18.0,80.2,66.8,0.0436,97.0,25.1,8.02
+Solvent Recovery Unit,Pharmaceutical,18.0,60.9,67.4,0.0481,94.4,21.7,8.1
+Solvent Recovery Unit,Pharmaceutical,18.0,41.4,69.6,0.0395,94.6,18.8,8.18
+Solvent Recovery Unit,Pharmaceutical,18.0,24.2,65.8,0.037,91.9,22.3,8.25
+Solvent Recovery Unit,Pharmaceutical,18.0,3.9,68.3,0.045,92.6,26.1,8.32
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,67.6,0.0288,96.4,22.5,8.4
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,69.5,0.054,97.0,22.3,8.48
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,69.5,0.0405,94.4,22.2,8.55
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,67.6,0.0372,92.1,19.6,8.62
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,68.2,0.0479,92.2,25.5,8.7
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,69.5,0.0369,93.3,20.7,8.77
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,66.7,0.0388,95.6,20.0,8.85
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,66.3,0.0491,94.3,21.8,8.93
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,66.7,0.0418,96.9,23.9,9.0
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,69.8,0.0414,95.1,19.5,9.07
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,68.6,0.0433,94.4,23.0,9.15
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,65.7,0.0334,100.3,24.7,9.23
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,67.1,0.0501,94.8,23.6,9.3
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,68.0,0.0375,96.8,24.5,9.38
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,63.7,0.0456,93.8,23.9,9.45
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,69.8,0.052,93.5,22.8,9.52
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,69.1,0.045,95.2,24.1,9.6
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,68.0,0.0469,93.7,25.3,9.68
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,67.8,0.0405,92.0,22.2,9.75
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,67.2,0.0488,95.2,24.5,9.82
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,69.8,0.0556,93.5,26.2,9.9
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,68.7,0.0517,92.3,26.5,9.98
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,70.3,0.0457,91.1,24.1,10.05
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,68.8,0.0407,95.9,24.4,10.12
+Solvent Recovery Unit,Pharmaceutical,18.0,0.0,69.5,0.0493,94.5,24.3,10.2
+Solvent Recovery Unit,Pharmaceutical,18.0,3.8,69.4,0.0536,95.8,29.8,10.27
+Solvent Recovery Unit,Pharmaceutical,18.0,22.0,69.8,0.0487,93.9,28.0,10.35
+Solvent Recovery Unit,Pharmaceutical,18.0,44.1,69.4,0.0569,91.3,25.6,10.43
+Solvent Recovery Unit,Pharmaceutical,18.0,65.9,67.9,0.0439,94.9,26.6,10.5
+Solvent Recovery Unit,Pharmaceutical,18.4,89.5,72.6,0.0418,94.0,26.7,10.57
+Solvent Recovery Unit,Pharmaceutical,24.8,102.9,70.1,0.0453,96.2,25.6,10.65
+Solvent Recovery Unit,Pharmaceutical,23.7,125.9,68.1,0.0495,95.8,24.0,10.73
+Solvent Recovery Unit,Pharmaceutical,26.9,148.8,68.6,0.0541,96.1,26.1,10.8
+Solvent Recovery Unit,Pharmaceutical,30.2,168.0,72.1,0.0474,94.8,27.1,10.88
+Solvent Recovery Unit,Pharmaceutical,30.5,186.2,69.9,0.0549,95.8,27.9,10.95
+Solvent Recovery Unit,Pharmaceutical,35.7,208.0,68.2,0.0488,93.7,28.3,11.02
+Solvent Recovery Unit,Pharmaceutical,35.5,234.4,69.5,0.0412,95.5,30.1,11.1
+Solvent Recovery Unit,Pharmaceutical,40.8,255.6,69.2,0.0519,96.7,30.6,11.18
+Solvent Recovery Unit,Pharmaceutical,42.3,264.6,69.4,0.0436,95.6,31.3,11.25
+Solvent Recovery Unit,Pharmaceutical,43.8,280.0,70.6,0.0522,97.8,31.0,11.32
+Solvent Recovery Unit,Pharmaceutical,47.6,280.0,72.5,0.0568,99.8,31.3,11.4
+Solvent Recovery Unit,Pharmaceutical,51.6,280.0,71.5,0.0489,96.4,31.6,11.48
+Solvent Recovery Unit,Pharmaceutical,54.1,280.0,68.5,0.0482,96.5,32.5,11.55
+Solvent Recovery Unit,Pharmaceutical,56.1,280.0,71.1,0.0523,94.9,28.4,11.62
+Solvent Recovery Unit,Pharmaceutical,57.3,280.0,70.9,0.0497,96.4,30.0,11.7
+Solvent Recovery Unit,Pharmaceutical,59.4,280.0,69.8,0.0506,98.0,32.8,11.77
+Solvent Recovery Unit,Pharmaceutical,65.2,280.0,71.6,0.0562,96.9,33.4,11.85
+Solvent Recovery Unit,Pharmaceutical,67.1,280.0,68.5,0.0481,95.9,30.3,11.93
+Tablet Coating Room,Pharmaceutical,39.1,27.8,70.7,0.028,70.1,8.4,0.0
+Tablet Coating Room,Pharmaceutical,38.6,23.8,71.2,0.0268,70.6,11.3,0.08
+Tablet Coating Room,Pharmaceutical,36.1,21.2,72.6,0.0319,68.0,10.1,0.15
+Tablet Coating Room,Pharmaceutical,38.6,26.4,69.9,0.0286,67.9,10.7,0.22
+Tablet Coating Room,Pharmaceutical,41.7,22.4,70.2,0.0423,74.8,16.2,0.3
+Tablet Coating Room,Pharmaceutical,39.7,23.1,70.3,0.038,70.4,7.0,0.38
+Tablet Coating Room,Pharmaceutical,39.3,22.0,74.2,0.0341,74.9,7.7,0.45
+Tablet Coating Room,Pharmaceutical,40.9,26.6,73.2,0.0269,71.2,9.8,0.52
+Tablet Coating Room,Pharmaceutical,38.4,27.3,74.8,0.0245,72.4,10.5,0.6
+Tablet Coating Room,Pharmaceutical,42.5,20.1,70.2,0.0344,70.9,7.0,0.68
+Tablet Coating Room,Pharmaceutical,42.8,25.8,70.3,0.0354,71.9,13.0,0.75
+Tablet Coating Room,Pharmaceutical,44.1,24.4,73.2,0.0306,68.1,12.3,0.83
+Tablet Coating Room,Pharmaceutical,43.7,22.5,70.9,0.0381,70.9,9.9,0.9
+Tablet Coating Room,Pharmaceutical,45.2,26.0,71.9,0.0367,72.4,14.0,0.98
+Tablet Coating Room,Pharmaceutical,45.3,20.5,75.8,0.0202,71.3,7.6,1.05
+Tablet Coating Room,Pharmaceutical,43.2,17.3,76.0,0.0308,72.6,11.9,1.12
+Tablet Coating Room,Pharmaceutical,44.7,19.3,74.2,0.0374,71.0,12.2,1.2
+Tablet Coating Room,Pharmaceutical,46.1,20.2,74.6,0.0308,76.2,11.9,1.27
+Tablet Coating Room,Pharmaceutical,46.1,21.0,74.8,0.0334,74.5,13.3,1.35
+Tablet Coating Room,Pharmaceutical,45.6,17.4,74.7,0.0355,73.6,12.2,1.42
+Tablet Coating Room,Pharmaceutical,46.2,15.1,75.2,0.0332,72.3,11.5,1.5
+Tablet Coating Room,Pharmaceutical,46.3,21.2,75.5,0.0312,72.0,10.7,1.58
+Tablet Coating Room,Pharmaceutical,46.3,19.3,77.1,0.0197,73.3,12.6,1.65
+Tablet Coating Room,Pharmaceutical,47.0,10.8,75.1,0.0305,71.3,7.7,1.72
+Tablet Coating Room,Pharmaceutical,49.3,18.7,74.0,0.0312,74.7,7.0,1.8
+Tablet Coating Room,Pharmaceutical,48.8,14.3,76.6,0.038,71.2,8.3,1.88
+Tablet Coating Room,Pharmaceutical,47.1,19.5,78.5,0.0347,71.9,10.4,1.95
+Tablet Coating Room,Pharmaceutical,48.7,12.7,73.0,0.0367,70.7,8.2,2.03
+Tablet Coating Room,Pharmaceutical,46.8,12.4,74.5,0.039,70.1,10.3,2.1
+Tablet Coating Room,Pharmaceutical,49.7,11.3,76.4,0.0344,70.9,13.3,2.17
+Tablet Coating Room,Pharmaceutical,47.9,11.6,74.9,0.029,71.9,8.5,2.25
+Tablet Coating Room,Pharmaceutical,49.8,10.9,73.0,0.0266,71.4,9.1,2.33
+Tablet Coating Room,Pharmaceutical,49.9,7.2,74.0,0.0458,76.1,5.0,2.4
+Tablet Coating Room,Pharmaceutical,48.4,10.1,75.9,0.0401,73.4,6.2,2.47
+Tablet Coating Room,Pharmaceutical,51.2,10.3,76.9,0.0288,69.6,8.0,2.55
+Tablet Coating Room,Pharmaceutical,48.7,7.5,74.9,0.0278,73.1,5.0,2.62
+Tablet Coating Room,Pharmaceutical,49.9,3.5,77.2,0.0443,72.3,5.2,2.7
+Tablet Coating Room,Pharmaceutical,48.6,12.7,75.0,0.0376,76.6,9.6,2.78
+Tablet Coating Room,Pharmaceutical,48.9,10.7,75.5,0.0355,72.4,5.2,2.85
+Tablet Coating Room,Pharmaceutical,48.4,6.7,75.9,0.0288,74.3,5.7,2.92
+Tablet Coating Room,Pharmaceutical,50.4,7.7,77.1,0.0325,71.9,5.5,3.0
+Tablet Coating Room,Pharmaceutical,49.0,6.3,73.0,0.038,71.9,10.2,3.07
+Tablet Coating Room,Pharmaceutical,49.4,5.5,75.8,0.0273,72.3,7.6,3.15
+Tablet Coating Room,Pharmaceutical,49.1,2.1,73.9,0.0254,71.7,6.8,3.22
+Tablet Coating Room,Pharmaceutical,50.8,7.2,74.2,0.0378,69.9,7.2,3.3
+Tablet Coating Room,Pharmaceutical,51.0,7.7,77.3,0.0268,73.1,6.4,3.38
+Tablet Coating Room,Pharmaceutical,48.7,7.1,73.3,0.0344,71.4,8.9,3.45
+Tablet Coating Room,Pharmaceutical,50.9,5.5,74.4,0.0375,70.2,6.8,3.53
+Tablet Coating Room,Pharmaceutical,46.2,9.3,75.4,0.0397,74.5,9.9,3.6
+Tablet Coating Room,Pharmaceutical,48.3,6.8,75.8,0.0344,77.3,5.0,3.68
+Tablet Coating Room,Pharmaceutical,49.2,9.3,74.7,0.0324,73.1,9.4,3.75
+Tablet Coating Room,Pharmaceutical,50.7,6.8,74.3,0.0391,74.0,8.7,3.82
+Tablet Coating Room,Pharmaceutical,48.8,11.1,77.9,0.0229,71.2,7.7,3.9
+Tablet Coating Room,Pharmaceutical,47.7,8.9,75.4,0.0387,71.7,8.6,3.97
+Tablet Coating Room,Pharmaceutical,47.6,10.4,75.2,0.0292,74.7,5.3,4.05
+Tablet Coating Room,Pharmaceutical,47.9,9.2,75.3,0.0338,73.7,6.8,4.12
+Tablet Coating Room,Pharmaceutical,46.7,12.1,73.9,0.0293,73.4,9.4,4.2
+Tablet Coating Room,Pharmaceutical,46.6,11.4,75.7,0.0332,70.1,5.7,4.28
+Tablet Coating Room,Pharmaceutical,47.4,5.8,75.3,0.0367,74.6,8.0,4.35
+Tablet Coating Room,Pharmaceutical,47.5,8.1,76.4,0.0367,70.8,6.9,4.43
+Tablet Coating Room,Pharmaceutical,46.5,15.1,74.2,0.0286,67.7,5.2,4.5
+Tablet Coating Room,Pharmaceutical,47.0,12.2,74.2,0.0318,71.5,10.6,4.57
+Tablet Coating Room,Pharmaceutical,46.7,14.8,74.3,0.0347,71.4,8.1,4.65
+Tablet Coating Room,Pharmaceutical,44.6,17.9,73.7,0.0321,70.5,11.2,4.72
+Tablet Coating Room,Pharmaceutical,45.9,14.6,72.0,0.0312,69.9,8.2,4.8
+Tablet Coating Room,Pharmaceutical,43.8,16.0,73.1,0.0317,72.1,13.7,4.88
+Tablet Coating Room,Pharmaceutical,43.4,17.7,72.2,0.0304,70.1,12.3,4.95
+Tablet Coating Room,Pharmaceutical,42.0,15.8,76.2,0.0373,72.3,14.0,5.03
+Tablet Coating Room,Pharmaceutical,42.9,19.1,71.5,0.0336,72.1,11.2,5.1
+Tablet Coating Room,Pharmaceutical,41.4,21.3,74.3,0.0289,69.6,12.8,5.18
+Tablet Coating Room,Pharmaceutical,42.0,19.4,71.9,0.0301,69.9,10.3,5.25
+Tablet Coating Room,Pharmaceutical,42.5,18.9,72.2,0.0387,72.2,8.7,5.32
+Tablet Coating Room,Pharmaceutical,38.9,19.2,71.4,0.0276,73.0,10.3,5.4
+Tablet Coating Room,Pharmaceutical,41.1,21.4,71.4,0.0315,74.4,14.0,5.47
+Tablet Coating Room,Pharmaceutical,41.8,23.2,73.6,0.022,72.8,11.2,5.55
+Tablet Coating Room,Pharmaceutical,39.8,20.2,73.2,0.0208,69.4,14.2,5.62
+Tablet Coating Room,Pharmaceutical,37.7,19.3,73.3,0.0339,70.3,13.9,5.7
+Tablet Coating Room,Pharmaceutical,37.8,19.5,70.3,0.0282,71.5,8.3,5.78
+Tablet Coating Room,Pharmaceutical,40.1,18.7,71.1,0.031,70.8,11.8,5.85
+Tablet Coating Room,Pharmaceutical,37.9,23.8,68.1,0.0275,73.3,11.2,5.93
+Tablet Coating Room,Pharmaceutical,38.8,23.2,71.8,0.0381,72.7,8.1,6.0
+Tablet Coating Room,Pharmaceutical,35.5,25.5,70.0,0.0328,70.5,15.1,6.07
+Tablet Coating Room,Pharmaceutical,39.4,19.1,72.6,0.0222,76.0,15.6,6.15
+Tablet Coating Room,Pharmaceutical,37.2,25.9,71.1,0.0357,72.3,14.4,6.23
+Tablet Coating Room,Pharmaceutical,37.5,23.2,69.5,0.0258,71.0,10.5,6.3
+Tablet Coating Room,Pharmaceutical,37.3,24.9,69.9,0.0303,72.2,13.9,6.38
+Tablet Coating Room,Pharmaceutical,34.2,28.3,68.2,0.0321,71.6,14.7,6.45
+Tablet Coating Room,Pharmaceutical,33.8,28.0,71.1,0.0293,73.1,14.3,6.52
+Tablet Coating Room,Pharmaceutical,33.1,22.8,68.5,0.0237,70.3,14.9,6.6
+Tablet Coating Room,Pharmaceutical,33.4,22.2,67.3,0.0271,75.7,11.0,6.68
+Tablet Coating Room,Pharmaceutical,33.3,21.6,67.2,0.0367,70.8,10.7,6.75
+Tablet Coating Room,Pharmaceutical,33.1,21.4,68.0,0.032,70.7,11.6,6.82
+Tablet Coating Room,Pharmaceutical,33.4,21.7,67.8,0.0305,70.5,10.7,6.9
+Tablet Coating Room,Pharmaceutical,32.8,20.9,68.9,0.0396,69.6,12.8,6.98
+Tablet Coating Room,Pharmaceutical,32.3,22.6,68.4,0.0258,72.1,10.1,7.05
+Tablet Coating Room,Pharmaceutical,32.4,19.7,67.1,0.0293,72.2,14.6,7.12
+Tablet Coating Room,Pharmaceutical,32.0,18.9,66.3,0.0282,74.7,11.4,7.2
+Tablet Coating Room,Pharmaceutical,31.8,19.1,69.6,0.0284,74.4,12.0,7.27
+Tablet Coating Room,Pharmaceutical,29.8,16.3,66.1,0.0222,74.8,10.9,7.35
+Tablet Coating Room,Pharmaceutical,29.6,22.5,64.0,0.0217,71.6,13.6,7.43
+Tablet Coating Room,Pharmaceutical,29.9,21.5,62.9,0.0451,70.1,15.9,7.5
+Tablet Coating Room,Pharmaceutical,29.6,17.9,66.0,0.0337,70.8,13.7,7.57
+Tablet Coating Room,Pharmaceutical,29.7,16.6,67.6,0.0335,75.2,12.5,7.65
+Tablet Coating Room,Pharmaceutical,29.5,17.4,62.9,0.0285,70.2,8.0,7.73
+Tablet Coating Room,Pharmaceutical,28.0,11.2,65.5,0.0298,68.8,10.2,7.8
+Tablet Coating Room,Pharmaceutical,28.7,14.5,67.2,0.0263,65.4,12.8,7.88
+Tablet Coating Room,Pharmaceutical,31.3,14.5,67.0,0.0279,73.7,11.0,7.95
+Tablet Coating Room,Pharmaceutical,27.6,16.9,65.2,0.0249,74.8,12.9,8.02
+Tablet Coating Room,Pharmaceutical,29.4,12.3,65.8,0.0335,72.5,9.6,8.1
+Tablet Coating Room,Pharmaceutical,27.6,9.9,66.7,0.0228,69.6,13.8,8.18
+Tablet Coating Room,Pharmaceutical,28.9,9.0,65.8,0.0258,73.7,10.0,8.25
+Tablet Coating Room,Pharmaceutical,27.1,12.9,65.6,0.0341,67.8,8.8,8.32
+Tablet Coating Room,Pharmaceutical,26.0,12.8,64.8,0.031,74.3,10.4,8.4
+Tablet Coating Room,Pharmaceutical,26.5,7.2,68.2,0.027,72.6,10.3,8.48
+Tablet Coating Room,Pharmaceutical,26.0,6.8,66.1,0.0283,72.0,6.9,8.55
+Tablet Coating Room,Pharmaceutical,25.7,9.5,63.8,0.0326,69.3,9.4,8.62
+Tablet Coating Room,Pharmaceutical,29.0,8.4,65.0,0.0229,73.4,6.6,8.7
+Tablet Coating Room,Pharmaceutical,26.8,7.4,65.0,0.0252,70.9,8.2,8.77
+Tablet Coating Room,Pharmaceutical,26.2,8.5,66.1,0.0273,72.3,7.5,8.85
+Tablet Coating Room,Pharmaceutical,24.5,6.4,64.7,0.0161,71.1,5.0,8.93
+Tablet Coating Room,Pharmaceutical,27.0,5.0,63.2,0.0295,69.3,6.4,9.0
+Tablet Coating Room,Pharmaceutical,29.4,8.6,68.8,0.0343,73.3,10.0,9.07
+Tablet Coating Room,Pharmaceutical,24.9,7.8,65.0,0.0272,71.1,7.7,9.15
+Tablet Coating Room,Pharmaceutical,24.8,10.2,66.8,0.0367,68.3,8.6,9.23
+Tablet Coating Room,Pharmaceutical,28.0,8.8,66.7,0.0291,70.1,7.4,9.3
+Tablet Coating Room,Pharmaceutical,27.6,5.6,67.2,0.0253,73.4,7.3,9.38
+Tablet Coating Room,Pharmaceutical,26.6,6.0,66.1,0.0242,71.7,7.4,9.45
+Tablet Coating Room,Pharmaceutical,25.1,4.1,69.0,0.0307,71.6,10.9,9.52
+Tablet Coating Room,Pharmaceutical,27.8,10.2,63.6,0.0237,71.7,6.7,9.6
+Tablet Coating Room,Pharmaceutical,26.0,7.8,64.0,0.0286,73.2,5.3,9.68
+Tablet Coating Room,Pharmaceutical,26.5,6.6,65.6,0.0293,70.6,7.0,9.75
+Tablet Coating Room,Pharmaceutical,27.5,8.3,66.1,0.0227,72.3,10.5,9.82
+Tablet Coating Room,Pharmaceutical,28.0,6.8,65.5,0.0307,71.0,9.4,9.9
+Tablet Coating Room,Pharmaceutical,28.7,6.4,67.1,0.0306,66.9,9.4,9.98
+Tablet Coating Room,Pharmaceutical,25.7,12.8,64.6,0.0289,74.3,8.5,10.05
+Tablet Coating Room,Pharmaceutical,28.7,7.9,67.9,0.0321,66.3,10.3,10.12
+Tablet Coating Room,Pharmaceutical,28.6,7.1,64.5,0.03,70.9,9.0,10.2
+Tablet Coating Room,Pharmaceutical,29.7,11.0,68.3,0.021,73.1,11.8,10.27
+Tablet Coating Room,Pharmaceutical,30.5,9.7,72.3,0.0273,73.6,9.8,10.35
+Tablet Coating Room,Pharmaceutical,30.3,12.2,68.3,0.0265,73.3,10.0,10.43
+Tablet Coating Room,Pharmaceutical,31.1,12.2,67.5,0.0355,70.3,7.8,10.5
+Tablet Coating Room,Pharmaceutical,29.6,12.2,67.4,0.0283,70.9,12.3,10.57
+Tablet Coating Room,Pharmaceutical,31.6,13.3,67.2,0.0214,67.8,14.9,10.65
+Tablet Coating Room,Pharmaceutical,31.5,13.2,70.5,0.0292,71.6,10.9,10.73
+Tablet Coating Room,Pharmaceutical,34.1,14.5,70.4,0.0337,74.3,12.0,10.8
+Tablet Coating Room,Pharmaceutical,31.8,19.5,67.1,0.0274,74.8,11.5,10.88
+Tablet Coating Room,Pharmaceutical,31.9,13.0,66.6,0.0239,68.4,13.7,10.95
+Tablet Coating Room,Pharmaceutical,32.8,15.7,65.6,0.0248,66.6,14.2,11.02
+Tablet Coating Room,Pharmaceutical,33.9,14.9,68.0,0.0236,72.1,9.3,11.1
+Tablet Coating Room,Pharmaceutical,34.5,16.0,71.8,0.0275,69.7,15.3,11.18
+Tablet Coating Room,Pharmaceutical,34.3,18.2,69.3,0.0278,70.8,10.7,11.25
+Tablet Coating Room,Pharmaceutical,34.6,17.5,69.0,0.0267,71.9,14.9,11.32
+Tablet Coating Room,Pharmaceutical,35.3,19.1,68.1,0.0329,73.0,17.6,11.4
+Tablet Coating Room,Pharmaceutical,33.2,21.2,70.1,0.037,75.1,14.3,11.48
+Tablet Coating Room,Pharmaceutical,35.1,20.5,70.1,0.024,73.5,13.5,11.55
+Tablet Coating Room,Pharmaceutical,37.5,20.7,68.7,0.0291,69.1,20.1,11.62
+Tablet Coating Room,Pharmaceutical,35.2,20.4,72.0,0.0326,70.1,17.5,11.7
+Tablet Coating Room,Pharmaceutical,38.5,22.3,65.6,0.0459,74.4,12.7,11.77
+Tablet Coating Room,Pharmaceutical,37.0,25.1,68.4,0.037,72.4,15.5,11.85
+Tablet Coating Room,Pharmaceutical,38.4,23.4,72.8,0.0334,68.4,14.2,11.93
+Sterile Fill & Finish,Pharmaceutical,24.2,16.3,71.2,0.039,70.7,8.9,0.0
+Sterile Fill & Finish,Pharmaceutical,21.8,13.7,70.5,0.018,70.6,6.9,0.08
+Sterile Fill & Finish,Pharmaceutical,22.0,11.7,73.0,0.0185,68.6,9.4,0.15
+Sterile Fill & Finish,Pharmaceutical,22.2,12.5,72.1,0.0196,70.4,9.3,0.22
+Sterile Fill & Finish,Pharmaceutical,24.5,10.9,70.4,0.0127,70.7,9.8,0.3
+Sterile Fill & Finish,Pharmaceutical,22.5,10.4,72.3,0.0131,69.9,12.3,0.38
+Sterile Fill & Finish,Pharmaceutical,23.9,16.1,71.3,0.026,70.6,13.0,0.45
+Sterile Fill & Finish,Pharmaceutical,24.1,15.8,71.8,0.0306,71.1,9.3,0.52
+Sterile Fill & Finish,Pharmaceutical,25.7,12.6,71.5,0.0115,72.3,10.5,0.6
+Sterile Fill & Finish,Pharmaceutical,25.4,13.0,73.0,0.0311,69.6,7.3,0.68
+Sterile Fill & Finish,Pharmaceutical,25.8,15.6,72.3,0.0144,72.1,12.2,0.75
+Sterile Fill & Finish,Pharmaceutical,24.3,15.0,71.6,0.0239,70.9,10.2,0.83
+Sterile Fill & Finish,Pharmaceutical,25.7,15.7,72.0,0.0195,70.1,9.6,0.9
+Sterile Fill & Finish,Pharmaceutical,23.5,9.2,68.1,0.0139,68.4,8.8,0.98
+Sterile Fill & Finish,Pharmaceutical,24.7,7.1,72.1,0.0243,68.3,9.3,1.05
+Sterile Fill & Finish,Pharmaceutical,25.9,11.1,73.9,0.0292,68.2,8.5,1.12
+Sterile Fill & Finish,Pharmaceutical,23.7,12.5,72.9,0.0175,73.6,10.5,1.2
+Sterile Fill & Finish,Pharmaceutical,26.1,12.6,73.4,0.0268,69.6,11.3,1.27
+Sterile Fill & Finish,Pharmaceutical,28.0,17.1,71.5,0.021,70.0,14.1,1.35
+Sterile Fill & Finish,Pharmaceutical,28.4,9.4,71.6,0.0198,71.0,9.3,1.42
+Sterile Fill & Finish,Pharmaceutical,28.1,12.8,74.0,0.0212,69.2,12.8,1.5
+Sterile Fill & Finish,Pharmaceutical,24.9,15.4,73.7,0.034,70.3,5.1,1.58
+Sterile Fill & Finish,Pharmaceutical,25.6,8.1,73.6,0.0151,69.5,10.3,1.65
+Sterile Fill & Finish,Pharmaceutical,26.9,9.3,73.5,0.027,72.2,9.8,1.72
+Sterile Fill & Finish,Pharmaceutical,30.4,12.2,75.1,0.0273,69.9,7.6,1.8
+Sterile Fill & Finish,Pharmaceutical,26.6,4.3,73.5,0.0175,70.8,11.5,1.88
+Sterile Fill & Finish,Pharmaceutical,25.5,12.6,75.6,0.0267,67.1,8.6,1.95
+Sterile Fill & Finish,Pharmaceutical,26.2,4.7,73.3,0.0223,73.7,9.9,2.03
+Sterile Fill & Finish,Pharmaceutical,25.9,8.8,77.6,0.0191,70.1,11.2,2.1
+Sterile Fill & Finish,Pharmaceutical,26.8,4.3,74.7,0.0155,68.4,10.2,2.17
+Sterile Fill & Finish,Pharmaceutical,28.0,7.0,74.8,0.0206,73.1,7.6,2.25
+Sterile Fill & Finish,Pharmaceutical,27.9,5.0,73.0,0.0207,70.7,7.6,2.33
+Sterile Fill & Finish,Pharmaceutical,29.4,4.8,72.6,0.0141,71.0,5.0,2.4
+Sterile Fill & Finish,Pharmaceutical,30.1,8.1,73.5,0.0124,72.6,9.2,2.47
+Sterile Fill & Finish,Pharmaceutical,27.8,4.1,72.5,0.0161,70.1,9.0,2.55
+Sterile Fill & Finish,Pharmaceutical,29.2,4.5,76.8,0.0228,68.5,5.0,2.62
+Sterile Fill & Finish,Pharmaceutical,28.8,3.3,74.1,0.0227,71.0,5.7,2.7
+Sterile Fill & Finish,Pharmaceutical,29.1,3.0,75.2,0.0278,69.2,6.2,2.78
+Sterile Fill & Finish,Pharmaceutical,30.4,0.0,77.5,0.0107,68.0,9.6,2.85
+Sterile Fill & Finish,Pharmaceutical,27.6,4.1,76.2,0.0212,72.7,10.1,2.92
+Sterile Fill & Finish,Pharmaceutical,29.2,4.8,75.9,0.0178,70.6,5.0,3.0
+Sterile Fill & Finish,Pharmaceutical,28.5,3.1,74.6,0.016,71.7,6.3,3.07
+Sterile Fill & Finish,Pharmaceutical,29.5,2.3,77.4,0.027,67.1,6.9,3.15
+Sterile Fill & Finish,Pharmaceutical,27.5,4.9,78.5,0.0185,70.0,5.0,3.22
+Sterile Fill & Finish,Pharmaceutical,29.1,2.8,74.8,0.0193,70.2,5.5,3.3
+Sterile Fill & Finish,Pharmaceutical,29.2,0.8,78.2,0.0179,66.2,6.3,3.38
+Sterile Fill & Finish,Pharmaceutical,27.3,2.0,75.6,0.0236,69.7,5.0,3.45
+Sterile Fill & Finish,Pharmaceutical,27.6,8.0,72.6,0.0158,68.8,5.0,3.53
+Sterile Fill & Finish,Pharmaceutical,26.4,4.2,77.2,0.0309,70.3,5.0,3.6
+Sterile Fill & Finish,Pharmaceutical,28.7,8.0,76.4,0.0327,72.3,7.6,3.68
+Sterile Fill & Finish,Pharmaceutical,29.0,5.0,75.8,0.0263,68.9,8.9,3.75
+Sterile Fill & Finish,Pharmaceutical,29.2,4.8,73.1,0.0218,70.2,6.6,3.82
+Sterile Fill & Finish,Pharmaceutical,27.1,5.9,75.5,0.0289,71.9,8.6,3.9
+Sterile Fill & Finish,Pharmaceutical,27.6,3.5,76.7,0.0212,71.8,7.1,3.97
+Sterile Fill & Finish,Pharmaceutical,27.4,6.0,74.2,0.0199,64.4,6.5,4.05
+Sterile Fill & Finish,Pharmaceutical,26.6,2.9,75.4,0.0229,70.8,5.3,4.12
+Sterile Fill & Finish,Pharmaceutical,24.8,7.6,73.9,0.0305,70.2,6.1,4.2
+Sterile Fill & Finish,Pharmaceutical,27.3,0.9,76.9,0.0182,68.7,7.4,4.28
+Sterile Fill & Finish,Pharmaceutical,28.0,4.9,73.5,0.0176,68.4,5.6,4.35
+Sterile Fill & Finish,Pharmaceutical,27.5,7.9,74.6,0.0281,69.3,6.6,4.43
+Sterile Fill & Finish,Pharmaceutical,27.9,9.3,74.9,0.0189,69.3,10.3,4.5
+Sterile Fill & Finish,Pharmaceutical,27.0,5.0,73.0,0.0148,72.5,11.1,4.57
+Sterile Fill & Finish,Pharmaceutical,25.0,5.0,71.8,0.0304,72.5,11.8,4.65
+Sterile Fill & Finish,Pharmaceutical,28.7,6.1,74.4,0.015,69.4,9.5,4.72
+Sterile Fill & Finish,Pharmaceutical,26.0,10.3,73.0,0.0192,70.7,5.5,4.8
+Sterile Fill & Finish,Pharmaceutical,26.6,5.3,74.2,0.0262,70.8,13.2,4.88
+Sterile Fill & Finish,Pharmaceutical,24.9,6.5,72.9,0.0237,66.8,9.1,4.95
+Sterile Fill & Finish,Pharmaceutical,24.3,8.5,73.7,0.0231,71.4,11.1,5.03
+Sterile Fill & Finish,Pharmaceutical,24.7,10.4,72.4,0.0171,73.5,12.8,5.1
+Sterile Fill & Finish,Pharmaceutical,23.6,9.5,73.1,0.0157,70.3,11.5,5.18
+Sterile Fill & Finish,Pharmaceutical,23.7,10.7,71.4,0.0141,71.2,11.8,5.25
+Sterile Fill & Finish,Pharmaceutical,22.3,8.7,70.8,0.0183,69.6,12.3,5.32
+Sterile Fill & Finish,Pharmaceutical,25.1,13.4,74.2,0.0191,74.0,9.3,5.4
+Sterile Fill & Finish,Pharmaceutical,25.8,9.1,72.8,0.0187,67.4,12.3,5.47
+Sterile Fill & Finish,Pharmaceutical,24.2,18.4,70.7,0.0187,68.3,8.9,5.55
+Sterile Fill & Finish,Pharmaceutical,24.3,6.9,69.9,0.0208,73.8,10.3,5.62
+Sterile Fill & Finish,Pharmaceutical,24.1,11.8,71.4,0.0139,67.5,13.7,5.7
+Sterile Fill & Finish,Pharmaceutical,21.2,8.4,71.4,0.0191,67.9,14.4,5.78
+Sterile Fill & Finish,Pharmaceutical,21.3,12.3,70.5,0.0173,72.0,14.6,5.85
+Sterile Fill & Finish,Pharmaceutical,20.7,11.0,68.1,0.0259,68.6,8.4,5.93
+Sterile Fill & Finish,Pharmaceutical,21.1,13.8,70.3,0.0301,70.0,13.9,6.0
+Sterile Fill & Finish,Pharmaceutical,22.7,14.6,69.1,0.0218,69.6,13.9,6.07
+Sterile Fill & Finish,Pharmaceutical,21.5,11.8,68.5,0.0184,69.4,17.4,6.15
+Sterile Fill & Finish,Pharmaceutical,19.9,13.0,69.9,0.0115,73.1,14.6,6.23
+Sterile Fill & Finish,Pharmaceutical,20.4,13.6,71.2,0.0184,71.4,14.4,6.3
+Sterile Fill & Finish,Pharmaceutical,21.3,11.5,69.3,0.0235,70.5,9.7,6.38
+Sterile Fill & Finish,Pharmaceutical,22.2,11.9,67.7,0.0228,68.3,13.5,6.45
+Sterile Fill & Finish,Pharmaceutical,18.7,16.4,68.2,0.0166,71.7,8.4,6.52
+Sterile Fill & Finish,Pharmaceutical,20.5,12.4,67.6,0.0208,72.8,15.5,6.6
+Sterile Fill & Finish,Pharmaceutical,20.5,9.1,65.2,0.023,69.8,16.3,6.68
+Sterile Fill & Finish,Pharmaceutical,19.6,16.4,67.4,0.0168,69.5,14.6,6.75
+Sterile Fill & Finish,Pharmaceutical,19.4,9.1,68.0,0.0229,70.0,7.9,6.82
+Sterile Fill & Finish,Pharmaceutical,20.5,11.7,70.4,0.0249,69.0,12.8,6.9
+Sterile Fill & Finish,Pharmaceutical,18.5,13.8,66.7,0.0234,68.7,10.0,6.98
+Sterile Fill & Finish,Pharmaceutical,18.5,11.1,69.4,0.0111,72.5,10.8,7.05
+Sterile Fill & Finish,Pharmaceutical,18.0,12.1,67.9,0.0177,76.8,10.5,7.12
+Sterile Fill & Finish,Pharmaceutical,18.3,8.3,66.7,0.0323,69.2,14.7,7.2
+Sterile Fill & Finish,Pharmaceutical,18.2,8.9,66.3,0.0226,67.5,15.1,7.27
+Sterile Fill & Finish,Pharmaceutical,18.2,13.2,66.7,0.0164,69.4,8.1,7.35
+Sterile Fill & Finish,Pharmaceutical,18.0,8.6,66.1,0.0164,71.0,9.8,7.43
+Sterile Fill & Finish,Pharmaceutical,18.0,7.3,67.2,0.0105,73.3,14.1,7.5
+Sterile Fill & Finish,Pharmaceutical,18.0,6.0,65.6,0.0112,71.9,12.4,7.57
+Sterile Fill & Finish,Pharmaceutical,18.0,9.7,67.7,0.0216,69.4,8.2,7.65
+Sterile Fill & Finish,Pharmaceutical,18.0,10.2,65.9,0.0138,71.7,10.2,7.73
+Sterile Fill & Finish,Pharmaceutical,18.0,6.3,69.0,0.0164,68.7,11.0,7.8
+Sterile Fill & Finish,Pharmaceutical,18.0,5.9,65.0,0.0224,71.5,7.5,7.88
+Sterile Fill & Finish,Pharmaceutical,18.0,11.0,64.4,0.0116,68.5,9.9,7.95
+Sterile Fill & Finish,Pharmaceutical,18.0,9.5,67.0,0.0206,66.8,9.9,8.02
+Sterile Fill & Finish,Pharmaceutical,18.0,7.6,64.4,0.0172,68.8,11.2,8.1
+Sterile Fill & Finish,Pharmaceutical,18.0,7.6,66.5,0.016,69.7,7.0,8.18
+Sterile Fill & Finish,Pharmaceutical,18.7,4.2,63.7,0.0214,70.0,8.0,8.25
+Sterile Fill & Finish,Pharmaceutical,18.0,7.2,65.5,0.0251,68.0,7.7,8.32
+Sterile Fill & Finish,Pharmaceutical,18.0,10.6,63.3,0.0263,67.7,13.6,8.4
+Sterile Fill & Finish,Pharmaceutical,18.0,2.1,64.9,0.0257,72.9,7.3,8.48
+Sterile Fill & Finish,Pharmaceutical,18.0,0.0,67.1,0.0179,71.7,10.7,8.55
+Sterile Fill & Finish,Pharmaceutical,18.0,8.8,66.2,0.0182,67.6,6.5,8.62
+Sterile Fill & Finish,Pharmaceutical,18.0,1.3,64.1,0.0129,71.6,8.3,8.7
+Sterile Fill & Finish,Pharmaceutical,18.0,0.0,63.3,0.0173,69.5,11.7,8.77
+Sterile Fill & Finish,Pharmaceutical,18.0,4.1,65.0,0.0206,71.9,7.3,8.85
+Sterile Fill & Finish,Pharmaceutical,18.0,3.5,65.3,0.0152,70.9,11.2,8.93
+Sterile Fill & Finish,Pharmaceutical,18.0,8.5,65.1,0.0145,68.8,10.5,9.0
+Sterile Fill & Finish,Pharmaceutical,18.0,0.0,65.0,0.0125,71.7,5.0,9.07
+Sterile Fill & Finish,Pharmaceutical,18.0,0.0,65.2,0.0214,70.6,8.4,9.15
+Sterile Fill & Finish,Pharmaceutical,18.0,2.9,67.8,0.0253,68.1,9.5,9.23
+Sterile Fill & Finish,Pharmaceutical,18.0,3.7,67.0,0.0224,73.1,12.8,9.3
+Sterile Fill & Finish,Pharmaceutical,18.0,5.2,67.0,0.0197,67.5,5.0,9.38
+Sterile Fill & Finish,Pharmaceutical,18.0,4.1,63.6,0.0233,67.1,8.9,9.45
+Sterile Fill & Finish,Pharmaceutical,18.0,2.2,68.4,0.0063,68.2,8.4,9.52
+Sterile Fill & Finish,Pharmaceutical,18.0,7.2,64.6,0.0267,67.2,7.4,9.6
+Sterile Fill & Finish,Pharmaceutical,18.0,5.5,66.8,0.0147,73.5,7.2,9.68
+Sterile Fill & Finish,Pharmaceutical,18.0,0.0,64.8,0.0247,72.3,6.1,9.75
+Sterile Fill & Finish,Pharmaceutical,18.0,5.0,63.9,0.0158,70.5,7.2,9.82
+Sterile Fill & Finish,Pharmaceutical,18.0,2.5,64.4,0.0126,71.3,8.3,9.9
+Sterile Fill & Finish,Pharmaceutical,18.0,6.1,67.4,0.0127,72.2,11.3,9.98
+Sterile Fill & Finish,Pharmaceutical,18.0,7.2,64.7,0.0097,72.0,9.8,10.05
+Sterile Fill & Finish,Pharmaceutical,18.0,9.8,68.6,0.0198,71.0,12.1,10.12
+Sterile Fill & Finish,Pharmaceutical,18.0,5.2,69.6,0.0188,71.0,9.5,10.2
+Sterile Fill & Finish,Pharmaceutical,18.0,6.9,67.6,0.0207,72.4,8.7,10.27
+Sterile Fill & Finish,Pharmaceutical,18.0,7.6,68.2,0.0056,71.0,11.6,10.35
+Sterile Fill & Finish,Pharmaceutical,18.0,3.1,66.3,0.0159,72.0,12.5,10.43
+Sterile Fill & Finish,Pharmaceutical,19.1,10.0,66.6,0.0252,70.3,9.9,10.5
+Sterile Fill & Finish,Pharmaceutical,18.0,6.9,68.0,0.0086,69.4,9.0,10.57
+Sterile Fill & Finish,Pharmaceutical,18.0,6.7,67.0,0.0184,71.2,10.2,10.65
+Sterile Fill & Finish,Pharmaceutical,20.0,7.0,67.4,0.0179,73.6,9.8,10.73
+Sterile Fill & Finish,Pharmaceutical,18.0,6.6,66.3,0.0202,67.7,10.9,10.8
+Sterile Fill & Finish,Pharmaceutical,19.2,7.8,67.5,0.0203,72.2,14.3,10.88
+Sterile Fill & Finish,Pharmaceutical,19.4,7.8,66.6,0.0167,71.3,13.2,10.95
+Sterile Fill & Finish,Pharmaceutical,18.0,9.5,67.8,0.0191,71.4,13.9,11.02
+Sterile Fill & Finish,Pharmaceutical,18.0,9.5,68.2,0.0196,71.6,14.0,11.1
+Sterile Fill & Finish,Pharmaceutical,18.5,10.2,72.7,0.0197,68.5,13.4,11.18
+Sterile Fill & Finish,Pharmaceutical,18.9,10.5,69.0,0.0256,67.8,14.9,11.25
+Sterile Fill & Finish,Pharmaceutical,19.9,11.4,69.8,0.0142,71.3,15.5,11.32
+Sterile Fill & Finish,Pharmaceutical,22.6,9.6,68.7,0.0238,71.4,14.5,11.4
+Sterile Fill & Finish,Pharmaceutical,19.0,9.0,69.5,0.0223,68.3,12.9,11.48
+Sterile Fill & Finish,Pharmaceutical,22.6,8.4,70.7,0.0127,71.3,13.8,11.55
+Sterile Fill & Finish,Pharmaceutical,21.3,10.5,69.3,0.0189,71.7,14.2,11.62
+Sterile Fill & Finish,Pharmaceutical,18.8,11.6,68.5,0.0197,67.3,14.1,11.7
+Sterile Fill & Finish,Pharmaceutical,21.8,14.2,68.2,0.0115,68.7,16.5,11.77
+Sterile Fill & Finish,Pharmaceutical,20.8,14.1,70.3,0.0248,74.2,12.2,11.85
+Sterile Fill & Finish,Pharmaceutical,20.6,16.1,68.9,0.015,69.6,17.4,11.93
+Cytotoxic Drug Lab,Pharmaceutical,46.8,83.2,75.0,0.2719,102.0,11.9,0.0
+Cytotoxic Drug Lab,Pharmaceutical,47.7,79.8,74.3,0.2723,105.6,15.0,0.08
+Cytotoxic Drug Lab,Pharmaceutical,50.5,85.2,74.4,0.2714,106.8,11.5,0.15
+Cytotoxic Drug Lab,Pharmaceutical,51.2,77.8,70.3,0.2748,106.7,11.1,0.22
+Cytotoxic Drug Lab,Pharmaceutical,54.2,77.4,75.0,0.2596,105.9,10.6,0.3
+Cytotoxic Drug Lab,Pharmaceutical,57.3,86.5,76.6,0.2815,106.8,12.2,0.38
+Cytotoxic Drug Lab,Pharmaceutical,56.8,81.7,76.8,0.2789,106.1,13.1,0.45
+Cytotoxic Drug Lab,Pharmaceutical,60.9,81.8,73.7,0.2719,105.4,10.8,0.52
+Cytotoxic Drug Lab,Pharmaceutical,64.2,79.8,76.0,0.2683,103.0,11.6,0.6
+Cytotoxic Drug Lab,Pharmaceutical,66.0,77.2,76.9,0.2724,105.7,14.6,0.68
+Cytotoxic Drug Lab,Pharmaceutical,67.9,79.0,75.2,0.2774,104.8,14.6,0.75
+Cytotoxic Drug Lab,Pharmaceutical,71.0,73.2,72.2,0.2764,107.1,13.8,0.83
+Cytotoxic Drug Lab,Pharmaceutical,71.7,75.9,75.4,0.2741,108.8,10.7,0.9
+Cytotoxic Drug Lab,Pharmaceutical,73.2,72.0,78.2,0.2688,104.3,12.9,0.98
+Cytotoxic Drug Lab,Pharmaceutical,77.3,69.4,77.0,0.2729,109.2,12.1,1.05
+Cytotoxic Drug Lab,Pharmaceutical,79.0,63.6,74.6,0.2835,109.4,11.0,1.12
+Cytotoxic Drug Lab,Pharmaceutical,80.5,59.5,75.4,0.2882,111.1,14.1,1.2
+Cytotoxic Drug Lab,Pharmaceutical,84.0,62.2,74.5,0.2829,110.2,15.3,1.27
+Cytotoxic Drug Lab,Pharmaceutical,83.2,54.9,75.0,0.2813,105.3,11.9,1.35
+Cytotoxic Drug Lab,Pharmaceutical,85.4,52.5,77.1,0.2848,111.3,17.2,1.42
+Cytotoxic Drug Lab,Pharmaceutical,86.7,48.5,78.3,0.2883,105.6,13.9,1.5
+Cytotoxic Drug Lab,Pharmaceutical,89.4,39.4,79.1,0.2815,108.5,14.2,1.58
+Cytotoxic Drug Lab,Pharmaceutical,91.6,35.7,77.8,0.2844,107.0,15.7,1.65
+Cytotoxic Drug Lab,Pharmaceutical,91.0,35.6,76.7,0.2813,108.3,11.0,1.72
+Cytotoxic Drug Lab,Pharmaceutical,92.0,24.7,79.5,0.2939,109.0,15.4,1.8
+Cytotoxic Drug Lab,Pharmaceutical,92.0,26.0,79.1,0.2862,108.1,13.4,1.88
+Cytotoxic Drug Lab,Pharmaceutical,92.0,20.1,79.4,0.2861,108.3,9.0,1.95
+Cytotoxic Drug Lab,Pharmaceutical,92.0,13.7,79.7,0.2783,109.7,14.7,2.03
+Cytotoxic Drug Lab,Pharmaceutical,92.0,8.2,78.6,0.2906,110.5,11.4,2.1
+Cytotoxic Drug Lab,Pharmaceutical,92.0,7.1,76.9,0.2817,106.9,13.1,2.17
+Cytotoxic Drug Lab,Pharmaceutical,92.0,5.3,78.8,0.2793,108.4,14.2,2.25
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.2,77.3,0.2843,105.9,14.3,2.33
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,81.3,0.2964,107.6,14.2,2.4
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,77.9,0.2933,109.7,15.6,2.47
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,78.7,0.2843,109.5,16.6,2.55
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,75.8,0.2931,108.6,11.9,2.62
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,78.7,0.2902,110.6,10.1,2.7
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,81.7,0.2984,104.5,16.6,2.78
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,79.2,0.2802,107.2,13.2,2.85
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,78.8,0.2911,107.3,11.9,2.92
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,78.9,0.2953,109.9,16.7,3.0
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,79.5,0.288,108.9,20.4,3.07
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,77.5,0.2874,107.9,12.9,3.15
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,80.1,0.2962,104.9,13.0,3.22
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,78.8,0.286,112.1,9.2,3.3
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,78.5,0.2882,103.8,16.2,3.38
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,78.9,0.2881,108.3,13.4,3.45
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,79.2,0.2876,110.9,13.1,3.53
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,80.8,0.2928,108.2,20.3,3.6
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,78.3,0.2867,108.4,17.0,3.68
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,78.7,0.274,108.2,16.5,3.75
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,77.7,0.2808,107.4,15.5,3.82
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,79.0,0.2794,110.7,15.6,3.9
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,77.6,0.2903,110.2,19.9,3.97
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,75.8,0.2841,108.3,23.7,4.05
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,78.2,0.2851,107.4,18.1,4.12
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,78.8,0.2804,107.2,20.6,4.2
+Cytotoxic Drug Lab,Pharmaceutical,92.0,0.0,79.2,0.2832,108.1,19.9,4.28
+Cytotoxic Drug Lab,Pharmaceutical,92.0,4.8,79.0,0.2751,106.0,17.6,4.35
+Cytotoxic Drug Lab,Pharmaceutical,87.7,3.2,77.6,0.2795,105.0,20.4,4.43
+Cytotoxic Drug Lab,Pharmaceutical,86.5,6.8,77.6,0.2824,106.8,19.7,4.5
+Cytotoxic Drug Lab,Pharmaceutical,82.8,11.2,76.5,0.275,110.5,16.7,4.57
+Cytotoxic Drug Lab,Pharmaceutical,83.6,17.5,76.0,0.2777,110.6,22.3,4.65
+Cytotoxic Drug Lab,Pharmaceutical,81.2,23.0,77.5,0.2778,103.9,24.4,4.72
+Cytotoxic Drug Lab,Pharmaceutical,79.2,24.6,78.1,0.2725,108.6,25.7,4.8
+Cytotoxic Drug Lab,Pharmaceutical,77.7,28.6,77.6,0.2647,107.9,21.5,4.88
+Cytotoxic Drug Lab,Pharmaceutical,75.8,34.8,76.5,0.2726,108.0,22.5,4.95
+Cytotoxic Drug Lab,Pharmaceutical,73.1,43.6,74.8,0.2872,108.9,23.3,5.03
+Cytotoxic Drug Lab,Pharmaceutical,72.8,39.2,77.0,0.275,109.2,21.3,5.1
+Cytotoxic Drug Lab,Pharmaceutical,68.5,45.7,76.3,0.2859,105.9,26.1,5.18
+Cytotoxic Drug Lab,Pharmaceutical,67.8,57.3,76.7,0.2768,105.1,24.5,5.25
+Cytotoxic Drug Lab,Pharmaceutical,65.5,56.9,75.1,0.2672,105.2,30.2,5.32
+Cytotoxic Drug Lab,Pharmaceutical,61.9,57.6,74.1,0.276,104.4,25.9,5.4
+Cytotoxic Drug Lab,Pharmaceutical,61.3,60.7,75.8,0.2649,105.9,26.3,5.47
+Cytotoxic Drug Lab,Pharmaceutical,58.8,63.7,74.4,0.2709,107.4,26.5,5.55
+Cytotoxic Drug Lab,Pharmaceutical,55.8,69.2,72.9,0.2796,105.3,27.8,5.62
+Cytotoxic Drug Lab,Pharmaceutical,55.1,77.6,75.2,0.2786,103.9,31.6,5.7
+Cytotoxic Drug Lab,Pharmaceutical,50.2,78.3,75.8,0.2688,106.0,29.9,5.78
+Cytotoxic Drug Lab,Pharmaceutical,48.6,76.3,75.2,0.2765,107.6,26.9,5.85
+Cytotoxic Drug Lab,Pharmaceutical,47.1,84.4,73.8,0.2778,104.4,29.6,5.93
+Cytotoxic Drug Lab,Pharmaceutical,42.6,81.6,72.2,0.2741,105.2,28.1,6.0
+Cytotoxic Drug Lab,Pharmaceutical,41.7,79.7,74.3,0.27,102.0,31.2,6.07
+Cytotoxic Drug Lab,Pharmaceutical,39.1,81.5,74.2,0.2629,106.3,27.0,6.15
+Cytotoxic Drug Lab,Pharmaceutical,36.2,84.4,71.6,0.2616,102.8,29.6,6.23
+Cytotoxic Drug Lab,Pharmaceutical,35.1,78.7,71.1,0.258,107.1,29.2,6.3
+Cytotoxic Drug Lab,Pharmaceutical,32.2,84.2,74.4,0.2742,105.5,31.6,6.38
+Cytotoxic Drug Lab,Pharmaceutical,29.3,81.9,71.7,0.268,106.1,30.8,6.45
+Cytotoxic Drug Lab,Pharmaceutical,29.0,88.1,73.3,0.255,103.6,30.3,6.52
+Cytotoxic Drug Lab,Pharmaceutical,25.7,76.7,71.7,0.2679,108.3,30.9,6.6
+Cytotoxic Drug Lab,Pharmaceutical,22.2,77.4,75.6,0.2563,103.8,27.2,6.68
+Cytotoxic Drug Lab,Pharmaceutical,24.3,76.9,73.4,0.2633,108.7,32.2,6.75
+Cytotoxic Drug Lab,Pharmaceutical,19.2,74.0,72.0,0.2523,105.2,31.3,6.82
+Cytotoxic Drug Lab,Pharmaceutical,18.0,73.7,72.4,0.2657,101.4,32.9,6.9
+Cytotoxic Drug Lab,Pharmaceutical,18.0,68.0,72.5,0.2656,100.3,31.4,6.98
+Cytotoxic Drug Lab,Pharmaceutical,18.0,64.9,71.6,0.2691,101.7,31.9,7.05
+Cytotoxic Drug Lab,Pharmaceutical,18.0,64.8,71.8,0.2644,101.3,31.2,7.12
+Cytotoxic Drug Lab,Pharmaceutical,18.0,60.7,73.5,0.2506,101.9,30.7,7.2
+Cytotoxic Drug Lab,Pharmaceutical,18.0,58.6,70.3,0.2649,102.9,31.7,7.27
+Cytotoxic Drug Lab,Pharmaceutical,18.0,47.4,70.9,0.261,102.7,32.2,7.35
+Cytotoxic Drug Lab,Pharmaceutical,18.0,51.4,71.4,0.2651,103.8,32.3,7.43
+Cytotoxic Drug Lab,Pharmaceutical,18.0,48.2,70.1,0.2566,103.4,30.7,7.5
+Cytotoxic Drug Lab,Pharmaceutical,18.0,41.6,70.1,0.2564,102.9,28.6,7.57
+Cytotoxic Drug Lab,Pharmaceutical,18.0,35.7,68.5,0.2626,103.1,32.3,7.65
+Cytotoxic Drug Lab,Pharmaceutical,18.0,33.7,70.7,0.2553,102.9,32.0,7.73
+Cytotoxic Drug Lab,Pharmaceutical,18.0,28.6,72.2,0.2575,93.9,33.5,7.8
+Cytotoxic Drug Lab,Pharmaceutical,18.0,18.5,70.6,0.2549,104.1,27.5,7.88
+Cytotoxic Drug Lab,Pharmaceutical,18.0,12.9,71.9,0.2482,103.9,31.9,7.95
+Cytotoxic Drug Lab,Pharmaceutical,18.0,16.1,69.8,0.2521,99.4,26.2,8.02
+Cytotoxic Drug Lab,Pharmaceutical,18.0,9.0,72.6,0.2537,102.4,32.4,8.1
+Cytotoxic Drug Lab,Pharmaceutical,18.0,8.9,71.2,0.2598,100.2,32.4,8.18
+Cytotoxic Drug Lab,Pharmaceutical,18.0,3.9,67.7,0.2546,102.5,28.6,8.25
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,69.9,0.2559,102.0,30.4,8.32
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,69.0,0.2567,99.1,32.7,8.4
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,68.9,0.2577,101.9,29.9,8.48
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,68.0,0.2568,100.5,31.0,8.55
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,69.0,0.252,98.1,32.4,8.62
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,73.0,0.2519,97.0,32.0,8.7
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,70.0,0.2534,104.4,29.2,8.77
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,68.2,0.2621,103.7,31.1,8.85
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,67.8,0.2504,101.2,32.9,8.93
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,68.2,0.2498,103.0,34.3,9.0
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,67.0,0.2571,99.5,34.4,9.07
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,68.7,0.2478,102.9,32.1,9.15
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,74.1,0.2601,101.5,32.6,9.23
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,69.2,0.2621,104.8,31.5,9.3
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,68.1,0.2638,101.1,33.0,9.38
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,70.2,0.25,103.1,35.5,9.45
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,67.3,0.2565,101.0,33.6,9.52
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,68.9,0.2608,103.9,34.1,9.6
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,72.4,0.2549,106.0,34.1,9.68
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,67.9,0.2588,102.0,36.4,9.75
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,71.5,0.2614,102.2,37.6,9.82
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,68.6,0.2664,100.4,31.6,9.9
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,69.9,0.2577,103.5,31.1,9.98
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,71.7,0.2523,104.3,41.1,10.05
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,70.0,0.2622,103.2,36.6,10.12
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,68.5,0.2636,102.1,36.1,10.2
+Cytotoxic Drug Lab,Pharmaceutical,18.0,0.0,71.0,0.2589,103.5,35.3,10.27
+Cytotoxic Drug Lab,Pharmaceutical,18.0,2.9,70.7,0.2724,103.6,37.0,10.35
+Cytotoxic Drug Lab,Pharmaceutical,18.0,1.0,71.4,0.2485,102.5,40.4,10.43
+Cytotoxic Drug Lab,Pharmaceutical,18.0,7.6,72.4,0.2583,103.0,35.0,10.5
+Cytotoxic Drug Lab,Pharmaceutical,18.0,13.6,71.0,0.2586,100.4,37.3,10.57
+Cytotoxic Drug Lab,Pharmaceutical,18.0,17.7,70.4,0.2583,102.7,42.2,10.65
+Cytotoxic Drug Lab,Pharmaceutical,18.0,29.5,71.4,0.2583,108.3,38.9,10.73
+Cytotoxic Drug Lab,Pharmaceutical,18.0,29.3,72.5,0.26,104.4,43.1,10.8
+Cytotoxic Drug Lab,Pharmaceutical,18.0,31.5,70.4,0.2609,104.1,40.3,10.88
+Cytotoxic Drug Lab,Pharmaceutical,18.0,36.4,71.4,0.2604,102.9,42.9,10.95
+Cytotoxic Drug Lab,Pharmaceutical,18.0,40.1,71.8,0.255,99.7,42.3,11.02
+Cytotoxic Drug Lab,Pharmaceutical,20.2,44.5,73.7,0.2699,105.7,45.1,11.1
+Cytotoxic Drug Lab,Pharmaceutical,21.6,51.4,71.3,0.2564,103.1,44.4,11.18
+Cytotoxic Drug Lab,Pharmaceutical,21.3,52.7,70.5,0.2607,101.4,47.4,11.25
+Cytotoxic Drug Lab,Pharmaceutical,25.9,54.4,73.3,0.2569,103.9,43.6,11.32
+Cytotoxic Drug Lab,Pharmaceutical,29.4,64.0,69.5,0.2598,102.0,43.4,11.4
+Cytotoxic Drug Lab,Pharmaceutical,28.6,61.6,70.1,0.2728,104.5,44.5,11.48
+Cytotoxic Drug Lab,Pharmaceutical,33.8,73.5,70.5,0.2676,106.5,45.3,11.55
+Cytotoxic Drug Lab,Pharmaceutical,36.0,73.1,74.4,0.2705,99.8,44.9,11.62
+Cytotoxic Drug Lab,Pharmaceutical,37.9,75.0,74.2,0.2583,105.0,45.8,11.7
+Cytotoxic Drug Lab,Pharmaceutical,39.7,76.2,74.3,0.2799,104.6,46.4,11.77
+Cytotoxic Drug Lab,Pharmaceutical,43.3,80.3,73.0,0.2636,107.2,46.3,11.85
+Cytotoxic Drug Lab,Pharmaceutical,45.0,81.7,73.9,0.2722,107.2,44.6,11.93
+Fermentation Suite,Pharmaceutical,35.2,30.2,70.3,0.0288,71.0,13.2,0.0
+Fermentation Suite,Pharmaceutical,34.5,31.0,69.5,0.0299,68.9,7.8,0.08
+Fermentation Suite,Pharmaceutical,35.5,32.8,75.1,0.033,71.9,12.8,0.15
+Fermentation Suite,Pharmaceutical,37.0,33.9,71.3,0.0251,72.6,9.2,0.22
+Fermentation Suite,Pharmaceutical,34.7,30.9,71.2,0.0296,73.0,9.7,0.3
+Fermentation Suite,Pharmaceutical,37.1,29.5,69.5,0.0211,75.8,11.7,0.38
+Fermentation Suite,Pharmaceutical,37.0,26.8,69.1,0.0441,72.3,11.2,0.45
+Fermentation Suite,Pharmaceutical,38.2,34.2,70.6,0.0282,72.8,9.0,0.52
+Fermentation Suite,Pharmaceutical,36.6,27.5,72.8,0.0261,73.9,12.2,0.6
+Fermentation Suite,Pharmaceutical,38.1,24.9,72.2,0.0352,71.9,14.6,0.68
+Fermentation Suite,Pharmaceutical,38.8,28.8,73.9,0.0262,70.3,10.9,0.75
+Fermentation Suite,Pharmaceutical,42.3,27.5,73.8,0.0411,72.0,11.5,0.83
+Fermentation Suite,Pharmaceutical,40.0,32.5,72.1,0.0356,76.3,11.5,0.9
+Fermentation Suite,Pharmaceutical,39.3,26.5,70.2,0.0297,73.9,14.1,0.98
+Fermentation Suite,Pharmaceutical,40.7,24.5,72.0,0.0358,78.3,8.6,1.05
+Fermentation Suite,Pharmaceutical,40.4,25.0,71.7,0.03,76.8,6.0,1.12
+Fermentation Suite,Pharmaceutical,41.1,27.9,72.7,0.022,72.9,8.9,1.2
+Fermentation Suite,Pharmaceutical,41.9,24.5,74.7,0.0357,70.5,13.5,1.27
+Fermentation Suite,Pharmaceutical,41.8,26.9,73.2,0.0259,73.6,13.9,1.35
+Fermentation Suite,Pharmaceutical,41.0,25.6,73.1,0.0322,74.5,8.9,1.42
+Fermentation Suite,Pharmaceutical,40.4,25.4,72.8,0.0311,73.4,12.8,1.5
+Fermentation Suite,Pharmaceutical,42.3,24.9,75.4,0.0413,74.0,8.9,1.58
+Fermentation Suite,Pharmaceutical,43.2,21.0,76.3,0.0266,73.1,9.9,1.65
+Fermentation Suite,Pharmaceutical,42.9,20.6,74.1,0.0314,76.5,6.3,1.72
+Fermentation Suite,Pharmaceutical,43.9,16.3,75.5,0.0288,70.8,10.3,1.8
+Fermentation Suite,Pharmaceutical,42.3,18.9,72.2,0.0277,74.3,5.6,1.88
+Fermentation Suite,Pharmaceutical,43.6,19.6,73.8,0.0322,71.9,6.9,1.95
+Fermentation Suite,Pharmaceutical,45.5,19.4,73.4,0.0347,71.7,10.0,2.03
+Fermentation Suite,Pharmaceutical,44.5,21.6,74.6,0.0259,74.4,8.3,2.1
+Fermentation Suite,Pharmaceutical,45.0,16.4,75.5,0.0409,72.0,11.3,2.17
+Fermentation Suite,Pharmaceutical,44.8,12.2,78.0,0.037,77.5,8.0,2.25
+Fermentation Suite,Pharmaceutical,46.7,13.8,73.5,0.0244,72.7,6.9,2.33
+Fermentation Suite,Pharmaceutical,44.9,14.5,74.8,0.0332,74.1,6.7,2.4
+Fermentation Suite,Pharmaceutical,44.6,9.8,78.4,0.0314,72.1,5.4,2.47
+Fermentation Suite,Pharmaceutical,44.8,8.9,75.3,0.0303,73.9,6.8,2.55
+Fermentation Suite,Pharmaceutical,42.7,8.5,76.2,0.039,70.9,6.4,2.62
+Fermentation Suite,Pharmaceutical,46.6,13.2,75.7,0.0317,76.4,6.3,2.7
+Fermentation Suite,Pharmaceutical,44.0,9.4,75.1,0.0426,74.7,7.4,2.78
+Fermentation Suite,Pharmaceutical,46.6,9.6,75.8,0.0396,75.2,8.0,2.85
+Fermentation Suite,Pharmaceutical,44.8,5.6,75.6,0.0331,70.5,6.3,2.92
+Fermentation Suite,Pharmaceutical,45.9,7.9,76.6,0.0429,76.4,5.0,3.0
+Fermentation Suite,Pharmaceutical,46.4,7.4,76.3,0.0394,71.9,5.8,3.07
+Fermentation Suite,Pharmaceutical,47.1,8.2,72.6,0.0274,75.6,5.4,3.15
+Fermentation Suite,Pharmaceutical,45.1,7.2,76.9,0.0308,72.5,5.2,3.22
+Fermentation Suite,Pharmaceutical,44.4,6.0,73.0,0.0251,72.2,9.6,3.3
+Fermentation Suite,Pharmaceutical,46.7,7.1,72.7,0.0281,73.9,6.1,3.38
+Fermentation Suite,Pharmaceutical,46.6,7.0,76.8,0.035,72.8,8.2,3.45
+Fermentation Suite,Pharmaceutical,46.1,8.9,73.8,0.0328,71.5,5.0,3.53
+Fermentation Suite,Pharmaceutical,44.5,9.2,74.5,0.0399,73.9,6.7,3.6
+Fermentation Suite,Pharmaceutical,44.0,14.1,78.5,0.0364,76.0,11.0,3.68
+Fermentation Suite,Pharmaceutical,43.3,11.4,72.8,0.0216,70.2,6.8,3.75
+Fermentation Suite,Pharmaceutical,42.1,8.8,73.6,0.0347,75.7,8.4,3.82
+Fermentation Suite,Pharmaceutical,44.4,9.5,72.7,0.0292,71.1,5.5,3.9
+Fermentation Suite,Pharmaceutical,44.8,10.4,75.4,0.0372,74.0,5.8,3.97
+Fermentation Suite,Pharmaceutical,41.1,9.5,78.0,0.0338,73.9,8.0,4.05
+Fermentation Suite,Pharmaceutical,41.0,17.9,77.2,0.0326,76.0,9.6,4.12
+Fermentation Suite,Pharmaceutical,41.1,8.4,75.1,0.0344,71.7,9.7,4.2
+Fermentation Suite,Pharmaceutical,42.8,12.3,73.8,0.0362,72.9,6.0,4.28
+Fermentation Suite,Pharmaceutical,41.3,14.3,73.8,0.0253,69.5,9.4,4.35
+Fermentation Suite,Pharmaceutical,41.4,14.6,74.2,0.0322,71.8,6.8,4.43
+Fermentation Suite,Pharmaceutical,41.8,13.1,77.2,0.0279,75.3,9.7,4.5
+Fermentation Suite,Pharmaceutical,43.0,15.8,70.9,0.032,71.9,5.1,4.57
+Fermentation Suite,Pharmaceutical,42.9,22.4,75.5,0.0354,68.7,8.7,4.65
+Fermentation Suite,Pharmaceutical,42.2,18.6,73.4,0.0331,72.3,9.7,4.72
+Fermentation Suite,Pharmaceutical,38.8,23.2,73.8,0.029,75.1,9.6,4.8
+Fermentation Suite,Pharmaceutical,38.9,24.4,72.4,0.0295,76.0,8.9,4.88
+Fermentation Suite,Pharmaceutical,41.1,22.5,73.4,0.0386,71.8,13.4,4.95
+Fermentation Suite,Pharmaceutical,40.2,19.8,74.7,0.0224,73.0,8.1,5.03
+Fermentation Suite,Pharmaceutical,40.0,26.1,72.5,0.0305,71.9,10.5,5.1
+Fermentation Suite,Pharmaceutical,39.2,23.9,70.4,0.0236,72.8,9.9,5.18
+Fermentation Suite,Pharmaceutical,34.7,26.5,73.0,0.0287,74.8,11.9,5.25
+Fermentation Suite,Pharmaceutical,39.5,28.1,70.2,0.029,74.9,13.3,5.32
+Fermentation Suite,Pharmaceutical,40.2,31.9,70.2,0.0274,75.0,11.9,5.4
+Fermentation Suite,Pharmaceutical,37.2,24.9,71.9,0.0288,75.8,9.3,5.47
+Fermentation Suite,Pharmaceutical,37.5,32.5,72.5,0.0328,73.2,12.3,5.55
+Fermentation Suite,Pharmaceutical,38.7,28.9,67.8,0.0332,76.0,11.8,5.62
+Fermentation Suite,Pharmaceutical,36.6,25.6,70.2,0.0276,72.4,13.6,5.7
+Fermentation Suite,Pharmaceutical,35.0,25.1,71.5,0.0295,71.4,11.7,5.78
+Fermentation Suite,Pharmaceutical,36.3,29.1,68.7,0.0287,73.4,13.7,5.85
+Fermentation Suite,Pharmaceutical,36.4,29.5,68.4,0.0331,72.9,14.5,5.93
+Fermentation Suite,Pharmaceutical,34.8,29.5,72.0,0.0349,72.6,13.2,6.0
+Fermentation Suite,Pharmaceutical,33.9,30.7,68.0,0.0312,71.9,12.6,6.07
+Fermentation Suite,Pharmaceutical,33.7,34.3,69.0,0.0265,75.1,14.7,6.15
+Fermentation Suite,Pharmaceutical,33.1,35.5,69.3,0.0324,71.8,14.2,6.23
+Fermentation Suite,Pharmaceutical,31.6,35.9,70.0,0.0317,74.9,10.6,6.3
+Fermentation Suite,Pharmaceutical,31.7,30.0,69.8,0.026,73.5,15.4,6.38
+Fermentation Suite,Pharmaceutical,34.2,28.9,68.9,0.03,73.4,13.8,6.45
+Fermentation Suite,Pharmaceutical,33.0,30.8,68.9,0.0296,71.0,13.6,6.52
+Fermentation Suite,Pharmaceutical,29.7,31.7,68.8,0.0355,74.9,9.8,6.6
+Fermentation Suite,Pharmaceutical,31.4,29.3,68.4,0.0321,76.0,11.4,6.68
+Fermentation Suite,Pharmaceutical,29.8,28.1,69.5,0.0263,74.1,13.6,6.75
+Fermentation Suite,Pharmaceutical,30.5,34.3,67.2,0.0279,73.5,13.1,6.82
+Fermentation Suite,Pharmaceutical,29.7,33.8,68.5,0.0233,71.2,10.6,6.9
+Fermentation Suite,Pharmaceutical,28.8,34.6,68.8,0.0301,75.7,13.9,6.98
+Fermentation Suite,Pharmaceutical,28.1,28.7,67.2,0.0227,72.3,15.2,7.05
+Fermentation Suite,Pharmaceutical,28.1,29.4,64.7,0.0274,73.6,12.2,7.12
+Fermentation Suite,Pharmaceutical,28.2,28.6,66.5,0.0287,72.7,12.4,7.2
+Fermentation Suite,Pharmaceutical,29.1,23.7,65.7,0.0273,72.0,13.3,7.27
+Fermentation Suite,Pharmaceutical,29.6,28.9,66.3,0.0157,72.7,11.8,7.35
+Fermentation Suite,Pharmaceutical,27.2,27.6,67.2,0.0248,70.6,13.9,7.43
+Fermentation Suite,Pharmaceutical,30.0,30.5,67.6,0.0234,73.1,11.7,7.5
+Fermentation Suite,Pharmaceutical,27.5,26.8,69.7,0.0291,69.5,12.7,7.57
+Fermentation Suite,Pharmaceutical,26.4,19.8,67.8,0.0261,73.7,11.8,7.65
+Fermentation Suite,Pharmaceutical,24.3,16.3,66.7,0.0184,73.9,9.8,7.73
+Fermentation Suite,Pharmaceutical,24.9,16.3,66.6,0.0272,72.1,10.5,7.8
+Fermentation Suite,Pharmaceutical,27.6,21.1,68.4,0.0279,70.2,10.5,7.88
+Fermentation Suite,Pharmaceutical,24.4,19.7,65.7,0.0243,73.6,10.3,7.95
+Fermentation Suite,Pharmaceutical,25.7,18.2,66.2,0.0372,70.9,10.7,8.02
+Fermentation Suite,Pharmaceutical,23.0,13.7,68.2,0.033,73.6,8.3,8.1
+Fermentation Suite,Pharmaceutical,23.6,14.7,66.4,0.032,74.1,15.6,8.18
+Fermentation Suite,Pharmaceutical,24.9,13.8,64.9,0.0324,71.9,8.4,8.25
+Fermentation Suite,Pharmaceutical,24.7,13.9,66.8,0.0247,76.0,10.7,8.32
+Fermentation Suite,Pharmaceutical,24.8,13.0,64.2,0.016,73.2,11.7,8.4
+Fermentation Suite,Pharmaceutical,25.5,11.8,66.0,0.0237,73.2,7.5,8.48
+Fermentation Suite,Pharmaceutical,25.3,7.8,64.7,0.0335,71.8,9.6,8.55
+Fermentation Suite,Pharmaceutical,25.4,8.1,66.9,0.0297,74.9,9.1,8.62
+Fermentation Suite,Pharmaceutical,23.9,11.6,67.0,0.0254,72.4,10.7,8.7
+Fermentation Suite,Pharmaceutical,24.7,13.5,61.9,0.0266,69.8,11.8,8.77
+Fermentation Suite,Pharmaceutical,23.8,11.2,66.7,0.0219,69.5,7.0,8.85
+Fermentation Suite,Pharmaceutical,23.7,10.4,68.0,0.021,75.7,12.3,8.93
+Fermentation Suite,Pharmaceutical,23.1,4.8,64.6,0.0318,73.5,5.0,9.0
+Fermentation Suite,Pharmaceutical,23.9,7.4,64.4,0.038,71.1,16.4,9.07
+Fermentation Suite,Pharmaceutical,24.4,9.4,63.9,0.0216,71.8,9.3,9.15
+Fermentation Suite,Pharmaceutical,26.4,9.9,65.3,0.0327,72.0,9.1,9.23
+Fermentation Suite,Pharmaceutical,24.7,6.6,64.0,0.0308,73.9,6.6,9.3
+Fermentation Suite,Pharmaceutical,25.2,7.4,62.8,0.0294,75.6,8.8,9.38
+Fermentation Suite,Pharmaceutical,27.7,6.0,64.8,0.0188,71.4,9.7,9.45
+Fermentation Suite,Pharmaceutical,25.4,12.1,61.9,0.024,72.6,9.1,9.52
+Fermentation Suite,Pharmaceutical,26.2,6.2,64.5,0.0243,70.8,12.4,9.6
+Fermentation Suite,Pharmaceutical,26.4,10.4,67.4,0.024,73.6,7.9,9.68
+Fermentation Suite,Pharmaceutical,25.4,13.9,67.2,0.0354,75.0,7.0,9.75
+Fermentation Suite,Pharmaceutical,25.9,9.4,66.7,0.0226,73.8,9.1,9.82
+Fermentation Suite,Pharmaceutical,24.5,9.1,65.8,0.0207,70.1,11.7,9.9
+Fermentation Suite,Pharmaceutical,28.2,11.7,65.9,0.0282,72.0,11.3,9.98
+Fermentation Suite,Pharmaceutical,27.8,8.7,65.6,0.0354,74.6,10.7,10.05
+Fermentation Suite,Pharmaceutical,25.3,10.5,67.2,0.0372,73.6,14.6,10.12
+Fermentation Suite,Pharmaceutical,28.5,16.2,65.6,0.026,71.9,10.6,10.2
+Fermentation Suite,Pharmaceutical,27.8,12.4,66.5,0.0211,75.3,11.9,10.27
+Fermentation Suite,Pharmaceutical,26.7,15.7,67.7,0.0285,70.1,11.7,10.35
+Fermentation Suite,Pharmaceutical,29.1,16.4,66.0,0.0325,72.6,8.3,10.43
+Fermentation Suite,Pharmaceutical,28.3,12.3,67.0,0.028,75.9,12.4,10.5
+Fermentation Suite,Pharmaceutical,26.1,16.8,67.0,0.0253,75.8,7.1,10.57
+Fermentation Suite,Pharmaceutical,29.8,18.6,68.7,0.0315,73.2,12.7,10.65
+Fermentation Suite,Pharmaceutical,28.0,17.9,66.1,0.0343,71.3,11.2,10.73
+Fermentation Suite,Pharmaceutical,29.9,19.5,68.7,0.034,73.9,11.9,10.8
+Fermentation Suite,Pharmaceutical,25.8,19.2,67.5,0.0256,74.5,13.0,10.88
+Fermentation Suite,Pharmaceutical,29.6,20.9,68.1,0.0273,72.3,13.5,10.95
+Fermentation Suite,Pharmaceutical,30.0,20.8,69.4,0.0367,77.0,12.6,11.02
+Fermentation Suite,Pharmaceutical,33.3,20.7,66.1,0.0279,75.8,10.5,11.1
+Fermentation Suite,Pharmaceutical,31.9,24.4,68.5,0.0268,73.5,12.0,11.18
+Fermentation Suite,Pharmaceutical,30.2,24.3,64.3,0.0257,72.1,10.1,11.25
+Fermentation Suite,Pharmaceutical,32.2,30.6,66.7,0.0217,71.2,14.1,11.32
+Fermentation Suite,Pharmaceutical,33.1,26.5,66.6,0.0247,75.1,13.6,11.4
+Fermentation Suite,Pharmaceutical,30.1,25.7,67.7,0.0315,75.1,20.6,11.48
+Fermentation Suite,Pharmaceutical,34.8,30.0,70.0,0.0292,71.9,15.9,11.55
+Fermentation Suite,Pharmaceutical,34.4,31.1,69.9,0.0275,72.8,16.7,11.62
+Fermentation Suite,Pharmaceutical,32.2,25.5,71.4,0.039,72.7,13.9,11.7
+Fermentation Suite,Pharmaceutical,35.5,28.0,67.5,0.0283,69.0,11.8,11.77
+Fermentation Suite,Pharmaceutical,34.3,30.4,74.1,0.029,74.5,12.8,11.85
+Fermentation Suite,Pharmaceutical,36.1,29.0,71.7,0.0338,72.0,15.4,11.93
+Solvent Storage,Pharmaceutical,38.5,208.7,69.7,0.0458,81.4,10.6,0.0
+Solvent Storage,Pharmaceutical,36.1,211.1,73.0,0.0443,80.1,11.2,0.08
+Solvent Storage,Pharmaceutical,36.0,211.2,71.7,0.0432,82.7,11.9,0.15
+Solvent Storage,Pharmaceutical,39.2,216.2,70.3,0.0522,84.6,9.7,0.22
+Solvent Storage,Pharmaceutical,40.7,216.6,73.4,0.0573,83.0,9.5,0.3
+Solvent Storage,Pharmaceutical,43.8,215.3,71.8,0.0476,86.0,13.6,0.38
+Solvent Storage,Pharmaceutical,43.4,215.6,70.0,0.0501,80.5,13.8,0.45
+Solvent Storage,Pharmaceutical,45.1,220.4,72.6,0.0439,85.9,11.0,0.52
+Solvent Storage,Pharmaceutical,43.3,214.5,72.2,0.0497,83.2,11.1,0.6
+Solvent Storage,Pharmaceutical,44.5,205.0,72.2,0.0507,83.7,13.1,0.68
+Solvent Storage,Pharmaceutical,47.3,201.9,73.7,0.0587,84.9,12.1,0.75
+Solvent Storage,Pharmaceutical,46.3,204.9,73.4,0.0412,85.7,12.2,0.83
+Solvent Storage,Pharmaceutical,48.1,190.4,74.9,0.0502,81.9,13.6,0.9
+Solvent Storage,Pharmaceutical,50.2,188.7,74.3,0.0478,88.8,11.1,0.98
+Solvent Storage,Pharmaceutical,50.2,183.7,74.5,0.0484,80.1,8.4,1.05
+Solvent Storage,Pharmaceutical,50.2,176.0,73.4,0.0457,84.7,8.0,1.12
+Solvent Storage,Pharmaceutical,51.5,173.6,73.9,0.0631,81.9,9.3,1.2
+Solvent Storage,Pharmaceutical,53.5,161.5,76.7,0.0532,87.2,9.1,1.27
+Solvent Storage,Pharmaceutical,52.8,157.1,76.8,0.0486,85.3,7.8,1.35
+Solvent Storage,Pharmaceutical,53.2,145.9,75.2,0.0552,83.3,5.7,1.42
+Solvent Storage,Pharmaceutical,54.0,137.0,76.4,0.0442,82.0,13.0,1.5
+Solvent Storage,Pharmaceutical,57.0,129.3,74.6,0.06,83.6,12.6,1.58
+Solvent Storage,Pharmaceutical,59.3,112.5,76.3,0.0548,84.7,9.4,1.65
+Solvent Storage,Pharmaceutical,57.2,105.0,74.8,0.0477,88.3,14.4,1.72
+Solvent Storage,Pharmaceutical,59.3,95.1,76.4,0.0505,87.1,7.5,1.8
+Solvent Storage,Pharmaceutical,59.8,85.4,74.8,0.0473,84.4,11.2,1.88
+Solvent Storage,Pharmaceutical,58.4,78.3,78.6,0.0551,85.8,10.9,1.95
+Solvent Storage,Pharmaceutical,61.2,67.0,74.7,0.0624,87.2,11.8,2.03
+Solvent Storage,Pharmaceutical,60.2,62.1,77.4,0.0518,85.7,8.6,2.1
+Solvent Storage,Pharmaceutical,57.8,49.9,77.6,0.0513,83.0,10.6,2.17
+Solvent Storage,Pharmaceutical,61.1,40.6,75.9,0.0554,83.8,9.3,2.25
+Solvent Storage,Pharmaceutical,60.3,30.3,77.0,0.057,82.9,7.0,2.33
+Solvent Storage,Pharmaceutical,60.1,24.8,71.8,0.0612,88.0,5.6,2.4
+Solvent Storage,Pharmaceutical,60.2,12.6,75.9,0.0585,84.4,7.8,2.47
+Solvent Storage,Pharmaceutical,63.0,4.5,74.5,0.0585,85.6,10.7,2.55
+Solvent Storage,Pharmaceutical,60.8,1.0,78.4,0.0478,83.2,11.4,2.62
+Solvent Storage,Pharmaceutical,65.0,0.0,78.2,0.0612,83.0,12.3,2.7
+Solvent Storage,Pharmaceutical,63.9,0.0,78.7,0.0578,84.4,7.1,2.78
+Solvent Storage,Pharmaceutical,63.1,0.0,75.7,0.0537,84.9,11.8,2.85
+Solvent Storage,Pharmaceutical,63.5,0.0,75.6,0.0584,83.5,9.2,2.92
+Solvent Storage,Pharmaceutical,62.2,0.0,79.0,0.0537,82.9,7.2,3.0
+Solvent Storage,Pharmaceutical,63.3,0.0,79.8,0.0492,84.2,9.3,3.07
+Solvent Storage,Pharmaceutical,62.2,0.0,74.2,0.0519,87.2,7.7,3.15
+Solvent Storage,Pharmaceutical,61.6,0.0,77.5,0.0553,84.3,6.2,3.22
+Solvent Storage,Pharmaceutical,63.1,0.0,77.0,0.0436,87.1,8.8,3.3
+Solvent Storage,Pharmaceutical,63.8,0.0,77.7,0.0606,86.2,8.4,3.38
+Solvent Storage,Pharmaceutical,62.5,0.0,76.5,0.0583,85.1,10.6,3.45
+Solvent Storage,Pharmaceutical,62.2,0.0,74.0,0.059,85.3,13.2,3.53
+Solvent Storage,Pharmaceutical,62.5,0.0,78.8,0.053,82.8,8.3,3.6
+Solvent Storage,Pharmaceutical,60.8,0.0,78.1,0.0553,86.7,9.1,3.68
+Solvent Storage,Pharmaceutical,60.2,0.0,73.6,0.0462,84.4,5.1,3.75
+Solvent Storage,Pharmaceutical,60.0,0.0,76.7,0.0603,81.3,14.8,3.82
+Solvent Storage,Pharmaceutical,59.0,0.0,75.6,0.0587,84.0,11.8,3.9
+Solvent Storage,Pharmaceutical,59.9,0.0,74.9,0.0368,85.8,12.6,3.97
+Solvent Storage,Pharmaceutical,59.4,0.0,75.8,0.0493,81.2,7.1,4.05
+Solvent Storage,Pharmaceutical,57.7,6.7,74.4,0.0484,85.5,13.2,4.12
+Solvent Storage,Pharmaceutical,56.7,12.2,74.5,0.0582,88.3,6.6,4.2
+Solvent Storage,Pharmaceutical,56.5,20.2,74.4,0.0503,84.1,12.0,4.28
+Solvent Storage,Pharmaceutical,57.3,32.5,75.6,0.0546,83.0,11.0,4.35
+Solvent Storage,Pharmaceutical,54.6,39.8,75.2,0.0509,86.3,11.3,4.43
+Solvent Storage,Pharmaceutical,54.3,47.3,73.8,0.0576,85.4,11.7,4.5
+Solvent Storage,Pharmaceutical,54.3,60.1,75.6,0.0555,82.4,15.2,4.57
+Solvent Storage,Pharmaceutical,54.5,67.9,74.6,0.0566,86.0,14.9,4.65
+Solvent Storage,Pharmaceutical,52.6,81.7,74.3,0.052,86.9,12.8,4.72
+Solvent Storage,Pharmaceutical,52.6,88.1,77.3,0.0466,84.7,11.2,4.8
+Solvent Storage,Pharmaceutical,50.0,95.4,75.9,0.0466,81.8,15.2,4.88
+Solvent Storage,Pharmaceutical,49.1,107.7,72.0,0.0558,83.0,13.5,4.95
+Solvent Storage,Pharmaceutical,48.8,120.9,73.0,0.0456,83.5,16.8,5.03
+Solvent Storage,Pharmaceutical,48.1,127.4,75.1,0.0577,85.5,15.8,5.1
+Solvent Storage,Pharmaceutical,47.2,137.5,76.8,0.0552,86.3,14.3,5.18
+Solvent Storage,Pharmaceutical,46.3,149.6,70.9,0.0467,83.1,16.3,5.25
+Solvent Storage,Pharmaceutical,47.7,153.2,73.8,0.0473,83.7,16.3,5.32
+Solvent Storage,Pharmaceutical,44.1,161.8,73.3,0.0383,86.7,14.0,5.4
+Solvent Storage,Pharmaceutical,43.8,170.0,73.2,0.0438,87.1,19.9,5.47
+Solvent Storage,Pharmaceutical,41.8,178.4,73.7,0.0544,83.6,13.9,5.55
+Solvent Storage,Pharmaceutical,41.2,180.7,74.3,0.0531,81.5,14.8,5.62
+Solvent Storage,Pharmaceutical,39.6,194.0,70.9,0.047,85.7,14.9,5.7
+Solvent Storage,Pharmaceutical,37.1,196.6,70.2,0.057,83.6,17.0,5.78
+Solvent Storage,Pharmaceutical,37.1,203.7,69.5,0.0518,82.7,17.4,5.85
+Solvent Storage,Pharmaceutical,34.7,206.1,71.6,0.0456,83.1,20.1,5.93
+Solvent Storage,Pharmaceutical,34.6,214.0,72.4,0.0366,79.7,16.0,6.0
+Solvent Storage,Pharmaceutical,36.5,211.4,73.8,0.0563,82.4,18.7,6.07
+Solvent Storage,Pharmaceutical,34.1,212.2,71.1,0.0467,85.2,18.5,6.15
+Solvent Storage,Pharmaceutical,33.0,218.1,68.3,0.0558,79.7,21.8,6.23
+Solvent Storage,Pharmaceutical,31.3,214.4,71.0,0.0443,82.8,21.2,6.3
+Solvent Storage,Pharmaceutical,29.8,215.6,69.4,0.0468,85.7,18.8,6.38
+Solvent Storage,Pharmaceutical,27.7,217.4,71.0,0.0502,82.1,15.1,6.45
+Solvent Storage,Pharmaceutical,29.0,215.7,70.3,0.0474,82.5,21.0,6.52
+Solvent Storage,Pharmaceutical,26.8,210.1,69.8,0.0513,85.6,16.7,6.6
+Solvent Storage,Pharmaceutical,26.2,205.2,68.9,0.0453,83.0,20.1,6.68
+Solvent Storage,Pharmaceutical,25.6,203.6,66.9,0.0384,84.9,18.2,6.75
+Solvent Storage,Pharmaceutical,22.9,200.5,68.6,0.0396,82.4,14.1,6.82
+Solvent Storage,Pharmaceutical,23.8,193.5,69.8,0.0535,85.2,19.1,6.9
+Solvent Storage,Pharmaceutical,18.7,190.5,68.2,0.0402,81.7,17.6,6.98
+Solvent Storage,Pharmaceutical,22.5,181.0,69.1,0.0407,81.8,18.2,7.05
+Solvent Storage,Pharmaceutical,21.8,174.6,70.8,0.0531,79.5,17.5,7.12
+Solvent Storage,Pharmaceutical,19.1,164.7,66.7,0.0469,82.7,16.6,7.2
+Solvent Storage,Pharmaceutical,19.0,159.1,67.4,0.0495,82.3,16.7,7.27
+Solvent Storage,Pharmaceutical,18.0,143.9,69.4,0.037,86.9,19.9,7.35
+Solvent Storage,Pharmaceutical,18.0,134.9,68.2,0.0421,84.3,17.5,7.43
+Solvent Storage,Pharmaceutical,18.0,128.7,67.9,0.0434,85.7,20.2,7.5
+Solvent Storage,Pharmaceutical,18.0,117.6,69.3,0.0456,81.9,18.0,7.57
+Solvent Storage,Pharmaceutical,18.0,109.4,68.9,0.0468,84.9,17.1,7.65
+Solvent Storage,Pharmaceutical,18.0,96.9,66.5,0.0445,83.7,16.9,7.73
+Solvent Storage,Pharmaceutical,18.0,91.0,66.7,0.0414,83.7,18.2,7.8
+Solvent Storage,Pharmaceutical,18.0,82.2,66.8,0.0441,83.0,19.3,7.88
+Solvent Storage,Pharmaceutical,18.0,72.7,66.3,0.0495,83.4,16.9,7.95
+Solvent Storage,Pharmaceutical,18.0,61.9,67.0,0.0422,84.0,16.8,8.02
+Solvent Storage,Pharmaceutical,18.0,46.7,65.2,0.0393,81.8,19.4,8.1
+Solvent Storage,Pharmaceutical,18.0,43.6,66.4,0.047,82.6,18.4,8.18
+Solvent Storage,Pharmaceutical,18.0,33.7,67.1,0.0369,81.9,11.6,8.25
+Solvent Storage,Pharmaceutical,18.0,20.6,64.2,0.0442,86.5,15.2,8.32
+Solvent Storage,Pharmaceutical,18.0,12.9,66.4,0.0393,81.1,14.6,8.4
+Solvent Storage,Pharmaceutical,18.0,9.2,65.2,0.0374,86.0,15.3,8.48
+Solvent Storage,Pharmaceutical,18.0,3.5,67.8,0.0462,81.9,14.8,8.55
+Solvent Storage,Pharmaceutical,18.0,0.0,66.6,0.0505,84.6,16.3,8.62
+Solvent Storage,Pharmaceutical,18.0,0.0,66.8,0.0368,79.9,16.2,8.7
+Solvent Storage,Pharmaceutical,18.0,0.0,64.5,0.044,81.9,15.0,8.77
+Solvent Storage,Pharmaceutical,18.0,0.0,65.9,0.0388,84.9,12.0,8.85
+Solvent Storage,Pharmaceutical,18.0,0.0,65.8,0.0436,82.9,16.6,8.93
+Solvent Storage,Pharmaceutical,18.0,0.0,69.0,0.0401,83.5,14.9,9.0
+Solvent Storage,Pharmaceutical,18.0,0.0,65.0,0.0419,78.9,14.2,9.07
+Solvent Storage,Pharmaceutical,18.0,0.0,63.0,0.0444,80.4,14.1,9.15
+Solvent Storage,Pharmaceutical,18.0,0.0,66.5,0.0363,86.9,16.1,9.23
+Solvent Storage,Pharmaceutical,18.0,0.0,67.2,0.0365,81.6,14.5,9.3
+Solvent Storage,Pharmaceutical,18.0,0.0,65.9,0.045,83.7,19.1,9.38
+Solvent Storage,Pharmaceutical,18.0,0.0,67.4,0.0452,81.8,14.0,9.45
+Solvent Storage,Pharmaceutical,18.0,0.0,66.9,0.0375,83.5,17.7,9.52
+Solvent Storage,Pharmaceutical,18.0,0.0,63.0,0.04,83.7,15.3,9.6
+Solvent Storage,Pharmaceutical,18.0,0.0,68.7,0.0424,81.3,12.9,9.68
+Solvent Storage,Pharmaceutical,18.0,0.0,67.7,0.0407,79.2,19.1,9.75
+Solvent Storage,Pharmaceutical,18.0,0.0,66.6,0.0421,81.3,14.3,9.82
+Solvent Storage,Pharmaceutical,18.0,0.0,65.9,0.0521,82.5,18.3,9.9
+Solvent Storage,Pharmaceutical,18.0,0.0,69.3,0.0509,79.9,15.4,9.98
+Solvent Storage,Pharmaceutical,18.0,5.2,68.0,0.0478,86.3,16.3,10.05
+Solvent Storage,Pharmaceutical,18.0,10.4,66.7,0.0369,80.3,13.3,10.12
+Solvent Storage,Pharmaceutical,18.0,18.9,68.3,0.045,84.2,18.8,10.2
+Solvent Storage,Pharmaceutical,18.0,26.5,69.3,0.0415,80.2,20.0,10.27
+Solvent Storage,Pharmaceutical,18.0,37.3,66.6,0.0463,84.2,19.0,10.35
+Solvent Storage,Pharmaceutical,18.0,42.8,68.8,0.0441,80.7,19.5,10.43
+Solvent Storage,Pharmaceutical,18.0,54.4,70.9,0.0454,82.9,19.2,10.5
+Solvent Storage,Pharmaceutical,18.0,63.9,66.3,0.0509,85.4,19.6,10.57
+Solvent Storage,Pharmaceutical,18.0,74.7,70.6,0.0428,83.3,21.7,10.65
+Solvent Storage,Pharmaceutical,18.0,81.3,69.1,0.0481,84.9,22.5,10.73
+Solvent Storage,Pharmaceutical,20.5,92.5,70.9,0.0567,82.5,18.4,10.8
+Solvent Storage,Pharmaceutical,23.8,104.0,67.5,0.0344,83.4,24.0,10.88
+Solvent Storage,Pharmaceutical,20.8,110.5,65.7,0.0456,82.3,20.2,10.95
+Solvent Storage,Pharmaceutical,20.9,119.4,68.3,0.0413,81.1,19.7,11.02
+Solvent Storage,Pharmaceutical,23.4,133.3,69.0,0.0402,82.8,25.2,11.1
+Solvent Storage,Pharmaceutical,26.9,137.6,69.8,0.0396,83.2,22.3,11.18
+Solvent Storage,Pharmaceutical,26.1,150.2,68.8,0.0458,81.7,22.3,11.25
+Solvent Storage,Pharmaceutical,26.5,156.8,71.3,0.0392,81.6,24.3,11.32
+Solvent Storage,Pharmaceutical,30.0,168.3,70.8,0.052,77.9,23.8,11.4
+Solvent Storage,Pharmaceutical,29.8,175.6,70.4,0.0527,82.6,23.8,11.48
+Solvent Storage,Pharmaceutical,30.3,182.8,70.4,0.0454,86.8,25.6,11.55
+Solvent Storage,Pharmaceutical,32.7,189.3,70.0,0.0516,88.0,20.7,11.62
+Solvent Storage,Pharmaceutical,30.5,191.4,72.0,0.0333,83.0,26.7,11.7
+Solvent Storage,Pharmaceutical,33.4,201.9,72.3,0.0559,83.4,21.7,11.77
+Solvent Storage,Pharmaceutical,35.3,199.9,70.2,0.0451,86.1,28.1,11.85
+Solvent Storage,Pharmaceutical,36.0,213.7,74.1,0.0403,83.2,25.2,11.93
